@@ -2,8 +2,9 @@ name: MF NAV Pipeline
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "30 13 * * *"   # 7 PM IST daily
+      schedule:
+  - cron: "30 15 * * *" # 9 PM IST daily
+
 
 jobs:
   run-pipeline:
