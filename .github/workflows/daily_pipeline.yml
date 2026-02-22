@@ -1,17 +1,49 @@
-- name: Store latest NAV file in repo
-  run: |
-    mkdir -p data
+name: MF NAV Pipeline
 
-    # remove old files
-    rm -f data/*
+on:
+  workflow_dispatch:   # enables "Run workflow" button
+  schedule:
+    - cron: "30 15 * * *"   # 9 PM IST
 
-    # rename today's NAV file
-    FILE=$(ls nav_*.txt | head -1)
-    mv "$FILE" data/latest_nav.txt
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
 
-    git config --global user.name "github-actions"
-    git config --global user.email "actions@github.com"
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-    git add data/
-    git commit -m "Update latest NAV file" || true
-    git push
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Fetch NAV
+        run: python scripts/fetch_nav.py
+
+      - name: Store latest NAV file in repo
+        run: |
+          mkdir -p data
+          rm -f data/*
+
+          FILE=$(ls nav_*.txt | head -1)
+          mv "$FILE" data/latest_nav.txt
+
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+
+          git add data/
+          git commit -m "Update latest NAV file" || true
+          git push
+
+      - name: Update Database
+        run: |
+          python scripts/update_db.py data/latest_nav.txt
+
+      - name: Verify database
+        run: ls -lh
