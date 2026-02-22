@@ -1,23 +1,25 @@
 name: MF NAV Pipeline
 
 on:
-  workflow_dispatch:
-      schedule:
-  - cron: "30 15 * * *" # 9 PM IST daily
-
+  workflow_dispatch: # Allows manual triggering
+  schedule:
+    - cron: "30 15 * * *" # 9 PM IST daily (3:30 PM UTC)
 
 jobs:
   run-pipeline:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - run: pip install -r requirements.txt
+      - name: Install dependencies
+        run: pip install -r requirements.txt
 
       - name: Fetch NAV
         run: python scripts/fetch_nav.py
@@ -25,7 +27,7 @@ jobs:
       - name: Update Database
         run: |
           FILE=$(ls nav_*.txt | head -1)
-          python scripts/update_db.py $FILE
+          python scripts/update_db.py "$FILE"
 
       - name: Show database
         run: ls -l mf.db
