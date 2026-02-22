@@ -1,11 +1,12 @@
 name: MF NAV Pipeline
+
 permissions:
   contents: write
 
 on:
-  workflow_dispatch:   # enables "Run workflow" button
+  workflow_dispatch:   # manual run button
   schedule:
-    - cron: "30 15 * * *"   # 9 PM IST
+    - cron: "30 15 * * *"   # 9 PM IST daily
 
 jobs:
   run-pipeline:
@@ -25,9 +26,15 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      # -----------------------------
+      # Fetch NAV from AMFI
+      # -----------------------------
       - name: Fetch NAV
         run: python scripts/fetch_nav.py
 
+      # -----------------------------
+      # Store latest NAV in repo (visual check)
+      # -----------------------------
       - name: Store latest NAV file in repo
         run: |
           mkdir -p data
@@ -43,9 +50,32 @@ jobs:
           git commit -m "Update latest NAV file" || true
           git push
 
+      # -----------------------------
+      # Update SQLite database
+      # -----------------------------
       - name: Update Database
-        run: |
-          python scripts/update_db.py data/latest_nav.txt
+        run: python scripts/update_db.py data/latest_nav.txt
 
-      - name: Verify database
+      # -----------------------------
+      # Generate date variable
+      # -----------------------------
+      - name: Set date
+        run: echo "DATE=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+
+      # -----------------------------
+      # Upload database to GitHub Releases
+      # -----------------------------
+      - name: Create daily release with database
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: mf-${{ env.DATE }}
+          name: MF Snapshot ${{ env.DATE }}
+          files: mf.db
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # -----------------------------
+      # Show output
+      # -----------------------------
+      - name: Verify output
         run: ls -lh
