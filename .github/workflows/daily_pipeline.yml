@@ -1,39 +1,17 @@
-name: MF NAV Pipeline
+- name: Store latest NAV file in repo
+  run: |
+    mkdir -p data
 
-on:
-  workflow_dispatch:
-  schedule:
-    - cron: "30 15 * * *"   # 9 PM IST
+    # remove old files
+    rm -f data/*
 
-jobs:
-  run-pipeline:
-    runs-on: ubuntu-latest
+    # rename today's NAV file
+    FILE=$(ls nav_*.txt | head -1)
+    mv "$FILE" data/latest_nav.txt
 
-    steps:
-      - uses: actions/checkout@v4
+    git config --global user.name "github-actions"
+    git config --global user.email "actions@github.com"
 
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
-
-      - name: Fetch NAV
-        run: python scripts/fetch_nav.py
-
-      - name: Update Database
-        run: |
-          FILE=$(ls nav_*.txt | head -1)
-          if [ -z "$FILE" ]; then
-            echo "NAV file not found"
-            exit 1
-          fi
-          python scripts/update_db.py "$FILE"
-
-      - name: Verify database
-        run: |
-          ls -lh
-          sqlite3 mf.db ".tables" || true
+    git add data/
+    git commit -m "Update latest NAV file" || true
+    git push
