@@ -1,0 +1,30 @@
+name: MF NAV Pipeline
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 13 * * *"   # 7 PM IST daily
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install -r requirements.txt
+
+      - name: Fetch NAV
+        run: python scripts/fetch_nav.py
+
+      - name: Update Database
+        run: |
+          FILE=$(ls nav_*.txt | head -1)
+          python scripts/update_db.py $FILE
+
+      - name: Show database
+        run: ls -l mf.db
