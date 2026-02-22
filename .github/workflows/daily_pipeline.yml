@@ -1,4 +1,6 @@
 name: MF NAV Pipeline
+permissions:
+  contents: write
 
 on:
   workflow_dispatch:   # enables "Run workflow" button
