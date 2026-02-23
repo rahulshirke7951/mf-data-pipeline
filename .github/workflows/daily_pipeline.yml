@@ -13,16 +13,25 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # -----------------------------
+      # Checkout repository
+      # -----------------------------
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0   # important for rebase
+          fetch-depth: 0
 
+      # -----------------------------
+      # Setup Python
+      # -----------------------------
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
+      # -----------------------------
+      # Install dependencies
+      # -----------------------------
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
@@ -35,7 +44,7 @@ jobs:
         run: python scripts/fetch_nav.py
 
       # -----------------------------
-      # Store latest NAV in repo
+      # Store latest NAV file in repo
       # -----------------------------
       - name: Store latest NAV file in repo
         run: |
@@ -48,9 +57,7 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@github.com"
 
-          # ✅ FIX: pull latest changes first
           git pull --rebase origin main || true
-
           git add data/
 
           # commit only if changes exist
@@ -59,7 +66,25 @@ jobs:
           git push origin main
 
       # -----------------------------
-      # Update SQLite database
+      # ⭐ IMPORTANT: Download previous DB (keeps history)
+      # -----------------------------
+      - name: Download previous database if exists
+        run: |
+          echo "Checking for previous release DB..."
+
+          URL="https://api.github.com/repos/${{ github.repository }}/releases/latest"
+
+          DOWNLOAD_URL=$(curl -s $URL | jq -r '.assets[]? | select(.name=="mf.db") | .browser_download_url')
+
+          if [ "$DOWNLOAD_URL" != "" ] && [ "$DOWNLOAD_URL" != "null" ]; then
+            echo "Downloading previous mf.db..."
+            curl -L $DOWNLOAD_URL -o mf.db
+          else
+            echo "No previous database found — new DB will be created"
+          fi
+
+      # -----------------------------
+      # Update SQLite database (append NAV history)
       # -----------------------------
       - name: Update Database
         run: python scripts/update_db.py data/latest_nav.txt
@@ -83,7 +108,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       # -----------------------------
-      # Show output
+      # Verify output
       # -----------------------------
       - name: Verify output
         run: ls -lh
