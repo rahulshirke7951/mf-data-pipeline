@@ -1569,20 +1569,20 @@ Bajaj Finserv Mutual Fund
 Bandhan Mutual Fund
  
 108694;INF194K01VP5;INF194K01VO8;BANDHAN LIQUID FUND - Inst Plan B - Periodic Div;0;02-Oct-2008
-108692;INF194K01VZ4;INF194K01VY7;BANDHAN LIQUID Fund - Regular Plan - Daily IDCW;1001.4161;02-Mar-2026
-108690;INF194K01VX9;-;BANDHAN LIQUID Fund - Regular Plan - Growth;3275.8981;02-Mar-2026
-108693;INF194K01WF4;INF194K01WE7;BANDHAN LIQUID Fund - Regular Plan - Monthly IDCW;1001.3676;02-Mar-2026
-115489;INF194K01WC1;INF194K01WB3;BANDHAN LIQUID Fund - Regular Plan - Periodic IDCW;1414.3437;02-Mar-2026
-108691;INF194K01WI8;INF194K01WH0;BANDHAN LIQUID Fund - Regular Plan - Weekly IDCW;1001.8226;02-Mar-2026
-139582;INF194KA14C0;-;BANDHAN LIQUID Fund - Unclaimed IDCW Less than 3 years;1.7634;02-Mar-2026
-139583;INF194KA15C7;-;BANDHAN LIQUID Fund - Unclaimed IDCW More than 3 years;1.0000;02-Mar-2026
-139584;INF194KA12C4;-;BANDHAN LIQUID Fund - Unclaimed Redemption Less than 3 years;1.7634;02-Mar-2026
-139585;INF194KA13C2;-;BANDHAN LIQUID Fund - Unclaimed Redemption More than 3 years;1.0000;02-Mar-2026
-118365;INF194K01J36;INF194K01J28;BANDHAN LIQUID Fund -Direct Plan -Monthly IDCW;1007.6725;02-Mar-2026
-118367;INF194KB1JT8;INF194K01J51;BANDHAN LIQUID Fund -Direct Plan -Weekly IDCW;1007.5763;02-Mar-2026
-118366;-;INF194K01I78;BANDHAN LIQUID Fund -Direct Plan-Daily IDCW;1001.6663;02-Mar-2026
-118364;INF194K01I60;-;BANDHAN LIQUID Fund -Direct Plan-Growth;3310.8066;02-Mar-2026
-118363;INF194K01J02;INF194K01I94;BANDHAN LIQUID Fund -Direct Plan-Periodic IDCW;1333.8126;02-Mar-2026
+108692;INF194K01VZ4;INF194K01VY7;BANDHAN LIQUID Fund - Regular Plan - Daily IDCW;1001.4161;03-Mar-2026
+108690;INF194K01VX9;-;BANDHAN LIQUID Fund - Regular Plan - Growth;3276.4192;03-Mar-2026
+108693;INF194K01WF4;INF194K01WE7;BANDHAN LIQUID Fund - Regular Plan - Monthly IDCW;1001.5269;03-Mar-2026
+115489;INF194K01WC1;INF194K01WB3;BANDHAN LIQUID Fund - Regular Plan - Periodic IDCW;1414.5686;03-Mar-2026
+108691;INF194K01WI8;INF194K01WH0;BANDHAN LIQUID Fund - Regular Plan - Weekly IDCW;1001.9819;03-Mar-2026
+139582;INF194KA14C0;-;BANDHAN LIQUID Fund - Unclaimed IDCW Less than 3 years;1.7636;03-Mar-2026
+139583;INF194KA15C7;-;BANDHAN LIQUID Fund - Unclaimed IDCW More than 3 years;1.0000;03-Mar-2026
+139584;INF194KA12C4;-;BANDHAN LIQUID Fund - Unclaimed Redemption Less than 3 years;1.7636;03-Mar-2026
+139585;INF194KA13C2;-;BANDHAN LIQUID Fund - Unclaimed Redemption More than 3 years;1.0000;03-Mar-2026
+118365;INF194K01J36;INF194K01J28;BANDHAN LIQUID Fund -Direct Plan -Monthly IDCW;1007.8372;03-Mar-2026
+118367;INF194KB1JT8;INF194K01J51;BANDHAN LIQUID Fund -Direct Plan -Weekly IDCW;1007.7409;03-Mar-2026
+118366;-;INF194K01I78;BANDHAN LIQUID Fund -Direct Plan-Daily IDCW;1001.6663;03-Mar-2026
+118364;INF194K01I60;-;BANDHAN LIQUID Fund -Direct Plan-Growth;3311.3478;03-Mar-2026
+118363;INF194K01J02;INF194K01I94;BANDHAN LIQUID Fund -Direct Plan-Periodic IDCW;1334.0307;03-Mar-2026
  
 Bank of India Mutual Fund
  
@@ -1851,14 +1851,14 @@ Mahindra Manulife Mutual Fund
  
 Mirae Asset Mutual Fund
  
-118859;INF769K01CM1;-;Mirae Asset Liquid Fund - Direct Plan - Growth;2896.0497;02-Mar-2026
-118862;INF769K01PD2;INF769K01CP4;Mirae Asset Liquid Fund - Direct Plan - Weekly IDCW;1217.1928;02-Mar-2026
-118861;-;INF769K01CO7;Mirae Asset Liquid Fund - Direct Plan -Daily IDCW;1075.8332;02-Mar-2026
-118860;INF769K01CN9;INF769K01CQ2;Mirae Asset Liquid Fund - Direct Plan -Monthly IDCW;1135.7080;02-Mar-2026
-111647;-;INF769K01804;Mirae Asset Liquid Fund - Regular - Daily IDCW;1066.4347;02-Mar-2026
-111646;INF769K01788;-;Mirae Asset Liquid Fund - Regular Plan - Growth;2844.8381;02-Mar-2026
-111645;INF769K01838;INF769K01820;Mirae Asset Liquid Fund - Regular Plan - Monthly IDCW;1153.3621;02-Mar-2026
-111644;INF769K01PC4;INF769K01812;Mirae Asset Liquid Fund - Regular Plan - Weekly IDCW;1153.4654;02-Mar-2026
+118859;INF769K01CM1;-;Mirae Asset Liquid Fund - Direct Plan - Growth;2896.5407;03-Mar-2026
+118862;INF769K01PD2;INF769K01CP4;Mirae Asset Liquid Fund - Direct Plan - Weekly IDCW;1217.3991;03-Mar-2026
+118861;-;INF769K01CO7;Mirae Asset Liquid Fund - Direct Plan -Daily IDCW;1075.8332;03-Mar-2026
+118860;INF769K01CN9;INF769K01CQ2;Mirae Asset Liquid Fund - Direct Plan -Monthly IDCW;1135.9005;03-Mar-2026
+111647;-;INF769K01804;Mirae Asset Liquid Fund - Regular - Daily IDCW;1066.4347;03-Mar-2026
+111646;INF769K01788;-;Mirae Asset Liquid Fund - Regular Plan - Growth;2845.3121;03-Mar-2026
+111645;INF769K01838;INF769K01820;Mirae Asset Liquid Fund - Regular Plan - Monthly IDCW;1153.5543;03-Mar-2026
+111644;INF769K01PC4;INF769K01812;Mirae Asset Liquid Fund - Regular Plan - Weekly IDCW;1153.6576;03-Mar-2026
  
 Motilal Oswal Mutual Fund
  
@@ -2024,12 +2024,12 @@ Sundaram Mutual Fund
  
 Tata Mutual Fund
  
-153689;-;INF277KA1EE2;Tata Liquid Fund - Direct Plan - Weekly IDCW Reinvestment;1040.6462;02-Mar-2026
-153688;-;INF277KA1EF9;Tata Liquid Fund - Regular Plan - Weekly IDCW Reinvestment;1036.1821;02-Mar-2026
-102672;INF277K01YD8;-;Tata Liquid Fund -Regular Plan - Growth Option;4273.6816;02-Mar-2026
-119862;-;INF277K012D2;Tata Liquid Fund- Direct Plan - Daily Reinvestment of IDCW Option;1001.5187;02-Mar-2026
-119861;INF277K01YE6;-;Tata Liquid Fund- Direct Plan-Growth Option;4328.5124;02-Mar-2026
-101714;-;INF277K011D4;Tata Liquid Fund- Regular Plan - Daily Reinvestment of IDCW Option;1001.5157;02-Mar-2026
+153689;-;INF277KA1EE2;Tata Liquid Fund - Direct Plan - Weekly IDCW Reinvestment;1040.8185;03-Mar-2026
+153688;-;INF277KA1EF9;Tata Liquid Fund - Regular Plan - Weekly IDCW Reinvestment;1036.3503;03-Mar-2026
+102672;INF277K01YD8;-;Tata Liquid Fund -Regular Plan - Growth Option;4274.3754;03-Mar-2026
+119862;-;INF277K012D2;Tata Liquid Fund- Direct Plan - Daily Reinvestment of IDCW Option;1001.5187;03-Mar-2026
+119861;INF277K01YE6;-;Tata Liquid Fund- Direct Plan-Growth Option;4329.2289;03-Mar-2026
+101714;-;INF277K011D4;Tata Liquid Fund- Regular Plan - Daily Reinvestment of IDCW Option;1001.5157;03-Mar-2026
  
 Taurus Mutual Fund
  
@@ -3329,16 +3329,16 @@ Bajaj Finserv Mutual Fund
  
 Bandhan Mutual Fund
  
-146190;INF194KB1462;INF194KB1470;BANDHAN Overnight Fund - Direct Plan - Daily IDCW;1000.0098;02-Mar-2026
-146191;INF194KB1447;-;BANDHAN Overnight Fund - Direct Plan - Growth;1430.5694;02-Mar-2026
-146183;INF194KB1496;INF194KB1504;BANDHAN Overnight Fund - Direct Plan - Monthly IDCW;1000.5623;02-Mar-2026
-146184;INF194KB1520;INF194KB1538;BANDHAN Overnight Fund - Direct Plan - Periodic IDCW;1303.6143;02-Mar-2026
-146192;INF194KB1553;INF194KB1561;BANDHAN Overnight Fund - Direct Plan - Weekly IDCW;1000.4129;02-Mar-2026
-146188;INF194KB1330;INF194KB1348;BANDHAN Overnight Fund - Regular Plan - Daily IDCW;1000.0098;02-Mar-2026
-146187;INF194KB1314;-;BANDHAN Overnight Fund - Regular Plan - Growth;1419.6214;02-Mar-2026
-146185;INF194KB1363;INF194KB1371;BANDHAN Overnight Fund - Regular Plan - Monthly IDCW;1000.4905;02-Mar-2026
-146189;INF194KB1421;INF194KB1439;BANDHAN Overnight Fund - Regular Plan - Weekly IDCW;1001.3272;02-Mar-2026
-146186;INF194KB1397;INF194KB1405;BANDHAN Overnight Fund - REGULAR PLAN PERIODIC IDCW;1298.9946;02-Mar-2026
+146190;INF194KB1462;INF194KB1470;BANDHAN Overnight Fund - Direct Plan - Daily IDCW;1000.0098;03-Mar-2026
+146191;INF194KB1447;-;BANDHAN Overnight Fund - Direct Plan - Growth;1430.7608;03-Mar-2026
+146183;INF194KB1496;INF194KB1504;BANDHAN Overnight Fund - Direct Plan - Monthly IDCW;1000.6974;03-Mar-2026
+146184;INF194KB1520;INF194KB1538;BANDHAN Overnight Fund - Direct Plan - Periodic IDCW;1303.7892;03-Mar-2026
+146192;INF194KB1553;INF194KB1561;BANDHAN Overnight Fund - Direct Plan - Weekly IDCW;1000.5480;03-Mar-2026
+146188;INF194KB1330;INF194KB1348;BANDHAN Overnight Fund - Regular Plan - Daily IDCW;1000.0098;03-Mar-2026
+146187;INF194KB1314;-;BANDHAN Overnight Fund - Regular Plan - Growth;1419.8073;03-Mar-2026
+146185;INF194KB1363;INF194KB1371;BANDHAN Overnight Fund - Regular Plan - Monthly IDCW;1000.6220;03-Mar-2026
+146189;INF194KB1421;INF194KB1439;BANDHAN Overnight Fund - Regular Plan - Weekly IDCW;1001.4586;03-Mar-2026
+146186;INF194KB1397;INF194KB1405;BANDHAN Overnight Fund - REGULAR PLAN PERIODIC IDCW;1299.1649;03-Mar-2026
  
 Bank of India Mutual Fund
  
@@ -3562,14 +3562,14 @@ Mahindra Manulife Mutual Fund
  
 Mirae Asset Mutual Fund
  
-147737;-;INF769K01FJ0;Mirae Asset Overnight Fund Direct Daily IDCW;1000.0176;02-Mar-2026
-147738;INF769K01FF8;INF769K01FI2;Mirae Asset Overnight Fund Direct Monthly IDCW;1000.8047;02-Mar-2026
-147736;INF769K01FG6;-;Mirae Asset Overnight Fund Direct Plan Growth;1375.6767;02-Mar-2026
-147740;-;INF769K01FK8;Mirae Asset Overnight Fund Direct Weekly IDCW;1000.6752;02-Mar-2026
-147743;-;INF769K01FL6;Mirae Asset Overnight Fund Regular Daily  IDCW ;1000.0088;02-Mar-2026
-147742;INF769K01FD3;INF769K01FH4;Mirae Asset Overnight Fund Regular Monthly IDCW;1000.7971;02-Mar-2026
-147739;INF769K01FE1;-;Mirae Asset Overnight Fund Regular Plan Growth;1367.6803;02-Mar-2026
-147741;-;INF769K01FM4;Mirae Asset Overnight Fund Regular Weekly IDCW;1000.6575;02-Mar-2026
+147737;-;INF769K01FJ0;Mirae Asset Overnight Fund Direct Daily IDCW;1000.0176;03-Mar-2026
+147738;INF769K01FF8;INF769K01FI2;Mirae Asset Overnight Fund Direct Monthly IDCW;1000.9364;03-Mar-2026
+147736;INF769K01FG6;-;Mirae Asset Overnight Fund Direct Plan Growth;1375.8577;03-Mar-2026
+147740;-;INF769K01FK8;Mirae Asset Overnight Fund Direct Weekly IDCW;1000.8070;03-Mar-2026
+147743;-;INF769K01FL6;Mirae Asset Overnight Fund Regular Daily  IDCW ;1000.0088;03-Mar-2026
+147742;INF769K01FD3;INF769K01FH4;Mirae Asset Overnight Fund Regular Monthly IDCW;1000.9264;03-Mar-2026
+147739;INF769K01FE1;-;Mirae Asset Overnight Fund Regular Plan Growth;1367.8571;03-Mar-2026
+147741;-;INF769K01FM4;Mirae Asset Overnight Fund Regular Weekly IDCW;1000.7868;03-Mar-2026
  
 Nippon India Mutual Fund
  
@@ -3654,10 +3654,10 @@ Sundaram Mutual Fund
  
 Tata Mutual Fund
  
-146978;-;INF277K019T3;TATA Overnight Fund Direct Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option   ;1000.0000;02-Mar-2026
-146979;-;INF277K017T7;TATA Overnight Fund Regular Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option   ;1000.0000;02-Mar-2026
-146980;INF277K018T5;-;Tata Overnight Fund-Direct Plan-Growth;1415.8910;02-Mar-2026
-146977;INF277K016T9;-;Tata Overnight Fund-Regular Plan-Growth;1404.8591;02-Mar-2026
+146978;-;INF277K019T3;TATA Overnight Fund Direct Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option   ;1000.0000;03-Mar-2026
+146979;-;INF277K017T7;TATA Overnight Fund Regular Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option   ;1000.0000;03-Mar-2026
+146980;INF277K018T5;-;Tata Overnight Fund-Direct Plan-Growth;1416.0824;03-Mar-2026
+146977;INF277K016T9;-;Tata Overnight Fund-Regular Plan-Growth;1405.0444;03-Mar-2026
  
 Trust Mutual Fund
  
@@ -4797,10 +4797,10 @@ Tata Mutual Fund
  
 Taurus Mutual Fund
  
-118866;INF044D01CG6;INF044D01AA3;Taurus ELSS Tax Saver Fund - Direct Plan - Growth;190.75;02-Mar-2026
-118867;INF044D01CH4;INF044D01CI2;Taurus ELSS Tax Saver Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;87.91;02-Mar-2026
-100480;INF044D01AC9;-;Taurus ELSS Tax Saver Fund - Regular Plan - Growth;174.29;02-Mar-2026
-108402;INF044D01997;-;Taurus ELSS Tax Saver Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;81.65;02-Mar-2026
+118866;INF044D01CG6;INF044D01AA3;Taurus ELSS Tax Saver Fund - Direct Plan - Growth;188.31;04-Mar-2026
+118867;INF044D01CH4;INF044D01CI2;Taurus ELSS Tax Saver Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;86.79;04-Mar-2026
+100480;INF044D01AC9;-;Taurus ELSS Tax Saver Fund - Regular Plan - Growth;172.05;04-Mar-2026
+108402;INF044D01997;-;Taurus ELSS Tax Saver Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;80.60;04-Mar-2026
  
 Union Mutual Fund
  
@@ -5091,10 +5091,10 @@ Tata Mutual Fund
  
 Taurus Mutual Fund
  
-118884;INF044D01BV7;INF044D01BW5;Taurus Flexi Cap Fund - Direct Plan -  Payout of Income Distribution cum Capital Withdrawal option;113.82;02-Mar-2026
-118883;INF044D01BU9;-;Taurus Flexi Cap Fund - Direct Plan - Growth;225.59;02-Mar-2026
-100476;INF044D01989;-;Taurus Flexi Cap Fund - Regular Plan - Growth ;216.75;02-Mar-2026
-111640;INF044D01955;INF044D01963;Taurus Flexi Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;105.18;02-Mar-2026
+118884;INF044D01BV7;INF044D01BW5;Taurus Flexi Cap Fund - Direct Plan -  Payout of Income Distribution cum Capital Withdrawal option;111.72;04-Mar-2026
+118883;INF044D01BU9;-;Taurus Flexi Cap Fund - Direct Plan - Growth;221.43;04-Mar-2026
+100476;INF044D01989;-;Taurus Flexi Cap Fund - Regular Plan - Growth ;212.75;04-Mar-2026
+111640;INF044D01955;INF044D01963;Taurus Flexi Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;103.24;04-Mar-2026
  
 The Wealth Company Mutual Fund
  
@@ -5822,10 +5822,10 @@ Tata Mutual Fund
  
 Taurus Mutual Fund
  
-118870;INF044D01BX3;-;Taurus Large Cap Fund - Direct Plan - Growth;166.34;02-Mar-2026
-118871;INF044D01BY1;INF044D01BZ8;Taurus Large Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;73.27;02-Mar-2026
-101209;INF044D01773;-;Taurus Large Cap Fund - Regular Plan - Growth;157.03;02-Mar-2026
-108403;INF044D01740;INF044D01757;Taurus Large Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;68.79;02-Mar-2026
+118870;INF044D01BX3;-;Taurus Large Cap Fund - Direct Plan - Growth;164.57;04-Mar-2026
+118871;INF044D01BY1;INF044D01BZ8;Taurus Large Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;72.49;04-Mar-2026
+101209;INF044D01773;-;Taurus Large Cap Fund - Regular Plan - Growth;155.36;04-Mar-2026
+108403;INF044D01740;INF044D01757;Taurus Large Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;68.06;04-Mar-2026
  
 Union Mutual Fund
  
@@ -6049,10 +6049,10 @@ Tata Mutual Fund
  
 Taurus Mutual Fund
  
-118872;INF044D01CA9;-;Taurus Mid Cap Fund - Direct Plan - Growth;119.97;02-Mar-2026
-118873;INF044D01CB7;INF044D01CC5;Taurus Mid Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;106.57;02-Mar-2026
-100477;INF044D01815;-;Taurus Mid Cap Fund - Regular Plan - Growth;113.32;02-Mar-2026
-111642;INF044D01781;INF044D01799;Taurus Mid Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;101.01;02-Mar-2026
+118872;INF044D01CA9;-;Taurus Mid Cap Fund - Direct Plan - Growth;116.94;04-Mar-2026
+118873;INF044D01CB7;INF044D01CC5;Taurus Mid Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;103.89;04-Mar-2026
+100477;INF044D01815;-;Taurus Mid Cap Fund - Regular Plan - Growth;110.46;04-Mar-2026
+111642;INF044D01781;INF044D01799;Taurus Mid Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;98.46;04-Mar-2026
  
 Union Mutual Fund
  
@@ -7332,20 +7332,20 @@ Tata Mutual Fund
  
 Taurus Mutual Fund
  
-118868;INF044D01CN2;-;Taurus Banking & Financial Services Fund - Direct Plan - Growth;60.94;02-Mar-2026
-118869;INF044D01CO0;INF044D01CP7;Taurus Banking & Financial Services Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;60.24;02-Mar-2026
-117312;INF044D01BI4;-;Taurus Banking & Financial Services Fund - Regular Plan - Growth;54.26;02-Mar-2026
-117313;INF044D01BJ2;INF044D01BK0;Taurus Banking & Financial Services Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;48.57;02-Mar-2026
-111903;INF044D01823;-;Taurus Ethical Fund -  Regular Plan - Bonus Option;123.63;02-Mar-2026
-118876;INF044D01CJ0;-;Taurus Ethical Fund - Direct Plan - Growth;140.55;02-Mar-2026
-118877;INF044D01CK8;INF044D01CL6;Taurus Ethical Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;94.35;02-Mar-2026
-111787;INF044D01864;-;Taurus Ethical Fund - Regular Plan - Growth;123.65;02-Mar-2026
-111788;INF044D01831;INF044D01849;Taurus Ethical Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;83.59;02-Mar-2026
-118878;INF044D01CM4;-;Taurus Ethical Fund-Direct Plan-Bonus Option #;46.06;02-Mar-2026
-118879;INF044D01CD3;-;Taurus Infrastructure Fund - Direct Plan - Growth ;68.27;02-Mar-2026
-118880;INF044D01CE1;INF044D01CF8;Taurus Infrastructure Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;63.58;02-Mar-2026
-105417;INF044D01906;-;Taurus Infrastructure Fund - Regular Plan - Growth;63.39;02-Mar-2026
-105418;INF044D01872;INF044D01880;Taurus Infrastructure Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;59.54;02-Mar-2026
+118868;INF044D01CN2;-;Taurus Banking & Financial Services Fund - Direct Plan - Growth;59.97;04-Mar-2026
+118869;INF044D01CO0;INF044D01CP7;Taurus Banking & Financial Services Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;59.27;04-Mar-2026
+117312;INF044D01BI4;-;Taurus Banking & Financial Services Fund - Regular Plan - Growth;53.38;04-Mar-2026
+117313;INF044D01BJ2;INF044D01BK0;Taurus Banking & Financial Services Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;47.79;04-Mar-2026
+111903;INF044D01823;-;Taurus Ethical Fund -  Regular Plan - Bonus Option;121.42;04-Mar-2026
+118876;INF044D01CJ0;-;Taurus Ethical Fund - Direct Plan - Growth;138.04;04-Mar-2026
+118877;INF044D01CK8;INF044D01CL6;Taurus Ethical Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;92.67;04-Mar-2026
+111787;INF044D01864;-;Taurus Ethical Fund - Regular Plan - Growth;121.44;04-Mar-2026
+111788;INF044D01831;INF044D01849;Taurus Ethical Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;82.09;04-Mar-2026
+118878;INF044D01CM4;-;Taurus Ethical Fund-Direct Plan-Bonus Option #;45.24;04-Mar-2026
+118879;INF044D01CD3;-;Taurus Infrastructure Fund - Direct Plan - Growth ;66.73;04-Mar-2026
+118880;INF044D01CE1;INF044D01CF8;Taurus Infrastructure Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;62.15;04-Mar-2026
+105417;INF044D01906;-;Taurus Infrastructure Fund - Regular Plan - Growth;61.96;04-Mar-2026
+105418;INF044D01872;INF044D01880;Taurus Infrastructure Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;58.19;04-Mar-2026
  
 The Wealth Company Mutual Fund
  
@@ -7703,10 +7703,10 @@ Canara Robeco Mutual Fund
  
 DSP Mutual Fund
  
-148595;INF740KA1PP3;-;DSP Value Fund - Direct Plan - Growth;24.060;27-Feb-2026
-148596;INF740KA1PQ1;INF740KA1PR9;DSP Value Fund - Direct Plan - IDCW;19.864;27-Feb-2026
-148594;INF740KA1PM0;-;DSP Value Fund - Regular Plan - Growth;23.112;27-Feb-2026
-148597;INF740KA1PN8;INF740KA1PO6;DSP Value Fund - Regular Plan - IDCW;17.589;27-Feb-2026
+148595;INF740KA1PP3;-;DSP Value Fund - Direct Plan - Growth;23.835;02-Mar-2026
+148596;INF740KA1PQ1;INF740KA1PR9;DSP Value Fund - Direct Plan - IDCW;19.678;02-Mar-2026
+148594;INF740KA1PM0;-;DSP Value Fund - Regular Plan - Growth;22.894;02-Mar-2026
+148597;INF740KA1PN8;INF740KA1PO6;DSP Value Fund - Regular Plan - IDCW;17.423;02-Mar-2026
  
 Franklin Templeton Mutual Fund
  
@@ -9570,9 +9570,9 @@ Open Ended Schemes(Money Market)
  
 Taurus Mutual Fund
  
-139619;-;-;Taurus Investor Education Pool - Unclaimed Dividend - Growth;10.0000;02-Mar-2026
-139618;-;-;Taurus Investor Education Pool - Unclaimed Redemption - Growth;10.0000;02-Mar-2026
-139617;-;-;Taurus Unclaimed Redemption - Growth;17.4345;02-Mar-2026
+139619;-;-;Taurus Investor Education Pool - Unclaimed Dividend - Growth;10.0000;04-Mar-2026
+139618;-;-;Taurus Investor Education Pool - Unclaimed Redemption - Growth;10.0000;04-Mar-2026
+139617;-;-;Taurus Unclaimed Redemption - Growth;17.4380;04-Mar-2026
  
 Open Ended Schemes(Other Scheme - FoF Domestic)
  
@@ -10189,14 +10189,14 @@ Open Ended Schemes(Other Scheme - FoF Overseas)
  
 Aditya Birla Sun Life Mutual Fund
  
-132141;INF084M01EC8;INF084M01ED6;Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct - IDCW;27.1033;27-Feb-2026
-132140;INF084M01EB0;-;Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct plan - Growth Option;30.6443;27-Feb-2026
-132139;INF084M01AU8;INF084M01AV6;Aditya Birla Sun Life Global Emerging Opportunities Fund - Regular - IDCW;29.1843;27-Feb-2026
-132138;INF084M01AT0;-;Aditya Birla SUn Life Global Emerging Opportunities Fund - Regular Plan - Growth Option;29.179;27-Feb-2026
-132009;INF084M01EH7;-;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund - Retail Plan - Direct Plan - Growth Option;42.2604;27-Feb-2026
-132005;INF084M01AZ7;-;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund- Retail Plan - Regular Plan - Growth Option;39.5868;27-Feb-2026
-132010;INF084M01EI5;INF084M01EJ3;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-DIRECT - RETAIL - IDCW;42.282;27-Feb-2026
-132003;INF084M01BA8;INF084M01BB6;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-REGULAR - RETAIL - IDCW;39.6114;27-Feb-2026
+132141;INF084M01EC8;INF084M01ED6;Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct - IDCW;27.2382;02-Mar-2026
+132140;INF084M01EB0;-;Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct plan - Growth Option;30.7968;02-Mar-2026
+132139;INF084M01AU8;INF084M01AV6;Aditya Birla Sun Life Global Emerging Opportunities Fund - Regular - IDCW;29.3282;02-Mar-2026
+132138;INF084M01AT0;-;Aditya Birla SUn Life Global Emerging Opportunities Fund - Regular Plan - Growth Option;29.3229;02-Mar-2026
+132009;INF084M01EH7;-;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund - Retail Plan - Direct Plan - Growth Option;42.237;02-Mar-2026
+132005;INF084M01AZ7;-;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund- Retail Plan - Regular Plan - Growth Option;39.5629;02-Mar-2026
+132010;INF084M01EI5;INF084M01EJ3;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-DIRECT - RETAIL - IDCW;42.2585;02-Mar-2026
+132003;INF084M01BA8;INF084M01BB6;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-REGULAR - RETAIL - IDCW;39.5875;02-Mar-2026
 149289;INF209KB19C3;INF209KB10D0;Aditya Birla Sun Life US Equity Passive FOF-Direct IDCW;18.6973;02-Mar-2026
 149291;INF209KB18C5;-;Aditya Birla Sun Life US Equity Passive FOF-Direct-Growth;18.6947;02-Mar-2026
 149290;INF209KB15C1;-;Aditya Birla Sun Life US Equity Passive FOF-Regular Growth;18.3852;02-Mar-2026
@@ -10257,10 +10257,10 @@ DSP Mutual Fund
 112126;INF740K01284;-;DSP Global Clean Energy Overseas Equity Omni FoF - Regular Plan - Growth;26.6434;02-Mar-2026
 112127;INF740K01292;INF740K01300;DSP Global Clean Energy Overseas Equity Omni FoF - Regular Plan - IDCW;18.5255;02-Mar-2026
 119275;INF740K01PC5;-;DSP Global Clean Energy Overseas Equity Omni FoF Direct Plan - Growth;28.1575;02-Mar-2026
-149816;INF740KA1QP1;-;DSP Global Innovation Overseas Equity Omni FoF - Direct - Growth;19.1297;27-Feb-2026
-149815;INF740KA1QQ9;INF740KA1QR7;DSP Global Innovation Overseas Equity Omni FoF - Direct - IDCW;19.1297;27-Feb-2026
-149817;INF740KA1QM8;-;DSP Global Innovation Overseas Equity Omni FoF - Regular - Growth;18.4404;27-Feb-2026
-149814;INF740KA1QN6;INF740KA1QO4;DSP Global Innovation Overseas Equity Omni FoF - Regular - IDCW;18.4404;27-Feb-2026
+149816;INF740KA1QP1;-;DSP Global Innovation Overseas Equity Omni FoF - Direct - Growth;19.0625;02-Mar-2026
+149815;INF740KA1QQ9;INF740KA1QR7;DSP Global Innovation Overseas Equity Omni FoF - Direct - IDCW;19.0625;02-Mar-2026
+149817;INF740KA1QM8;-;DSP Global Innovation Overseas Equity Omni FoF - Regular - Growth;18.3742;02-Mar-2026
+149814;INF740KA1QN6;INF740KA1QO4;DSP Global Innovation Overseas Equity Omni FoF - Regular - IDCW;18.3742;02-Mar-2026
 152528;INF740KA1UJ6;-;DSP US Specific Debt Passive FoF - Direct - Growth;12.2698;02-Mar-2026
 152529;INF740KA1UK4;INF740KA1UL2;DSP US Specific Debt Passive FoF - Direct - IDCW;12.2698;02-Mar-2026
 152527;INF740KA1UG2;-;DSP US Specific Debt Passive FoF - Regular - Growth;12.2578;02-Mar-2026
@@ -10302,8 +10302,8 @@ Franklin Templeton Mutual Fund
  
 HDFC Mutual Fund
  
-149180;INF179KC1BO4;-;HDFC Developed World Overseas Equity Passive FOF - Direct Plan - Growth Option;19.196;27-Feb-2026
-149181;INF179KC1BP1;-;HDFC Developed World Overseas Equity Passive FOF - Growth Option;18.801;27-Feb-2026
+149180;INF179KC1BO4;-;HDFC Developed World Overseas Equity Passive FOF - Direct Plan - Growth Option;19.066;02-Mar-2026
+149181;INF179KC1BP1;-;HDFC Developed World Overseas Equity Passive FOF - Growth Option;18.677;02-Mar-2026
  
 HSBC Mutual Fund
  
@@ -10432,10 +10432,10 @@ SBI Mutual Fund
  
 Sundaram Mutual Fund
  
-119602;INF903J01OB6;-;Sundaram Global Brand Theme-Equity Active FOF - Direct Growth;44.2475;27-Feb-2026
-119601;INF903J01NZ7;INF903J01OA8;Sundaram Global Brand Theme-Equity Active FOF - Direct IDCW;37.1341;27-Feb-2026
-106370;INF903J01EX1;-;Sundaram Global Brand Theme-Equity Active FOF - Regular Growth;40.1872;27-Feb-2026
-106369;INF903J01EY9;INF903J01EZ6;Sundaram Global Brand Theme-Equity Active FOF - Regular IDCW;32.4866;27-Feb-2026
+119602;INF903J01OB6;-;Sundaram Global Brand Theme-Equity Active FOF - Direct Growth;43.9635;02-Mar-2026
+119601;INF903J01NZ7;INF903J01OA8;Sundaram Global Brand Theme-Equity Active FOF - Direct IDCW;36.8958;02-Mar-2026
+106370;INF903J01EX1;-;Sundaram Global Brand Theme-Equity Active FOF - Regular Growth;39.9264;02-Mar-2026
+106369;INF903J01EY9;INF903J01EZ6;Sundaram Global Brand Theme-Equity Active FOF - Regular IDCW;32.2758;02-Mar-2026
  
 Open Ended Schemes(Other Scheme - Gold ETF)
  
@@ -10497,7 +10497,7 @@ Kotak Mahindra Mutual Fund
  
 LIC Mutual Fund
  
-151961;INF397L01554;-;LIC MF Gold Exchange Traded Fund;14988.9483;02-Mar-2026
+151961;INF397L01554;-;LIC MF Gold Exchange Traded Fund;14576.8662;04-Mar-2026
  
 Mirae Asset Mutual Fund
  
@@ -11822,10 +11822,10 @@ Tata Mutual Fund
  
 Taurus Mutual Fund
  
-118881;INF044D01CQ5;-;Taurus Nifty 50 Index Fund - Direct Plan - Growth;50.3665;02-Mar-2026
-118882;INF044D01CR3;INF044D01CS1;Taurus Nifty 50 Index Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;47.1374;02-Mar-2026
-112948;INF044D01948;-;Taurus Nifty 50 Index Fund - Regular Plan - Growth;47.2047;02-Mar-2026
-112949;INF044D01914;INF044D01922;Taurus Nifty 50 Index Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;30.0969;02-Mar-2026
+118881;INF044D01CQ5;-;Taurus Nifty 50 Index Fund - Direct Plan - Growth;49.5939;04-Mar-2026
+118882;INF044D01CR3;INF044D01CS1;Taurus Nifty 50 Index Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;46.4143;04-Mar-2026
+112948;INF044D01948;-;Taurus Nifty 50 Index Fund - Regular Plan - Growth;46.4797;04-Mar-2026
+112949;INF044D01914;INF044D01922;Taurus Nifty 50 Index Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;29.6346;04-Mar-2026
  
 UTI Mutual Fund
  
@@ -12102,8 +12102,8 @@ Mirae Asset Mutual Fund
 149379;INF769K01HS7;-;Mirae Asset Hang Seng TECH ETF;19.5082;02-Mar-2026
 148572;INF769K01GS9;-;Mirae Asset Nifty 100 ESG Sector Leaders ETF;41.8269;02-Mar-2026
 151604;INF769K01JU9;-;Mirae Asset Nifty 100 Low Volatility 30 ETF;207.5218;02-Mar-2026
-153045;INF769K01MY5;-;Mirae Asset Nifty 1D Rate Liquid ETF - Growth;1074.7582;02-Mar-2026
-151908;-;INF769K01KS1;Mirae Asset Nifty 1D Rate Liquid ETF-IDCW;1000.0000;02-Mar-2026
+153045;INF769K01MY5;-;Mirae Asset Nifty 1D Rate Liquid ETF - Growth;1074.8965;03-Mar-2026
+151908;-;INF769K01KS1;Mirae Asset Nifty 1D Rate Liquid ETF-IDCW;1000.0000;03-Mar-2026
 152134;INF769K01KU7;-;Mirae Asset Nifty 200 Alpha 30 ETF;25.0800;02-Mar-2026
 145633;INF769K01EG9;-;Mirae Asset Nifty 50 ETF;268.6159;02-Mar-2026
 154169;INF769K01QA6;-;Mirae Asset Nifty 500 Healthcare ETF;18.7712;02-Mar-2026
