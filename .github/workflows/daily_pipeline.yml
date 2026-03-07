@@ -101,7 +101,7 @@ jobs:
       - name: Create daily release with database
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: mf-${{ env.DATE }}
+          tag_name: mf-${{ env.DATE }}-test
           name: MF Snapshot ${{ env.DATE }}
           files: mf.db
         env:
