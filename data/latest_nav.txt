@@ -1780,18 +1780,18 @@ Invesco Mutual Fund
  
 ITI Mutual Fund
  
-147161;INF00XX01366;INF00XX01333;ITI Liquid Fund - Direct Plan - Annually IDCW Option;1428.7418;07-Mar-2026
-147158;-;INF00XX01291;ITI Liquid Fund - Direct Plan - Daily IDCW Option;1001.0000;07-Mar-2026
-147160;INF00XX01341;INF00XX01317;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;1002.2867;07-Mar-2026
-147157;INF00XX01283;-;ITI Liquid Fund - Direct Plan - Growth Option;1426.8664;07-Mar-2026
-147163;INF00XX01358;INF00XX01325;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;1002.2927;07-Mar-2026
-147159;-;INF00XX01309;ITI Liquid Fund - Direct Plan - Weekly IDCW Option;1001.5693;07-Mar-2026
-147162;INF00XX01275;INF00XX01242;ITI Liquid Fund - Regular Plan - Annually IDCW Option;1421.3853;07-Mar-2026
-147154;-;INF00XX01200;ITI Liquid Fund - Regular Plan - Daily IDCW Option;1001.0001;07-Mar-2026
-147155;INF00XX01259;INF00XX01226;ITI Liquid Fund - Regular Plan - Fortnightly Income Distribution cum capital withdrawal option Option;1002.2566;07-Mar-2026
-147153;INF00XX01192;-;ITI Liquid Fund - Regular Plan - Growth Option;1413.2661;07-Mar-2026
-147156;INF00XX01267;INF00XX01234;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;1001.1538;07-Mar-2026
-147164;-;INF00XX01218;ITI Liquid Fund - Regular Plan - Weekly IDCW Option;1001.5515;07-Mar-2026
+147161;INF00XX01366;INF00XX01333;ITI Liquid Fund - Direct Plan - Annually IDCW Option;1428.9498;08-Mar-2026
+147158;-;INF00XX01291;ITI Liquid Fund - Direct Plan - Daily IDCW Option;1001.0000;08-Mar-2026
+147160;INF00XX01341;INF00XX01317;ITI Liquid Fund - Direct Plan - Fortnightly IDCW Option;1002.4319;08-Mar-2026
+147157;INF00XX01283;-;ITI Liquid Fund - Direct Plan - Growth Option;1427.0734;08-Mar-2026
+147163;INF00XX01358;INF00XX01325;ITI Liquid Fund - Direct Plan - Monthly IDCW Option;1002.4381;08-Mar-2026
+147159;-;INF00XX01309;ITI Liquid Fund - Direct Plan - Weekly IDCW Option;1001.7138;08-Mar-2026
+147162;INF00XX01275;INF00XX01242;ITI Liquid Fund - Regular Plan - Annually IDCW Option;1421.6017;08-Mar-2026
+147154;-;INF00XX01200;ITI Liquid Fund - Regular Plan - Daily IDCW Option;1001.0001;08-Mar-2026
+147155;INF00XX01259;INF00XX01226;ITI Liquid Fund - Regular Plan - Fortnightly Income Distribution cum capital withdrawal option Option;1002.3981;08-Mar-2026
+147153;INF00XX01192;-;ITI Liquid Fund - Regular Plan - Growth Option;1413.4649;08-Mar-2026
+147156;INF00XX01267;INF00XX01234;ITI Liquid Fund - Regular Plan - Monthly IDCW Option;1001.1538;08-Mar-2026
+147164;-;INF00XX01218;ITI Liquid Fund - Regular Plan - Weekly IDCW Option;1001.6927;08-Mar-2026
  
 Jio BlackRock Mutual Fund
  
@@ -3502,18 +3502,18 @@ Invesco Mutual Fund
  
 ITI Mutual Fund
  
-147707;INF00XX01648;INF00XX01614;ITI Overnight Fund - Direct Plan - Annual IDCW Option;1006.0980;07-Mar-2026
-147708;-;INF00XX01572;ITI Overnight Fund - Direct Plan - Daily IDCW Option;1001.0002;07-Mar-2026
-147710;INF00XX01622;INF00XX01598;ITI Overnight Fund - Direct Plan - Fortnightly IDCW Option;1002.1494;07-Mar-2026
-147713;INF00XX01564;-;ITI Overnight Fund - Direct Plan - Growth Option;1358.8628;07-Mar-2026
-147717;INF00XX01630;INF00XX01606;ITI Overnight Fund - Direct Plan - Monthly IDCW Option;1002.1529;07-Mar-2026
-147711;-;INF00XX01580;ITI Overnight Fund - Direct Plan - Weekly IDCW option;1001.5051;07-Mar-2026
-147715;INF00XX01556;INF00XX01523;ITI Overnight Fund - Regular Plan - Annual IDCW Option;1005.9060;07-Mar-2026
-147709;-;INF00XX01481;ITI Overnight Fund - Regular Plan - Daily IDCW Option;1001.0002;07-Mar-2026
-147716;INF00XX01531;INF00XX01507;ITI Overnight Fund - Regular Plan - Fortnightly IDCW Option;1002.2003;07-Mar-2026
-147714;INF00XX01473;-;ITI Overnight Fund - Regular Plan - Growth Option;1350.1154;07-Mar-2026
-147718;INF00XX01549;INF00XX01515;ITI Overnight Fund - Regular Plan - Monthly IDCW Option;1001.0714;07-Mar-2026
-147712;-;INF00XX01499;ITI Overnight Fund - Regular Plan - Weekly IDCW Option;1001.5194;07-Mar-2026
+147707;INF00XX01648;INF00XX01614;ITI Overnight Fund - Direct Plan - Annual IDCW Option;1006.2260;08-Mar-2026
+147708;-;INF00XX01572;ITI Overnight Fund - Direct Plan - Daily IDCW Option;1001.0002;08-Mar-2026
+147710;INF00XX01622;INF00XX01598;ITI Overnight Fund - Direct Plan - Fortnightly IDCW Option;1002.2769;08-Mar-2026
+147713;INF00XX01564;-;ITI Overnight Fund - Direct Plan - Growth Option;1359.0366;08-Mar-2026
+147717;INF00XX01630;INF00XX01606;ITI Overnight Fund - Direct Plan - Monthly IDCW Option;1002.2818;08-Mar-2026
+147711;-;INF00XX01580;ITI Overnight Fund - Direct Plan - Weekly IDCW option;1001.6325;08-Mar-2026
+147715;INF00XX01556;INF00XX01523;ITI Overnight Fund - Regular Plan - Annual IDCW Option;1006.0300;08-Mar-2026
+147709;-;INF00XX01481;ITI Overnight Fund - Regular Plan - Daily IDCW Option;1001.0002;08-Mar-2026
+147716;INF00XX01531;INF00XX01507;ITI Overnight Fund - Regular Plan - Fortnightly IDCW Option;1002.3344;08-Mar-2026
+147714;INF00XX01473;-;ITI Overnight Fund - Regular Plan - Growth Option;1350.2844;08-Mar-2026
+147718;INF00XX01549;INF00XX01515;ITI Overnight Fund - Regular Plan - Monthly IDCW Option;1001.0714;08-Mar-2026
+147712;-;INF00XX01499;ITI Overnight Fund - Regular Plan - Weekly IDCW Option;1001.6480;08-Mar-2026
  
 Jio BlackRock Mutual Fund
  
