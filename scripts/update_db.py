@@ -99,8 +99,13 @@ def parse_and_insert(file_name):
                     isin_div_reinvestment = None if parts[2] == "-" else parts[2]
                     scheme_name = parts[3]
                     nav = float(parts[4])
-                    
-                    raw_nav_date = parts[5]
+                                        
+                    raw_nav_date = parts[5].strip()
+
+                    # Skip if date missing
+                    if not raw_nav_date:
+                        skipped += 1
+                        continue
                     
                     try:
                         parsed_date = datetime.strptime(raw_nav_date, "%d-%b-%Y")
