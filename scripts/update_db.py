@@ -1,3 +1,4 @@
+from datetime import datetime
 import sqlite3
 import sys
 import re
@@ -98,8 +99,16 @@ def parse_and_insert(file_name):
                     isin_div_reinvestment = None if parts[2] == "-" else parts[2]
                     scheme_name = parts[3]
                     nav = float(parts[4])
-                    nav_date = parts[5]
-
+                    
+                    raw_nav_date = parts[5]
+                    
+                    try:
+                        parsed_date = datetime.strptime(raw_nav_date, "%d-%b-%Y")
+                        nav_date = parsed_date.strftime("%Y-%m-%d")
+                    except ValueError:
+                        skipped += 1
+                        continue
+                    
                     cur.execute("""
                     INSERT OR IGNORE INTO nav_history
                     VALUES (?,?,?,?,?,?,?,?)
