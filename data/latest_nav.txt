@@ -6920,10 +6920,10 @@ Kotak Mahindra Mutual Fund
 152704;INF174KA1SG1;-;Kotak Special Opportunities Fund - Direct Plan - IDCW Payout Option;9.431;06-Mar-2026
 152703;INF174KA1SC0;-;Kotak Special Opportunities Fund - Regular Plan - Growth Option;9.213;06-Mar-2026
 152700;INF174KA1SD8;INF174KA1SE6;Kotak Special Opportunities Fund - Regular Plan - IDCW Option;9.213;06-Mar-2026
-152462;INF174KA1QZ5;-;Kotak Technology Fund - Direct Plan - Growth Option;10.173;05-Mar-2026
-152463;INF174KA1RA6;INF174KA1RB4;Kotak Technology Fund - Direct Plan - IDCW Option;10.172;05-Mar-2026
-152460;INF174KA1QW2;-;Kotak Technology Fund - Regular Plan - Growth Option;9.881;05-Mar-2026
-152461;INF174KA1QX0;INF174KA1QY8;Kotak Technology Fund - Regular Plan - IDCW Option;9.882;05-Mar-2026
+152462;INF174KA1QZ5;-;Kotak Technology Fund - Direct Plan - Growth Option;10.121;06-Mar-2026
+152463;INF174KA1RA6;INF174KA1RB4;Kotak Technology Fund - Direct Plan - IDCW Option;10.121;06-Mar-2026
+152460;INF174KA1QW2;-;Kotak Technology Fund - Regular Plan - Growth Option;9.831;06-Mar-2026
+152461;INF174KA1QX0;INF174KA1QY8;Kotak Technology Fund - Regular Plan - IDCW Option;9.831;06-Mar-2026
 153117;INF174KA1TT2;INF174KA1TU0;Kotak Transportation & Logistics Fund-Direct -IDCW-PAYOUT & REINVESTMENT;11.19;06-Mar-2026
 153118;INF174KA1TS4;-;Kotak Transportation & Logistics Fund-Direct Growth;11.191;06-Mar-2026
 153116;INF174KA1TV8;-;Kotak Transportation & Logistics Fund-Regular-Growth;10.977;06-Mar-2026
@@ -9969,10 +9969,10 @@ Kotak Mahindra Mutual Fund
 150822;INF174KA1KJ2;-;Kotak Income Plus Arbitrage Omni FOF-Direct Plan-Growth;12.8721;06-Mar-2026
 150823;INF174KA1KK0;INF174KA1KL8;Kotak Income Plus Arbitrage Omni FOF-Direct Plan-IDCW;12.8724;06-Mar-2026
 150821;INF174KA1KH6;INF174KA1KI4;Kotak Income Plus Arbitrage Omni FOF-Regular Plan-IDCW;12.8132;06-Mar-2026
-119777;INF174K01LN3;-;Kotak Multi Asset Omni FOF - Direct Growth - Direct;278.638;05-Mar-2026
-119776;INF174K01LO1;INF174K01LP8;Kotak Multi Asset Omni FOF - Direct Payout of Income Distribution cum capital withdrawal option;273.624;05-Mar-2026
-102574;INF174K01468;-;Kotak Multi Asset Omni FOF - Growth- Regular;257.797;05-Mar-2026
-102573;INF174K01484;INF174K01476;Kotak Multi Asset Omni FOF - Payout of Income Distribution cum capital withdrawal option;250.94;05-Mar-2026
+119777;INF174K01LN3;-;Kotak Multi Asset Omni FOF - Direct Growth - Direct;276.763;06-Mar-2026
+119776;INF174K01LO1;INF174K01LP8;Kotak Multi Asset Omni FOF - Direct Payout of Income Distribution cum capital withdrawal option;271.783;06-Mar-2026
+102574;INF174K01468;-;Kotak Multi Asset Omni FOF - Growth- Regular;256.058;06-Mar-2026
+102573;INF174K01484;INF174K01476;Kotak Multi Asset Omni FOF - Payout of Income Distribution cum capital withdrawal option;249.247;06-Mar-2026
 151603;INF174KA1MQ3;-;Kotak Silver ETF Fund of Fund - Direct Plan - Growth Option;34.455;06-Mar-2026
 151602;INF174KA1MR1;-;Kotak Silver ETF Fund of Fund - Regular Plan - Growth Option;33.9985;06-Mar-2026
  
@@ -10367,24 +10367,24 @@ Invesco Mutual Fund
  
 Kotak Mahindra Mutual Fund
  
-119779;INF174K01LW4;-;Kotak Global Emerging Market overseas Equity Omni FOF - Growth - Direct;36.426;05-Mar-2026
-106442;INF174K01DX9;INF174K01DW1;Kotak Global Emerging Market Overseas Equity Omni FOF - Payout of Income Distribution cum capital withdrawal option;33.488;05-Mar-2026
-119778;INF174K01LX2;INF174K01LY0;Kotak Global Emerging Market Overseas Equity Omni FOF - Payout of Income Distribution cum capital withdrawal option - Direct;36.58;05-Mar-2026
-106441;INF174K01DV3;-;Kotak Global Emerging Market Overseas Equity Omni FOF- Growth;33.486;05-Mar-2026
+119779;INF174K01LW4;-;Kotak Global Emerging Market overseas Equity Omni FOF - Growth - Direct;36.24;06-Mar-2026
+106442;INF174K01DX9;INF174K01DW1;Kotak Global Emerging Market Overseas Equity Omni FOF - Payout of Income Distribution cum capital withdrawal option;33.317;06-Mar-2026
+119778;INF174K01LX2;INF174K01LY0;Kotak Global Emerging Market Overseas Equity Omni FOF - Payout of Income Distribution cum capital withdrawal option - Direct;36.393;06-Mar-2026
+106441;INF174K01DV3;-;Kotak Global Emerging Market Overseas Equity Omni FOF- Growth;33.314;06-Mar-2026
 149058;INF174KA1HE9;INF174KA1HF6;Kotak Global Innovation Overseas Equity Omni FOF - Regular Plan -IDCW Option;12.601;05-Mar-2026
 149056;INF174KA1HD1;-;Kotak Global Innovation Overseas Equity Omni FOF - Regular Plan-Growth;12.6006;05-Mar-2026
 149060;INF174KA1HH2;INF174KA1HI0;Kotak Global Innovation Overseas Equity Omni FOF- Direct Plan - IDCW Option;13.3092;05-Mar-2026
 149059;INF174KA1HG4;-;Kotak Global Innovation Overseas Equity Omni FOF- Direct Plan -Growth;13.3111;05-Mar-2026
-148646;INF174KA1FO2;-;Kotak International REIT Overseas Equity Omni FOF - Direct Plan - Growth;11.9048;05-Mar-2026
-148649;INF174KA1FN4;INF174KA1FP9;Kotak International REIT Overseas Equity Omni FOF - Direct Plan - Payout of Income Distribution cum capital withdrawal option;11.9048;05-Mar-2026
-148645;INF174KA1FL8;-;Kotak International REIT Overseas Equity Omni FOF - Regular Plan - Growth;11.3647;05-Mar-2026
-148647;INF174KA1FK0;INF174KA1FM6;Kotak International REIT Overseas Equity Omni FOF - Regular Plan - Payout of Income Distribution cum capital withdrawal option;11.3648;05-Mar-2026
+148646;INF174KA1FO2;-;Kotak International REIT Overseas Equity Omni FOF - Direct Plan - Growth;11.8072;06-Mar-2026
+148649;INF174KA1FN4;INF174KA1FP9;Kotak International REIT Overseas Equity Omni FOF - Direct Plan - Payout of Income Distribution cum capital withdrawal option;11.8071;06-Mar-2026
+148645;INF174KA1FL8;-;Kotak International REIT Overseas Equity Omni FOF - Regular Plan - Growth;11.2712;06-Mar-2026
+148647;INF174KA1FK0;INF174KA1FM6;Kotak International REIT Overseas Equity Omni FOF - Regular Plan - Payout of Income Distribution cum capital withdrawal option;11.2714;06-Mar-2026
 133832;INF178L01CM3;INF178L01CN1;Kotak US Equity Fund - Direct Plan - Dividend option;20.129;25-Feb-2020
 133831;INF178L01CL5;-;Kotak US Equity Fund - Direct Plan - Growth option;20.131;25-Feb-2020
 133830;INF178L01CJ9;INF178L01CK7;Kotak US Equity Fund - Standard Plan - Dividend option;19.213;25-Feb-2020
 133833;INF178L01CI1;-;Kotak US Equity Fund - Standard Plan - Growth option;19.216;25-Feb-2020
-148661;INF174KA1FR5;-;Kotak US Specific Equity Passive FOF - Regular Plan - Growth;22.7823;05-Mar-2026
-148662;INF174KA1FQ7;-;Kotak US Specific Equity Passive FOF- Direct Plan - Growth;23.235;05-Mar-2026
+148661;INF174KA1FR5;-;Kotak US Specific Equity Passive FOF - Regular Plan - Growth;22.6334;06-Mar-2026
+148662;INF174KA1FQ7;-;Kotak US Specific Equity Passive FOF- Direct Plan - Growth;23.0834;06-Mar-2026
 133814;INF178L01145;INF178L01137;Kotak World Gold Fund - Standard Plan - Dividend Option;9.28;25-Feb-2020
 133815;INF178L01152;-;Kotak World Gold Fund - Standard Plan - Growth Option;11.199;25-Feb-2020
 133817;INF178L01AM7;INF178L01AN5;Kotak World Gold Fund- Direct Plan- Dividend Option;9.78;25-Feb-2020
