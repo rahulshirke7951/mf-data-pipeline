@@ -1945,14 +1945,14 @@ PGIM India Mutual Fund
  
 PPFAS Mutual Fund
  
-143263;-;INF879O01118;Parag Parikh Liquid Fund- Direct Plan- Daily Reinvestment of IDCW;1000.5405;07-Mar-2026
-143269;INF879O01068;-;Parag Parikh Liquid Fund- Direct Plan- Growth;1517.4962;07-Mar-2026
-143262;INF879O01076;INF879O01084;Parag Parikh Liquid Fund- Direct Plan- Monthly IDCW;1004.7997;07-Mar-2026
-143265;-;INF879O01134;Parag Parikh Liquid Fund- Direct Plan- Weekly Reinvestment of IDCW;1001.7405;07-Mar-2026
-143264;-;INF879O01126;Parag Parikh Liquid Fund- Regular Plan- Daily Reinvestment of IDCW;1000.5404;07-Mar-2026
-143260;INF879O01035;-;Parag Parikh Liquid Fund- Regular Plan- Growth;1505.5506;07-Mar-2026
-143261;INF879O01043;INF879O01050;Parag Parikh Liquid Fund- Regular Plan- Monthly IDCW;1004.7664;07-Mar-2026
-143266;-;INF879O01142;Parag Parikh Liquid Fund- Regular Plan- Weekly Reinvestment of IDCW;1001.7268;07-Mar-2026
+143263;-;INF879O01118;Parag Parikh Liquid Fund- Direct Plan- Daily Reinvestment of IDCW;1000.5405;08-Mar-2026
+143269;INF879O01068;-;Parag Parikh Liquid Fund- Direct Plan- Growth;1517.7424;08-Mar-2026
+143262;INF879O01076;INF879O01084;Parag Parikh Liquid Fund- Direct Plan- Monthly IDCW;1004.9627;08-Mar-2026
+143265;-;INF879O01134;Parag Parikh Liquid Fund- Direct Plan- Weekly Reinvestment of IDCW;1001.9030;08-Mar-2026
+143264;-;INF879O01126;Parag Parikh Liquid Fund- Regular Plan- Daily Reinvestment of IDCW;1000.5404;08-Mar-2026
+143260;INF879O01035;-;Parag Parikh Liquid Fund- Regular Plan- Growth;1505.7908;08-Mar-2026
+143261;INF879O01043;INF879O01050;Parag Parikh Liquid Fund- Regular Plan- Monthly IDCW;1004.9267;08-Mar-2026
+143266;-;INF879O01142;Parag Parikh Liquid Fund- Regular Plan- Weekly Reinvestment of IDCW;1001.8866;08-Mar-2026
  
 quant Mutual Fund
  
@@ -6552,18 +6552,18 @@ DSP Mutual Fund
 153123;INF740KA1UV1;INF740KA1UW9;DSP Business Cycle Fund - Direct - IDCW;10.295;06-Mar-2026
 153122;INF740KA1US7;-;DSP Business Cycle Fund - Regular - Growth;10.106;06-Mar-2026
 153120;INF740KA1UT5;INF740KA1UU3;DSP Business Cycle Fund - Regular - IDCW;10.106;06-Mar-2026
-145454;INF740KA1LG1;-;DSP Healthcare Fund - Direct Plan - Growth;41.623;05-Mar-2026
-145455;INF740KA1LH9;INF740KA1LI7;DSP Healthcare Fund - Direct Plan - IDCW;24.070;05-Mar-2026
-145456;INF740KA1LD8;-;DSP Healthcare Fund - Regular Plan - Growth;37.398;05-Mar-2026
-145453;INF740KA1LE6;INF740KA1LF3;DSP Healthcare Fund - Regular Plan - IDCW;21.664;05-Mar-2026
+145454;INF740KA1LG1;-;DSP Healthcare Fund - Direct Plan - Growth;41.223;06-Mar-2026
+145455;INF740KA1LH9;INF740KA1LI7;DSP Healthcare Fund - Direct Plan - IDCW;23.839;06-Mar-2026
+145456;INF740KA1LD8;-;DSP Healthcare Fund - Regular Plan - Growth;37.038;06-Mar-2026
+145453;INF740KA1LE6;INF740KA1LF3;DSP Healthcare Fund - Regular Plan - IDCW;21.455;06-Mar-2026
 119247;INF740K01PU7;-;DSP India T.I.G.E.R. Fund - Direct Plan - Growth;351.411;06-Mar-2026
 119248;INF740K01PV5;INF740K01PW3;DSP India T.I.G.E.R. Fund - Direct Plan - IDCW;51.705;06-Mar-2026
 102434;INF740K01151;-;DSP India T.I.G.E.R. Fund - Regular Plan - Growth;320.958;06-Mar-2026
 102435;INF740K01136;INF740K01144;DSP India T.I.G.E.R. Fund - Regular Plan - IDCW;27.817;06-Mar-2026
-119028;INF740K01QA7;-;DSP Natural Resources and New Energy Fund - Direct Plan - Growth;120.792;05-Mar-2026
-119029;INF740K01QB5;INF740K01QC3;DSP Natural Resources and New Energy Fund - Direct Plan - IDCW;41.619;05-Mar-2026
-108202;INF740K01060;-;DSP Natural Resources And New Energy Fund - Regular - Growth;107.797;05-Mar-2026
-108203;INF740K01045;INF740K01052;DSP Natural Resources And New Energy Fund - Regular Plan - IDCW;34.487;05-Mar-2026
+119028;INF740K01QA7;-;DSP Natural Resources and New Energy Fund - Direct Plan - Growth;120.192;06-Mar-2026
+119029;INF740K01QB5;INF740K01QC3;DSP Natural Resources and New Energy Fund - Direct Plan - IDCW;38.013;06-Mar-2026
+108202;INF740K01060;-;DSP Natural Resources And New Energy Fund - Regular - Growth;107.258;06-Mar-2026
+108203;INF740K01045;INF740K01052;DSP Natural Resources And New Energy Fund - Regular Plan - IDCW;31.515;06-Mar-2026
 147306;INF740KA1NQ6;-;DSP Quant Fund - Direct Plan - Growth;22.474;06-Mar-2026
 147304;INF740KA1NR4;INF740KA1NS2;DSP Quant Fund - Direct Plan - IDCW;17.163;06-Mar-2026
 147303;INF740KA1NN3;-;DSP Quant Fund - Regular Plan - Growth;21.388;06-Mar-2026
@@ -9217,10 +9217,10 @@ Canara Robeco Mutual Fund
  
 DSP Mutual Fund
  
-152056;INF740KA1TE9;-;DSP Multi Asset Allocation Fund - Direct - Growth;16.4807;05-Mar-2026
-152055;INF740KA1TF6;INF740KA1TG4;DSP Multi Asset Allocation Fund - Direct - IDCW;15.7032;05-Mar-2026
-152053;INF740KA1TB5;-;DSP Multi Asset Allocation Fund - Regular - Growth;15.9481;05-Mar-2026
-152054;INF740KA1TC3;INF740KA1TD1;DSP Multi Asset Allocation Fund - Regular - IDCW;14.3853;05-Mar-2026
+152056;INF740KA1TE9;-;DSP Multi Asset Allocation Fund - Direct - Growth;16.3129;06-Mar-2026
+152055;INF740KA1TF6;INF740KA1TG4;DSP Multi Asset Allocation Fund - Direct - IDCW;15.5433;06-Mar-2026
+152053;INF740KA1TB5;-;DSP Multi Asset Allocation Fund - Regular - Growth;15.7852;06-Mar-2026
+152054;INF740KA1TC3;INF740KA1TD1;DSP Multi Asset Allocation Fund - Regular - IDCW;14.2384;06-Mar-2026
  
 Edelweiss Mutual Fund
  
@@ -9655,10 +9655,10 @@ Axis Mutual Fund
 149846;INF846K012G7;INF846K013G5;Axis Multi Factor Passive FoF - Direct Plan - IDCW;15.5124;06-Mar-2026
 149844;INF846K014G3;-;Axis Multi Factor Passive FoF - Regular Plan - Growth Option;15.3280;06-Mar-2026
 149845;INF846K015G0;INF846K016G8;Axis Multi Factor Passive FoF - Regular Plan - IDCW;15.3280;06-Mar-2026
-153960;INF846KA1366;-;Axis Multi-Asset Active FoF - Direct Plan - Growth;10.3763;05-Mar-2026
-153961;INF846KA1374;INF846KA1382;Axis Multi-Asset Active FoF - Direct Plan - IDCW;10.3763;05-Mar-2026
-153963;INF846KA1333;-;Axis Multi-Asset Active FoF - Regular Plan - Growth;10.3504;05-Mar-2026
-153962;INF846KA1341;INF846KA1358;Axis Multi-Asset Active FoF - Regular Plan - IDCW;10.3504;05-Mar-2026
+153960;INF846KA1366;-;Axis Multi-Asset Active FoF - Direct Plan - Growth;10.2958;06-Mar-2026
+153961;INF846KA1374;INF846KA1382;Axis Multi-Asset Active FoF - Direct Plan - IDCW;10.2958;06-Mar-2026
+153963;INF846KA1333;-;Axis Multi-Asset Active FoF - Regular Plan - Growth;10.2698;06-Mar-2026
+153962;INF846KA1341;INF846KA1358;Axis Multi-Asset Active FoF - Regular Plan - IDCW;10.2698;06-Mar-2026
 149243;INF846K017C5;-;Axis Nifty AAA Bond Plus SDL Apr 2026 50:50 ETF FOF - Direct Plan - Growth Option;12.7546;06-Mar-2026
 149242;INF846K010D8;-;Axis Nifty AAA Bond Plus SDL Apr 2026 50:50 ETF FOF - Regular Plan - Growth Option;12.6830;06-Mar-2026
 149245;INF846K011D6;INF846K012D4;Axis Nifty AAA Bond Plus SDL Apr 2026 50:50 ETF FOF - Regular Plan - IDCW Option;12.6829;06-Mar-2026
@@ -9722,10 +9722,10 @@ DSP Mutual Fund
 152184;INF740KA1TL4;INF740KA1TM2;DSP Gold ETF Fund of Fund - Direct - IDCW;24.9236;06-Mar-2026
 152182;INF740KA1TH2;-;DSP Gold ETF Fund of Fund - Regular - Growth;24.7106;06-Mar-2026
 152181;INF740KA1TI0;INF740KA1TJ8;DSP Gold ETF Fund of Fund - Regular - IDCW;24.7106;06-Mar-2026
-130493;INF740K01Z50;-;DSP Income Plus Arbitrage Omni FoF - Direct Plan - Growth;23.2886;05-Mar-2026
-130491;INF740K01Z68;INF740K01Z76;DSP Income Plus Arbitrage Omni FoF - Direct Plan - IDCW;18.0614;05-Mar-2026
-130492;INF740K01Z27;-;DSP Income Plus Arbitrage Omni FoF - Regular Plan - Growth;21.9484;05-Mar-2026
-130490;INF740K01Z35;INF740K01Z43;DSP Income Plus Arbitrage Omni FoF - Regular Plan - IDCW;16.2149;05-Mar-2026
+130493;INF740K01Z50;-;DSP Income Plus Arbitrage Omni FoF - Direct Plan - Growth;23.2931;06-Mar-2026
+130491;INF740K01Z68;INF740K01Z76;DSP Income Plus Arbitrage Omni FoF - Direct Plan - IDCW;18.0648;06-Mar-2026
+130492;INF740K01Z27;-;DSP Income Plus Arbitrage Omni FoF - Regular Plan - Growth;21.9523;06-Mar-2026
+130490;INF740K01Z35;INF740K01Z43;DSP Income Plus Arbitrage Omni FoF - Regular Plan - IDCW;16.2178;06-Mar-2026
 154167;INF740KA1YE9;-;DSP Multi Asset Omni Fund of Funds - Direct - Growth;9.9218;05-Mar-2026
 154166;INF740KA1YF6;INF740KA1YG4;DSP Multi Asset Omni Fund of Funds - Direct - IDCW;9.9218;05-Mar-2026
 154165;INF740KA1YB5;-;DSP Multi Asset Omni Fund of Funds - Regular - Growth;9.9198;05-Mar-2026
@@ -9898,18 +9898,18 @@ ICICI Prudential Mutual Fund
 120703;INF109K01X57;INF109K01X65;ICICI Prudential Diversified Debt Strategy Active FOF - Direct Plan -  IDCW;42.6995;06-Mar-2026
 102141;INF109K01878;-;ICICI Prudential Diversified Debt Strategy Active FOF - Growth;46.5505;06-Mar-2026
 102143;INF109K01FS0;INF109K01886;ICICI Prudential Diversified Debt Strategy Active FOF - IDCW;40.6040;06-Mar-2026
-148035;INF109KC1I49;-;ICICI Prudential Diversified Equity All Cap Omni FOF - Direct Plan - Growth;31.5874;05-Mar-2026
-148036;INF109KC1I64;INF109KC1I56;ICICI Prudential Diversified Equity All Cap Omni FOF - Direct Plan - IDCW;24.6002;05-Mar-2026
-148033;INF109KC1I15;-;ICICI Prudential Diversified Equity All Cap Omni FOF - Growth;30.2516;05-Mar-2026
-148034;INF109KC1I31;INF109KC1I23;ICICI Prudential Diversified Equity All Cap Omni FOF - IDCW;23.3897;05-Mar-2026
-120679;INF109K01X16;-;ICICI Prudential Dynamic Asset Allocation Active FOF - Direct Plan - Growth;134.9234;05-Mar-2026
-120680;INF109K01W90;INF109K01X08;ICICI Prudential Dynamic Asset Allocation Active FOF - Direct Plan - IDCW;105.8065;05-Mar-2026
-102137;INF109K01837;-;ICICI Prudential Dynamic Asset Allocation Active FOF - Growth;121.3213;05-Mar-2026
-102138;INF109K01FJ9;INF109K01845;ICICI Prudential Dynamic Asset Allocation Active FOF - IDCW;93.2346;05-Mar-2026
-147648;INF109KC1F34;-;ICICI Prudential Global Advantage Fund (FOF) - Direct Plan - Growth Option;21.6843;05-Mar-2026
-147645;INF109KC1F42;-;ICICI Prudential Global Advantage Fund (FOF) - Direct Plan - IDCW;21.6842;05-Mar-2026
-147647;INF109KC1F00;-;ICICI Prudential Global Advantage Fund (FOF) - Growth Option;20.7576;05-Mar-2026
-147646;INF109KC1F18;-;ICICI Prudential Global Advantage Fund (FOF) - IDCW;20.7570;05-Mar-2026
+148035;INF109KC1I49;-;ICICI Prudential Diversified Equity All Cap Omni FOF - Direct Plan - Growth;31.2634;06-Mar-2026
+148036;INF109KC1I64;INF109KC1I56;ICICI Prudential Diversified Equity All Cap Omni FOF - Direct Plan - IDCW;24.3479;06-Mar-2026
+148033;INF109KC1I15;-;ICICI Prudential Diversified Equity All Cap Omni FOF - Growth;29.9407;06-Mar-2026
+148034;INF109KC1I31;INF109KC1I23;ICICI Prudential Diversified Equity All Cap Omni FOF - IDCW;23.1494;06-Mar-2026
+120679;INF109K01X16;-;ICICI Prudential Dynamic Asset Allocation Active FOF - Direct Plan - Growth;134.2794;06-Mar-2026
+120680;INF109K01W90;INF109K01X08;ICICI Prudential Dynamic Asset Allocation Active FOF - Direct Plan - IDCW;105.3015;06-Mar-2026
+102137;INF109K01837;-;ICICI Prudential Dynamic Asset Allocation Active FOF - Growth;120.7388;06-Mar-2026
+102138;INF109K01FJ9;INF109K01845;ICICI Prudential Dynamic Asset Allocation Active FOF - IDCW;92.7870;06-Mar-2026
+147648;INF109KC1F34;-;ICICI Prudential Global Advantage Fund (FOF) - Direct Plan - Growth Option;21.5919;06-Mar-2026
+147645;INF109KC1F42;-;ICICI Prudential Global Advantage Fund (FOF) - Direct Plan - IDCW;21.5918;06-Mar-2026
+147647;INF109KC1F00;-;ICICI Prudential Global Advantage Fund (FOF) - Growth Option;20.6688;06-Mar-2026
+147646;INF109KC1F18;-;ICICI Prudential Global Advantage Fund (FOF) - IDCW;20.6681;06-Mar-2026
 120685;INF109K01U92;-;ICICI Prudential Gold ETF FOF - Direct Plan - Growth;50.4887;06-Mar-2026
 120686;INF109K01U76;INF109K01U84;ICICI Prudential Gold ETF FOF - Direct Plan - IDCW;50.4934;06-Mar-2026
 115833;INF109K01TK8;-;ICICI Prudential Gold ETF FOF - Growth;48.6828;06-Mar-2026
@@ -9942,9 +9942,9 @@ ICICI Prudential Mutual Fund
 149776;INF109KC1Z06;INF109KC1Z14;ICICI Prudential Silver ETF FOF - Direct Plan - IDCW;39.4842;06-Mar-2026
 149777;INF109KC1Y64;-;ICICI Prudential Silver ETF FOF - Growth;38.6902;06-Mar-2026
 149778;INF109KC1Y72;INF109KC1Y80;ICICI Prudential Silver ETF FOF - IDCW;38.6895;06-Mar-2026
-120700;INF109K01X40;-;ICICI Prudential Thematic Advantage Fund (FOF) - Direct Plan - Growth;234.5506;05-Mar-2026
-102135;INF109K01852;-;ICICI Prudential Thematic Advantage Fund (FOF) - Growth;218.0843;05-Mar-2026
-102136;INF109K01FR2;INF109K01860;ICICI Prudential Thematic Advantage Fund (FOF) - IDCW;169.0563;05-Mar-2026
+120700;INF109K01X40;-;ICICI Prudential Thematic Advantage Fund (FOF) - Direct Plan - Growth;233.1112;06-Mar-2026
+102135;INF109K01852;-;ICICI Prudential Thematic Advantage Fund (FOF) - Growth;216.7389;06-Mar-2026
+102136;INF109K01FR2;INF109K01860;ICICI Prudential Thematic Advantage Fund (FOF) - IDCW;168.0134;06-Mar-2026
  
 Invesco Mutual Fund
  
@@ -10266,30 +10266,30 @@ Baroda BNP Paribas Mutual Fund
  
 DSP Mutual Fund
  
-119276;INF740K01PD3;INF740K01PE1;DSP Global Clean Energy Overseas Equity Omni FoF - Direct Plan - IDCW;19.3080;05-Mar-2026
-112126;INF740K01284;-;DSP Global Clean Energy Overseas Equity Omni FoF - Regular Plan - Growth;26.1881;05-Mar-2026
-112127;INF740K01292;INF740K01300;DSP Global Clean Energy Overseas Equity Omni FoF - Regular Plan - IDCW;18.2089;05-Mar-2026
-119275;INF740K01PC5;-;DSP Global Clean Energy Overseas Equity Omni FoF Direct Plan - Growth;27.6776;05-Mar-2026
+119276;INF740K01PD3;INF740K01PE1;DSP Global Clean Energy Overseas Equity Omni FoF - Direct Plan - IDCW;18.7322;06-Mar-2026
+112126;INF740K01284;-;DSP Global Clean Energy Overseas Equity Omni FoF - Regular Plan - Growth;25.4067;06-Mar-2026
+112127;INF740K01292;INF740K01300;DSP Global Clean Energy Overseas Equity Omni FoF - Regular Plan - IDCW;17.6656;06-Mar-2026
+119275;INF740K01PC5;-;DSP Global Clean Energy Overseas Equity Omni FoF Direct Plan - Growth;26.8522;06-Mar-2026
 149816;INF740KA1QP1;-;DSP Global Innovation Overseas Equity Omni FoF - Direct - Growth;19.0714;05-Mar-2026
 149815;INF740KA1QQ9;INF740KA1QR7;DSP Global Innovation Overseas Equity Omni FoF - Direct - IDCW;19.0714;05-Mar-2026
 149817;INF740KA1QM8;-;DSP Global Innovation Overseas Equity Omni FoF - Regular - Growth;18.3815;05-Mar-2026
 149814;INF740KA1QN6;INF740KA1QO4;DSP Global Innovation Overseas Equity Omni FoF - Regular - IDCW;18.3815;05-Mar-2026
-152528;INF740KA1UJ6;-;DSP US Specific Debt Passive FoF - Direct - Growth;12.2176;05-Mar-2026
-152529;INF740KA1UK4;INF740KA1UL2;DSP US Specific Debt Passive FoF - Direct - IDCW;12.2176;05-Mar-2026
-152527;INF740KA1UG2;-;DSP US Specific Debt Passive FoF - Regular - Growth;12.2056;05-Mar-2026
-152530;INF740KA1UH0;INF740KA1UI8;DSP US Specific Debt Passive FoF - Regular - IDCW;12.2056;05-Mar-2026
-119252;INF740K01OH7;-;DSP US Specific Equity Omni FoF - Direct Plan - Growth;86.6142;05-Mar-2026
-119253;INF740K01OI5;INF740K01OJ3;DSP US Specific Equity Omni FoF - Direct Plan - IDCW;72.4777;05-Mar-2026
-117691;INF740K01LP6;-;DSP US Specific Equity Omni FoF - Regular Plan - Growth Option;78.5908;05-Mar-2026
-117692;INF740K01LQ4;INF740K01LR2;DSP US Specific Equity Omni FoF - Regular Plan - IDCW;37.3680;05-Mar-2026
-119277;INF740K01OZ9;-;DSP World Gold Mining Overseas Equity Omni FoF - Direct Plan - Growth;68.6309;05-Mar-2026
-119278;INF740K01PA9;INF740K01PB7;DSP World Gold Mining Overseas Equity Omni FoF - Direct Plan - IDCW;41.0809;05-Mar-2026
-106597;INF740K01250;-;DSP World Gold Mining Overseas Equity Omni FoF - Regular Plan - Growth;63.9103;05-Mar-2026
-106596;INF740K01268;INF740K01276;DSP World Gold Mining Overseas Equity Omni FoF - Regular Plan - IDCW;38.7154;05-Mar-2026
-119279;INF740K01PF8;-;DSP World Mining Overseas Equity Omni FoF - Direct Plan - Growth;34.7848;05-Mar-2026
-119280;INF740K01PG6;INF740K01PH4;DSP World Mining Overseas Equity Omni FoF - Direct Plan - IDCW;31.4174;05-Mar-2026
-112293;INF740K01730;-;DSP World Mining Overseas Equity Omni FoF - Regular Plan - Growth;32.1895;05-Mar-2026
-112347;INF740K01748;INF740K01AL8;DSP World Mining Overseas Equity Omni FoF - Regular Plan - IDCW;29.1204;05-Mar-2026
+152528;INF740KA1UJ6;-;DSP US Specific Debt Passive FoF - Direct - Growth;12.2312;06-Mar-2026
+152529;INF740KA1UK4;INF740KA1UL2;DSP US Specific Debt Passive FoF - Direct - IDCW;12.2312;06-Mar-2026
+152527;INF740KA1UG2;-;DSP US Specific Debt Passive FoF - Regular - Growth;12.2191;06-Mar-2026
+152530;INF740KA1UH0;INF740KA1UI8;DSP US Specific Debt Passive FoF - Regular - IDCW;12.2191;06-Mar-2026
+119252;INF740K01OH7;-;DSP US Specific Equity Omni FoF - Direct Plan - Growth;84.6740;06-Mar-2026
+119253;INF740K01OI5;INF740K01OJ3;DSP US Specific Equity Omni FoF - Direct Plan - IDCW;70.8541;06-Mar-2026
+117691;INF740K01LP6;-;DSP US Specific Equity Omni FoF - Regular Plan - Growth Option;76.8286;06-Mar-2026
+117692;INF740K01LQ4;INF740K01LR2;DSP US Specific Equity Omni FoF - Regular Plan - IDCW;36.5301;06-Mar-2026
+119277;INF740K01OZ9;-;DSP World Gold Mining Overseas Equity Omni FoF - Direct Plan - Growth;66.8753;06-Mar-2026
+119278;INF740K01PA9;INF740K01PB7;DSP World Gold Mining Overseas Equity Omni FoF - Direct Plan - IDCW;40.0301;06-Mar-2026
+106597;INF740K01250;-;DSP World Gold Mining Overseas Equity Omni FoF - Regular Plan - Growth;62.2744;06-Mar-2026
+106596;INF740K01268;INF740K01276;DSP World Gold Mining Overseas Equity Omni FoF - Regular Plan - IDCW;37.7245;06-Mar-2026
+119279;INF740K01PF8;-;DSP World Mining Overseas Equity Omni FoF - Direct Plan - Growth;33.3199;06-Mar-2026
+119280;INF740K01PG6;INF740K01PH4;DSP World Mining Overseas Equity Omni FoF - Direct Plan - IDCW;30.0943;06-Mar-2026
+112293;INF740K01730;-;DSP World Mining Overseas Equity Omni FoF - Regular Plan - Growth;30.8333;06-Mar-2026
+112347;INF740K01748;INF740K01AL8;DSP World Mining Overseas Equity Omni FoF - Regular Plan - IDCW;27.8935;06-Mar-2026
  
 Edelweiss Mutual Fund
  
@@ -11927,7 +11927,7 @@ Angel One Mutual Fund
 153531;INF1J2R01064;-;ANGEL ONE NIFTY 50 ETF;10.0295;06-Mar-2026
 153332;INF1J2R01015;-;ANGEL ONE NIFTY TOTAL MARKET ETF;11.3493;06-Mar-2026
 153957;INF1J2R01148;-;ANGEL ONE NIFTY TOTAL MARKET MOMENTUM QUALITY 50 ETF;9.6021;06-Mar-2026
-154205;INF1J2R01171;-;ANGEL ONE SILVER ETF;9.9348;05-Mar-2026
+154205;INF1J2R01171;-;ANGEL ONE SILVER ETF;9.8731;06-Mar-2026
 154206;INF1J2R01155;-;ANGEL ONE SILVER ETF FOF -DIRECT GROWTH;8.9743;06-Mar-2026
 154207;INF1J2R01163;-;ANGEL ONE SILVER ETF FOF -REGULAR GROWTH;8.9737;06-Mar-2026
  
