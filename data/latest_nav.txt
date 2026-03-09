@@ -1392,10 +1392,10 @@ PGIM India Mutual Fund
  
 quant Mutual Fund
  
-151228;INF966L01BF7;-;quant Gilt Fund - Growth Option - Direct Plan;12.3101;06-Mar-2026
-151230;INF966L01BI1;-;quant Gilt Fund - Growth Option - Regular Plan;11.9471;06-Mar-2026
-151229;INF966L01BG5;INF966L01BH3;quant Gilt Fund - IDCW Option - Direct Plan;12.312;06-Mar-2026
-151231;INF966L01BJ9;INF966L01BK7;quant Gilt Fund - IDCW Option - Regular Plan;11.9554;06-Mar-2026
+151228;INF966L01BF7;-;quant Gilt Fund - Growth Option - Direct Plan;12.2812;09-Mar-2026
+151230;INF966L01BI1;-;quant Gilt Fund - Growth Option - Regular Plan;11.9181;09-Mar-2026
+151229;INF966L01BG5;INF966L01BH3;quant Gilt Fund - IDCW Option - Direct Plan;12.2829;09-Mar-2026
+151231;INF966L01BJ9;INF966L01BK7;quant Gilt Fund - IDCW Option - Regular Plan;11.9263;09-Mar-2026
  
 SBI Mutual Fund
  
@@ -1956,14 +1956,14 @@ PPFAS Mutual Fund
  
 quant Mutual Fund
  
-120837;INF966L01820;-;quant Liquid Fund - Growth Option - Direct Plan;44.0927;08-Mar-2026
-103225;INF966L01317;-;quant Liquid Fund - Growth Option - Regular Plan;42.882;08-Mar-2026
-120838;INF966L01796;INF966L01812;quant Liquid Fund - Monthly IDCW Option - Direct Plan;15.749;08-Mar-2026
-103228;INF966L01291;INF966L01309;quant Liquid Fund - Monthly IDCW Option - Regular Plan;15.1744;08-Mar-2026
-120839;INF966L01788;INF966L01804;quant Liquid Fund - Weekly IDCW Option - Direct Plan;14.6646;08-Mar-2026
-103227;INF966L01499;INF966L01283;quant Liquid Fund - Weekly IDCW Option - Regular Plan;14.4972;08-Mar-2026
-120836;-;INF966L01770;quant Liquid Fund-Daily IDCW Option - Direct Plan;13.2115;08-Mar-2026
-103226;-;INF966L01275;quant Liquid Fund-Daily IDCW Option - Regular Plan;12.7004;08-Mar-2026
+120837;INF966L01820;-;quant Liquid Fund - Growth Option - Direct Plan;44.0971;09-Mar-2026
+103225;INF966L01317;-;quant Liquid Fund - Growth Option - Regular Plan;42.8859;09-Mar-2026
+120838;INF966L01796;INF966L01812;quant Liquid Fund - Monthly IDCW Option - Direct Plan;15.7506;09-Mar-2026
+103228;INF966L01291;INF966L01309;quant Liquid Fund - Monthly IDCW Option - Regular Plan;15.1758;09-Mar-2026
+120839;INF966L01788;INF966L01804;quant Liquid Fund - Weekly IDCW Option - Direct Plan;14.666;09-Mar-2026
+103227;INF966L01499;INF966L01283;quant Liquid Fund - Weekly IDCW Option - Regular Plan;14.4985;09-Mar-2026
+120836;-;INF966L01770;quant Liquid Fund-Daily IDCW Option - Direct Plan;13.2058;09-Mar-2026
+103226;-;INF966L01275;quant Liquid Fund-Daily IDCW Option - Regular Plan;12.6945;09-Mar-2026
 148513;-;-;quant Liquid Fund-Unclaimed Dividend Investor Education Plan-Growth Option;10;15-Dec-2025
 148510;-;-;quant Liquid Fund-Unclaimed Dividend-Growth Option;13.5232;15-Dec-2025
 148511;-;-;quant Liquid Fund-Unclaimed Redemption Investor Education Plan-Growth Option;10;15-Dec-2025
@@ -2038,14 +2038,14 @@ Taurus Mutual Fund
  
 The Wealth Company Mutual Fund
  
-153887;-;INF2F0001073;THE WEALTH COMPANY LIQUID FUND DIRECT DAILY ICDW;1002.0133;08-Mar-2026
-153883;INF2F0001081;-;THE WEALTH COMPANY LIQUID FUND DIRECT GROWTH;1024.479;08-Mar-2026
-153884;INF2F0001107;INF2F0001099;THE WEALTH COMPANY LIQUID FUND DIRECT MONTHLY IDCW;1003.7346;08-Mar-2026
-153889;INF2F0001123;INF2F0001115;THE WEALTH COMPANY LIQUID FUND DIRECT WEEKLY;1002.9477;08-Mar-2026
-153886;-;INF2F0001131;THE WEALTH COMPANY LIQUID FUND REGULAR DAILY IDCW;1002;08-Mar-2026
-153888;INF2F0001149;-;THE WEALTH COMPANY LIQUID FUND REGULAR GROWTH;1023.8653;08-Mar-2026
-153890;INF2F0001164;INF2F0001156;THE WEALTH COMPANY LIQUID FUND REGULAR MONTHLY IDCW;1003.6233;08-Mar-2026
-153885;INF2F0001180;INF2F0001172;THE WEALTH COMPANY LIQUID FUND REGULAR WEEKLY IDCW;1002.9192;08-Mar-2026
+153887;-;INF2F0001073;THE WEALTH COMPANY LIQUID FUND DIRECT DAILY ICDW;1002.0133;09-Mar-2026
+153883;INF2F0001081;-;THE WEALTH COMPANY LIQUID FUND DIRECT GROWTH;1024.5945;09-Mar-2026
+153884;INF2F0001107;INF2F0001099;THE WEALTH COMPANY LIQUID FUND DIRECT MONTHLY IDCW;1003.8478;09-Mar-2026
+153889;INF2F0001123;INF2F0001115;THE WEALTH COMPANY LIQUID FUND DIRECT WEEKLY;1002;09-Mar-2026
+153886;-;INF2F0001131;THE WEALTH COMPANY LIQUID FUND REGULAR DAILY IDCW;1002;09-Mar-2026
+153888;INF2F0001149;-;THE WEALTH COMPANY LIQUID FUND REGULAR GROWTH;1023.9764;09-Mar-2026
+153890;INF2F0001164;INF2F0001156;THE WEALTH COMPANY LIQUID FUND REGULAR MONTHLY IDCW;1003.7321;09-Mar-2026
+153885;INF2F0001180;INF2F0001172;THE WEALTH COMPANY LIQUID FUND REGULAR WEEKLY IDCW;1002;09-Mar-2026
  
 Trust Mutual Fund
  
@@ -3446,10 +3446,10 @@ HDFC Mutual Fund
  
 Helios Mutual Fund
  
-152151;INF0R8701087;-;Helios Overnight Fund - Direct Plan - Daily IDCW Option;1000.0000;08-Mar-2026
-152152;INF0R8701079;-;Helios Overnight Fund - Direct Plan - Growth Option;1151.5748;08-Mar-2026
-152154;INF0R8701103;-;Helios Overnight Fund - Regular Plan - Daily IDCW Option;1000.0000;08-Mar-2026
-152153;INF0R8701095;-;Helios Overnight Fund - Regular Plan - Growth Option;1150.2086;08-Mar-2026
+152151;INF0R8701087;-;Helios Overnight Fund - Direct Plan - Daily IDCW Option;1000.0000;09-Mar-2026
+152152;INF0R8701079;-;Helios Overnight Fund - Direct Plan - Growth Option;1151.7228;09-Mar-2026
+152154;INF0R8701103;-;Helios Overnight Fund - Regular Plan - Daily IDCW Option;1000.0000;09-Mar-2026
+152153;INF0R8701095;-;Helios Overnight Fund - Regular Plan - Growth Option;1150.3548;09-Mar-2026
  
 HSBC Mutual Fund
  
@@ -3601,14 +3601,14 @@ PGIM India Mutual Fund
  
 quant Mutual Fund
  
-151190;INF966L01AZ7;-;quant Overnight Fund - Growth Option - Direct Plan;12.2729;08-Mar-2026
-151195;INF966L01BC4;-;quant Overnight Fund - Growth Option - Regular Plan;12.2316;08-Mar-2026
-151193;INF966L01BA8;INF966L01BB6;quant Overnight Fund - IDCW Option - Direct Plan;12.2771;08-Mar-2026
-151191;INF966L01BD2;INF966L01BE0;quant Overnight Fund - IDCW Option - Regular Plan;12.2195;08-Mar-2026
-154083;-;-;quant Overnight Fund - Unclaimed IDCW Greater than 3 years;10;08-Mar-2026
-154086;-;-;quant Overnight Fund - Unclaimed IDCW Less than 3 years;10.1121;08-Mar-2026
-154085;-;-;quant Overnight Fund - Unclaimed Redemption Greater than 3 years;10;08-Mar-2026
-154084;-;-;quant Overnight Fund - Unclaimed Redemption Less than 3 years;10.1083;08-Mar-2026
+151190;INF966L01AZ7;-;quant Overnight Fund - Growth Option - Direct Plan;12.2745;09-Mar-2026
+151195;INF966L01BC4;-;quant Overnight Fund - Growth Option - Regular Plan;12.2332;09-Mar-2026
+151193;INF966L01BA8;INF966L01BB6;quant Overnight Fund - IDCW Option - Direct Plan;12.2787;09-Mar-2026
+151191;INF966L01BD2;INF966L01BE0;quant Overnight Fund - IDCW Option - Regular Plan;12.221;09-Mar-2026
+154083;-;-;quant Overnight Fund - Unclaimed IDCW Greater than 3 years;10;09-Mar-2026
+154086;-;-;quant Overnight Fund - Unclaimed IDCW Less than 3 years;10.1134;09-Mar-2026
+154085;-;-;quant Overnight Fund - Unclaimed Redemption Greater than 3 years;10;09-Mar-2026
+154084;-;-;quant Overnight Fund - Unclaimed Redemption Less than 3 years;10.1096;09-Mar-2026
  
 Samco Mutual Fund
  
@@ -4750,10 +4750,10 @@ PPFAS Mutual Fund
  
 quant Mutual Fund
  
-120847;INF966L01986;-;quant ELSS Tax Saver Fund - Growth Option - Direct Plan;400.3408;06-Mar-2026
-100175;INF966L01135;-;quant ELSS Tax Saver Fund - Growth Option - Regular Plan;355.54;06-Mar-2026
-120846;INF966L01960;INF966L01127;quant ELSS Tax Saver Fund - IDCW Option - Direct Plan;53.3674;06-Mar-2026
-100174;INF966L01119;-;quant ELSS Tax Saver Fund - IDCW Option - Regular Plan;49.3708;06-Mar-2026
+120847;INF966L01986;-;quant ELSS Tax Saver Fund - Growth Option - Direct Plan;394.617;09-Mar-2026
+100175;INF966L01135;-;quant ELSS Tax Saver Fund - Growth Option - Regular Plan;350.4294;09-Mar-2026
+120846;INF966L01960;INF966L01127;quant ELSS Tax Saver Fund - IDCW Option - Direct Plan;52.6044;09-Mar-2026
+100174;INF966L01119;-;quant ELSS Tax Saver Fund - IDCW Option - Regular Plan;48.6612;09-Mar-2026
  
 Quantum Mutual Fund
  
@@ -4797,10 +4797,10 @@ Tata Mutual Fund
  
 Taurus Mutual Fund
  
-118866;INF044D01CG6;INF044D01AA3;Taurus ELSS Tax Saver Fund - Direct Plan - Growth;189.07;06-Mar-2026
-118867;INF044D01CH4;INF044D01CI2;Taurus ELSS Tax Saver Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;87.14;06-Mar-2026
-100480;INF044D01AC9;-;Taurus ELSS Tax Saver Fund - Regular Plan - Growth;172.74;06-Mar-2026
-108402;INF044D01997;-;Taurus ELSS Tax Saver Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;80.92;06-Mar-2026
+118866;INF044D01CG6;INF044D01AA3;Taurus ELSS Tax Saver Fund - Direct Plan - Growth;185.80;09-Mar-2026
+118867;INF044D01CH4;INF044D01CI2;Taurus ELSS Tax Saver Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;85.63;09-Mar-2026
+100480;INF044D01AC9;-;Taurus ELSS Tax Saver Fund - Regular Plan - Growth;169.75;09-Mar-2026
+108402;INF044D01997;-;Taurus ELSS Tax Saver Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;79.52;09-Mar-2026
  
 Union Mutual Fund
  
@@ -4923,10 +4923,10 @@ HDFC Mutual Fund
  
 Helios Mutual Fund
  
-152135;INF0R8701046;-;Helios Flexi Cap Fund - Direct Plan - Growth Option;14.52;06-Mar-2026
-152138;INF0R8701053;INF0R8701061;Helios Flexi Cap Fund - Direct Plan - IDCW Option;14.52;06-Mar-2026
-152136;INF0R8701012;-;Helios Flexi Cap Fund - Regular Plan - Growth Option;14.04;06-Mar-2026
-152137;INF0R8701020;INF0R8701038;Helios Flexi Cap Fund - Regular Plan - IDCW Option;14.04;06-Mar-2026
+152135;INF0R8701046;-;Helios Flexi Cap Fund - Direct Plan - Growth Option;14.28;09-Mar-2026
+152138;INF0R8701053;INF0R8701061;Helios Flexi Cap Fund - Direct Plan - IDCW Option;14.28;09-Mar-2026
+152136;INF0R8701012;-;Helios Flexi Cap Fund - Regular Plan - Growth Option;13.80;09-Mar-2026
+152137;INF0R8701020;INF0R8701038;Helios Flexi Cap Fund - Regular Plan - IDCW Option;13.80;09-Mar-2026
  
 HSBC Mutual Fund
  
@@ -5033,10 +5033,10 @@ NJ Mutual Fund
  
 Old Bridge Mutual Fund
  
-154225;INF0S5R01133;-;Old Bridge Flexi Cap Fund Direct Growth;10.01;06-Mar-2026
-154228;INF0S5R01141;-;Old Bridge Flexi Cap Fund Direct IDCW;10.01;06-Mar-2026
-154226;INF0S5R01166;-;Old Bridge Flexi Cap Fund Regular Growth;10.00;06-Mar-2026
-154227;INF0S5R01174;-;Old Bridge Flexi Cap Fund Regular IDCW;10.00;06-Mar-2026
+154225;INF0S5R01133;-;Old Bridge Flexi Cap Fund Direct Growth;10.00;09-Mar-2026
+154228;INF0S5R01141;-;Old Bridge Flexi Cap Fund Direct IDCW;10.00;09-Mar-2026
+154226;INF0S5R01166;-;Old Bridge Flexi Cap Fund Regular Growth;10.00;09-Mar-2026
+154227;INF0S5R01174;-;Old Bridge Flexi Cap Fund Regular IDCW;10.00;09-Mar-2026
  
 PGIM India Mutual Fund
  
@@ -5054,10 +5054,10 @@ PPFAS Mutual Fund
  
 quant Mutual Fund
  
-109830;INF966L01457;-;quant Flexi Cap Fund - Growth Option - Regular Plan;93.7391;06-Mar-2026
-120843;INF966L01911;-;quant Flexi Cap Fund - Growth Option-Direct Plan;104.9275;06-Mar-2026
-120842;INF966L01895;INF966L01903;quant Flexi Cap Fund - IDCW Option - Direct Plan;71.3241;06-Mar-2026
-109831;INF966L01432;INF966L01440;quant Flexi Cap Fund - IDCW Option - Regular Plan;66.9971;06-Mar-2026
+109830;INF966L01457;-;quant Flexi Cap Fund - Growth Option - Regular Plan;92.426;09-Mar-2026
+120843;INF966L01911;-;quant Flexi Cap Fund - Growth Option-Direct Plan;103.4672;09-Mar-2026
+120842;INF966L01895;INF966L01903;quant Flexi Cap Fund - IDCW Option - Direct Plan;70.3315;09-Mar-2026
+109831;INF966L01432;INF966L01440;quant Flexi Cap Fund - IDCW Option - Regular Plan;66.0586;09-Mar-2026
  
 Samco Mutual Fund
  
@@ -5098,17 +5098,17 @@ Tata Mutual Fund
  
 Taurus Mutual Fund
  
-118884;INF044D01BV7;INF044D01BW5;Taurus Flexi Cap Fund - Direct Plan -  Payout of Income Distribution cum Capital Withdrawal option;112.11;06-Mar-2026
-118883;INF044D01BU9;-;Taurus Flexi Cap Fund - Direct Plan - Growth;222.21;06-Mar-2026
-100476;INF044D01989;-;Taurus Flexi Cap Fund - Regular Plan - Growth ;213.49;06-Mar-2026
-111640;INF044D01955;INF044D01963;Taurus Flexi Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;103.60;06-Mar-2026
+118884;INF044D01BV7;INF044D01BW5;Taurus Flexi Cap Fund - Direct Plan -  Payout of Income Distribution cum Capital Withdrawal option;109.98;09-Mar-2026
+118883;INF044D01BU9;-;Taurus Flexi Cap Fund - Direct Plan - Growth;217.99;09-Mar-2026
+100476;INF044D01989;-;Taurus Flexi Cap Fund - Regular Plan - Growth ;209.44;09-Mar-2026
+111640;INF044D01955;INF044D01963;Taurus Flexi Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;101.64;09-Mar-2026
  
 The Wealth Company Mutual Fund
  
-153872;INF2F0001040;-;THE WEALTH COMPANY FLEXI CAP FUND - DIRECT GROWTH;9.5458;06-Mar-2026
-153873;INF2F0001057;INF2F0001065;THE WEALTH COMPANY FLEXI CAP FUND - DIRECT IDCW;9.5453;06-Mar-2026
-153870;INF2F0001016;-;THE WEALTH COMPANY FLEXI CAP FUND - REGULAR GROWTH;9.472;06-Mar-2026
-153871;INF2F0001024;INF2F0001032;THE WEALTH COMPANY FLEXI CAP FUND - REGULAR IDCW;9.472;06-Mar-2026
+153872;INF2F0001040;-;THE WEALTH COMPANY FLEXI CAP FUND - DIRECT GROWTH;9.4046;09-Mar-2026
+153873;INF2F0001057;INF2F0001065;THE WEALTH COMPANY FLEXI CAP FUND - DIRECT IDCW;9.4042;09-Mar-2026
+153870;INF2F0001016;-;THE WEALTH COMPANY FLEXI CAP FUND - REGULAR GROWTH;9.3305;09-Mar-2026
+153871;INF2F0001024;INF2F0001032;THE WEALTH COMPANY FLEXI CAP FUND - REGULAR IDCW;9.3304;09-Mar-2026
  
 Trust Mutual Fund
  
@@ -5294,17 +5294,17 @@ Nippon India Mutual Fund
  
 Old Bridge Mutual Fund
  
-152358;INF0S5R01042;-;Old Bridge Focused Fund - Direct Growth;12.20;06-Mar-2026
-152359;INF0S5R01059;INF0S5R01067;Old Bridge Focused Fund - Direct IDCW;12.20;06-Mar-2026
-152361;INF0S5R01034;-;Old Bridge Focused Fund - Regular Growth;11.93;06-Mar-2026
-152363;INF0S5R01018;INF0S5R01026;Old Bridge Focused Fund - Regular IDCW;11.93;06-Mar-2026
+152358;INF0S5R01042;-;Old Bridge Focused Fund - Direct Growth;11.96;09-Mar-2026
+152359;INF0S5R01059;INF0S5R01067;Old Bridge Focused Fund - Direct IDCW;11.96;09-Mar-2026
+152361;INF0S5R01034;-;Old Bridge Focused Fund - Regular Growth;11.70;09-Mar-2026
+152363;INF0S5R01018;INF0S5R01026;Old Bridge Focused Fund - Regular IDCW;11.70;09-Mar-2026
  
 quant Mutual Fund
  
-109275;INF966L01374;-;quant Focused Fund - Growth Option - Regular Plan;80.0558;06-Mar-2026
-120834;INF966L01853;-;quant Focused Fund - Growth Option-Direct Plan;89.6301;06-Mar-2026
-120835;INF966L01838;INF966L01846;quant Focused Fund - IDCW Option - Direct Plan;52.3953;06-Mar-2026
-109274;INF966L01358;INF966L01366;quant Focused Fund - IDCW Option - Regular Plan;59.525;06-Mar-2026
+109275;INF966L01374;-;quant Focused Fund - Growth Option - Regular Plan;78.4346;09-Mar-2026
+120834;INF966L01853;-;quant Focused Fund - Growth Option-Direct Plan;87.8255;09-Mar-2026
+120835;INF966L01838;INF966L01846;quant Focused Fund - IDCW Option - Direct Plan;51.3404;09-Mar-2026
+109274;INF966L01358;INF966L01366;quant Focused Fund - IDCW Option - Regular Plan;58.3196;09-Mar-2026
  
 SBI Mutual Fund
  
@@ -5432,10 +5432,10 @@ HDFC Mutual Fund
  
 Helios Mutual Fund
  
-152941;INF0R8701269;-;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;10.73;06-Mar-2026
-152942;INF0R8701277;INF0R8701285;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;10.73;06-Mar-2026
-152943;INF0R8701236;-;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;10.50;06-Mar-2026
-152944;INF0R8701244;INF0R8701251;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;10.50;06-Mar-2026
+152941;INF0R8701269;-;Helios Large & Mid Cap Fund - Direct Plan - Growth Option;10.54;09-Mar-2026
+152942;INF0R8701277;INF0R8701285;Helios Large & Mid Cap Fund - Direct Plan - IDCW Option;10.54;09-Mar-2026
+152943;INF0R8701236;-;Helios Large & Mid Cap Fund - Regular Plan - Growth Option;10.31;09-Mar-2026
+152944;INF0R8701244;INF0R8701251;Helios Large & Mid Cap Fund - Regular Plan - IDCW Option;10.31;09-Mar-2026
  
 HSBC Mutual Fund
  
@@ -5537,12 +5537,12 @@ PGIM India Mutual Fund
  
 quant Mutual Fund
  
-104515;INF966L01424;-;quant Large & Mid Cap Fund - Bonus Option - Regular Plan;104.5886;06-Mar-2026
-120824;INF966L01655;-;quant Large & Mid Cap Fund - Bonus Option-Direct Plan;104.5886;06-Mar-2026
-104513;INF966L01341;-;quant Large & Mid Cap Fund - Growth Option;104.3807;06-Mar-2026
-120826;INF966L01648;-;quant Large & Mid Cap Fund - Growth Option-Direct Plan;115.1569;06-Mar-2026
-120825;INF966L01622;INF966L01630;quant Large & Mid Cap Fund - IDCW Option - Direct Plan;53.62;06-Mar-2026
-104514;INF966L01325;INF966L01333;quant Large & Mid Cap Fund - IDCW Option - Regular Plan;63.7138;06-Mar-2026
+104515;INF966L01424;-;quant Large & Mid Cap Fund - Bonus Option - Regular Plan;103.4984;09-Mar-2026
+120824;INF966L01655;-;quant Large & Mid Cap Fund - Bonus Option-Direct Plan;103.4984;09-Mar-2026
+104513;INF966L01341;-;quant Large & Mid Cap Fund - Growth Option;103.2937;09-Mar-2026
+120826;INF966L01648;-;quant Large & Mid Cap Fund - Growth Option-Direct Plan;113.9688;09-Mar-2026
+120825;INF966L01622;INF966L01630;quant Large & Mid Cap Fund - IDCW Option - Direct Plan;53.0668;09-Mar-2026
+104514;INF966L01325;INF966L01333;quant Large & Mid Cap Fund - IDCW Option - Regular Plan;63.0503;09-Mar-2026
  
 Samco Mutual Fund
  
@@ -5794,10 +5794,10 @@ PPFAS Mutual Fund
  
 quant Mutual Fund
  
-150440;INF966L01AT0;-;quant Large Cap Fund - Growth Option - Direct Plan;15.1298;06-Mar-2026
-150441;INF966L01AW4;-;quant Large Cap Fund - Growth Option - Regular Plan;14.2998;06-Mar-2026
-150439;INF966L01AU8;INF966L01AV6;quant Large Cap Fund - IDCW Option - Direct Plan;15.1926;06-Mar-2026
-150442;INF966L01AX2;INF966L01AY0;quant Large Cap Fund - IDCW Option - Regular Plan;14.2183;06-Mar-2026
+150440;INF966L01AT0;-;quant Large Cap Fund - Growth Option - Direct Plan;14.8593;09-Mar-2026
+150441;INF966L01AW4;-;quant Large Cap Fund - Growth Option - Regular Plan;14.0425;09-Mar-2026
+150439;INF966L01AU8;INF966L01AV6;quant Large Cap Fund - IDCW Option - Direct Plan;14.921;09-Mar-2026
+150442;INF966L01AX2;INF966L01AY0;quant Large Cap Fund - IDCW Option - Regular Plan;13.9625;09-Mar-2026
  
 Samco Mutual Fund
  
@@ -5829,10 +5829,10 @@ Tata Mutual Fund
  
 Taurus Mutual Fund
  
-118870;INF044D01BX3;-;Taurus Large Cap Fund - Direct Plan - Growth;165.12;06-Mar-2026
-118871;INF044D01BY1;INF044D01BZ8;Taurus Large Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;72.74;06-Mar-2026
-101209;INF044D01773;-;Taurus Large Cap Fund - Regular Plan - Growth;155.89;06-Mar-2026
-108403;INF044D01740;INF044D01757;Taurus Large Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;68.29;06-Mar-2026
+118870;INF044D01BX3;-;Taurus Large Cap Fund - Direct Plan - Growth;162.71;09-Mar-2026
+118871;INF044D01BY1;INF044D01BZ8;Taurus Large Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;71.67;09-Mar-2026
+101209;INF044D01773;-;Taurus Large Cap Fund - Regular Plan - Growth;153.60;09-Mar-2026
+108403;INF044D01740;INF044D01757;Taurus Large Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;67.29;09-Mar-2026
  
 Union Mutual Fund
  
@@ -5929,10 +5929,10 @@ HDFC Mutual Fund
  
 Helios Mutual Fund
  
-153326;INF0R8701327;-;Helios Mid Cap Fund - Direct Plan - Growth Option;11.85;06-Mar-2026
-153324;INF0R8701335;INF0R8701343;Helios Mid Cap Fund - Direct Plan - IDCW Option;11.85;06-Mar-2026
-153327;INF0R8701293;-;Helios Mid Cap Fund - Regular Plan - Growth Plan;11.68;06-Mar-2026
-153325;INF0R8701301;INF0R8701319;Helios Mid Cap Fund - Regular Plan - IDCW Option;11.67;06-Mar-2026
+153326;INF0R8701327;-;Helios Mid Cap Fund - Direct Plan - Growth Option;11.66;09-Mar-2026
+153324;INF0R8701335;INF0R8701343;Helios Mid Cap Fund - Direct Plan - IDCW Option;11.66;09-Mar-2026
+153327;INF0R8701293;-;Helios Mid Cap Fund - Regular Plan - Growth Plan;11.48;09-Mar-2026
+153325;INF0R8701301;INF0R8701319;Helios Mid Cap Fund - Regular Plan - IDCW Option;11.48;09-Mar-2026
  
 HSBC Mutual Fund
  
@@ -6023,10 +6023,10 @@ PGIM India Mutual Fund
  
 quant Mutual Fund
  
-120841;INF966L01887;-;quant Mid Cap Fund - Growth Option - Direct Plan;215.1244;06-Mar-2026
-101065;INF966L01176;-;quant Mid Cap Fund - Growth Option - Regular Plan;190.5114;06-Mar-2026
-120840;INF966L01861;INF966L01879;quant Mid Cap Fund - IDCW Option - Direct Plan;75.5608;06-Mar-2026
-101066;INF966L01150;INF966L01168;quant Mid Cap Fund - IDCW Option - Regular Plan;67.7276;06-Mar-2026
+120841;INF966L01887;-;quant Mid Cap Fund - Growth Option - Direct Plan;213.7211;09-Mar-2026
+101065;INF966L01176;-;quant Mid Cap Fund - Growth Option - Regular Plan;189.2531;09-Mar-2026
+120840;INF966L01861;INF966L01879;quant Mid Cap Fund - IDCW Option - Direct Plan;75.0679;09-Mar-2026
+101066;INF966L01150;INF966L01168;quant Mid Cap Fund - IDCW Option - Regular Plan;67.2803;09-Mar-2026
  
 Samco Mutual Fund
  
@@ -6056,10 +6056,10 @@ Tata Mutual Fund
  
 Taurus Mutual Fund
  
-118872;INF044D01CA9;-;Taurus Mid Cap Fund - Direct Plan - Growth;117.95;06-Mar-2026
-118873;INF044D01CB7;INF044D01CC5;Taurus Mid Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;104.78;06-Mar-2026
-100477;INF044D01815;-;Taurus Mid Cap Fund - Regular Plan - Growth;111.40;06-Mar-2026
-111642;INF044D01781;INF044D01799;Taurus Mid Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;99.30;06-Mar-2026
+118872;INF044D01CA9;-;Taurus Mid Cap Fund - Direct Plan - Growth;115.37;09-Mar-2026
+118873;INF044D01CB7;INF044D01CC5;Taurus Mid Cap Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;102.49;09-Mar-2026
+100477;INF044D01815;-;Taurus Mid Cap Fund - Regular Plan - Growth;108.97;09-Mar-2026
+111642;INF044D01781;INF044D01799;Taurus Mid Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;97.13;09-Mar-2026
  
 Union Mutual Fund
  
@@ -6251,10 +6251,10 @@ PGIM India Mutual Fund
  
 quant Mutual Fund
  
-100631;INF966L01234;-;quant Multi Cap Fund-GROWTH OPTION - Regular Plan;563.4696;06-Mar-2026
-120823;INF966L01614;-;quant Multi Cap Fund-GROWTH OPTION-Direct Plan;618.487;06-Mar-2026
-120822;INF966L01598;INF966L01606;quant Multi Cap Fund-IDCW Option - Direct Plan;71.6269;06-Mar-2026
-100630;INF966L01218;INF966L01226;quant Multi Cap Fund-IDCW Option - Regular Plan;64.4402;06-Mar-2026
+100631;INF966L01234;-;quant Multi Cap Fund-GROWTH OPTION - Regular Plan;555.8304;09-Mar-2026
+120823;INF966L01614;-;quant Multi Cap Fund-GROWTH OPTION-Direct Plan;610.1563;09-Mar-2026
+120822;INF966L01598;INF966L01606;quant Multi Cap Fund-IDCW Option - Direct Plan;70.6621;09-Mar-2026
+100630;INF966L01218;INF966L01226;quant Multi Cap Fund-IDCW Option - Regular Plan;63.5665;09-Mar-2026
  
 Samco Mutual Fund
  
@@ -6675,10 +6675,10 @@ HDFC Mutual Fund
  
 Helios Mutual Fund
  
-152679;INF0R8701202;-;Helios Financial Services Fund - Direct Plan - Growth Option;11.34;06-Mar-2026
-152680;INF0R8701210;INF0R8701228;Helios Financial Services Fund - Direct Plan - IDCW Option;11.34;06-Mar-2026
-152682;INF0R8701178;-;Helios Financial Services Fund - Regular Plan - Growth Option;11.04;06-Mar-2026
-152681;INF0R8701186;INF0R8701194;Helios Financial Services Fund - Regular Plan - IDCW Option;11.04;06-Mar-2026
+152679;INF0R8701202;-;Helios Financial Services Fund - Direct Plan - Growth Option;11.13;09-Mar-2026
+152680;INF0R8701210;INF0R8701228;Helios Financial Services Fund - Direct Plan - IDCW Option;11.13;09-Mar-2026
+152682;INF0R8701178;-;Helios Financial Services Fund - Regular Plan - Growth Option;10.84;09-Mar-2026
+152681;INF0R8701186;INF0R8701194;Helios Financial Services Fund - Regular Plan - IDCW Option;10.84;09-Mar-2026
  
 HSBC Mutual Fund
  
@@ -6900,10 +6900,10 @@ Kotak Mahindra Mutual Fund
 152911;INF174KA1TH7;INF174KA1TI5;Kotak MNC Fund-Direct Plan-IDCW Option;10.979;06-Mar-2026
 152913;INF174KA1TJ3;-;Kotak MNC Fund-Regular Plan- Growth;10.766;06-Mar-2026
 152912;INF174KA1TK1;INF174KA1TL9;KotaK MNC Fund-Regular Plan-IDCW OPTION;10.766;06-Mar-2026
-147727;INF174KA1EZ1;-;Kotak Pioneer Fund- Direct Plan- Growth Option;33.734;05-Mar-2026
-147724;INF174KA1EW8;-;Kotak Pioneer Fund- Regular Plan- Growth Option;30.553;05-Mar-2026
-147728;INF174KA1EU2;INF174KA1EV0;Kotak Pioneer Fund- Regular Plan- Reinvestment of Income Distribution cum capital withdrawal option;30.566;05-Mar-2026
-147725;INF174KA1EX6;INF174KA1EY4;Kotak Pioneer Fund-Direct Plan-Reinvestment of Income Distribution cum capital withdrawal option;33.729;05-Mar-2026
+147727;INF174KA1EZ1;-;Kotak Pioneer Fund- Direct Plan- Growth Option;33.532;06-Mar-2026
+147724;INF174KA1EW8;-;Kotak Pioneer Fund- Regular Plan- Growth Option;30.369;06-Mar-2026
+147728;INF174KA1EU2;INF174KA1EV0;Kotak Pioneer Fund- Regular Plan- Reinvestment of Income Distribution cum capital withdrawal option;30.382;06-Mar-2026
+147725;INF174KA1EX6;INF174KA1EY4;Kotak Pioneer Fund-Direct Plan-Reinvestment of Income Distribution cum capital withdrawal option;33.527;06-Mar-2026
 151881;INF174KA1OL0;-;Kotak Quant Fund - Direct Plan - Growth Option;15.22;06-Mar-2026
 151880;INF174KA1OM8;INF174KA1ON6;Kotak Quant Fund - Direct plan - IDCW Payout;15.221;06-Mar-2026
 151878;INF174KA1OI6;-;Kotak Quant Fund - Regular Plan - Growth Option;15.08;06-Mar-2026
@@ -7109,54 +7109,54 @@ PGIM India Mutual Fund
  
 quant Mutual Fund
  
-151791;INF966L01BX0;-;quant BFSI Fund - Growth Option - Direct Plan;18.9382;06-Mar-2026
-151788;INF966L01CA6;-;quant BFSI Fund - Growth Option - Regular Plan;18.1285;06-Mar-2026
-151790;INF966L01BY8;INF966L01BZ5;quant BFSI Fund - IDCW Option - Direct Plan;18.9596;06-Mar-2026
-151789;INF966L01CB4;INF966L01CC2;quant BFSI Fund - IDCW Option - Regular Plan;18.1271;06-Mar-2026
-151757;INF966L01BR2;-;quant Business Cycle Fund - Growth Option - Direct Plan;15.1405;06-Mar-2026
-151758;INF966L01BU6;-;quant Business Cycle Fund - Growth Option - Regular Plan;14.504;06-Mar-2026
-151759;INF966L01BS0;INF966L01BT8;quant Business Cycle Fund - IDCW Option - Direct Plan;15.1296;06-Mar-2026
-151760;INF966L01BV4;INF966L01BW2;quant Business Cycle Fund - IDCW Option - Regular Plan;14.5179;06-Mar-2026
-152255;INF966L01DF3;-;quant Commodities Fund - Growth Option - Direct Plan;12.8045;06-Mar-2026
-152256;INF966L01DC0;-;quant Commodities Fund - Growth Option - Regular Plan;12.3874;06-Mar-2026
-152257;INF966L01DG1;INF966L01DH9;quant Commodities Fund - IDCW Option - Direct Plan;12.8004;06-Mar-2026
-152258;INF966L01DD8;INF966L01DE6;quant Commodities Fund - IDCW Option - Regular Plan;12.3855;06-Mar-2026
-152336;INF966L01DN7;-;quant Consumption Fund - Growth Option - Direct Plan;9.1262;06-Mar-2026
-152338;INF966L01DI7;-;quant Consumption Fund - Growth Option - Regular Plan;8.8322;06-Mar-2026
-152339;INF966L01DO5;INF966L01DP2;quant Consumption Fund - IDCW Option - Direct Plan;9.1306;06-Mar-2026
-152337;INF966L01DL1;INF966L01DM9;quant Consumption Fund - IDCW Option - Regular Plan;8.8357;06-Mar-2026
-148564;INF966L01AD4;-;quant ESG Integration Strategy Fund - Growth Option - Direct Plan;34.0291;06-Mar-2026
-148560;INF966L01AB8;-;quant ESG Integration Strategy Fund - Growth Option - Regular Plan;31.3388;06-Mar-2026
-148563;INF966L01AE2;INF966L01AG7;quant ESG Integration Strategy Fund - IDCW Option - Direct Plan;33.9869;06-Mar-2026
-148561;INF966L01AC6;INF966L01AF9;quant ESG Integration Strategy Fund - IDCW Option - Regular Plan;31.1867;06-Mar-2026
-151853;INF966L01CD0;-;quant Healthcare Fund - Growth Option - Direct Plan;15.2494;06-Mar-2026
-151855;INF966L01CG3;-;quant Healthcare Fund - Growth Option - Regular Plan;14.6065;06-Mar-2026
-151854;INF966L01CE8;INF966L01CF5;quant Healthcare Fund - IDCW Option - Direct Plan;15.248;06-Mar-2026
-151856;INF966L01CH1;INF966L01CI9;quant Healthcare Fund - IDCW Option - Regular Plan;14.6057;06-Mar-2026
-106170;INF966L01523;-;quant Infrastructure Fund - Growth Option;34.9847;06-Mar-2026
-120833;INF966L01721;-;quant Infrastructure Fund - Growth Option-Direct Plan;38.689;06-Mar-2026
-120832;INF966L01705;INF966L01713;quant Infrastructure Fund - IDCW Option - Direct Plan;38.6582;06-Mar-2026
-106169;INF966L01507;INF966L01515;quant Infrastructure Fund - IDCW Option - Regular Plan;34.9057;06-Mar-2026
-151916;INF966L01CJ7;-;quant Manufacturing Fund - Growth Option - Direct Plan;13.9558;06-Mar-2026
-151913;INF966L01CN9;-;quant Manufacturing Fund - Growth Option - Regular Plan;13.4162;06-Mar-2026
-151914;INF966L01CK5;INF966L01CL3;quant Manufacturing Fund - IDCW Option - Direct Plan;13.9523;06-Mar-2026
-151915;INF966L01CO7;INF966L01CP4;quant Manufacturing Fund - IDCW Option - Regular Plan;13.5186;06-Mar-2026
-152189;INF966L01CZ3;-;quant Momentum Fund - Growth Option - Direct Plan;13.9838;06-Mar-2026
-152190;INF966L01CW0;-;quant Momentum Fund - Growth Option - Regular Plan;13.5757;06-Mar-2026
-152192;INF966L01DA4;INF966L01DB2;quant Momentum Fund - IDCW Option - Direct Plan;13.9699;06-Mar-2026
-152191;INF966L01CX8;INF966L01CY6;quant Momentum Fund - IDCW Option - Regular Plan;13.5327;06-Mar-2026
-152415;INF966L01DT4;-;quant PSU Fund - Growth Option - Direct Plan;9.9409;06-Mar-2026
-152413;INF966L01DQ0;-;quant PSU Fund - Growth Option - Regular Plan;9.6576;06-Mar-2026
-152416;INF966L01DU2;INF966L01DV0;quant PSU Fund - IDCW Option - Direct Plan;9.9468;06-Mar-2026
-152414;INF966L01DR8;INF966L01DS6;quant PSU Fund - IDCW Option - Regular Plan;9.6572;06-Mar-2026
-148925;INF966L01AK9;-;quant Quantamental Fund - Growth Option - Direct Plan;24.0724;06-Mar-2026
-148923;INF966L01AH5;-;quant Quantamental Fund - Growth Option - Regular Plan;22.3483;06-Mar-2026
-148924;INF966L01AL7;INF966L01AM5;quant Quantamental Fund - IDCW Option - Direct Plan;24.2051;06-Mar-2026
-148922;INF966L01AI3;INF966L01AJ1;quant Quantamental Fund - IDCW Option - Regular Plan;22.3741;06-Mar-2026
-152067;INF966L01CT6;-;quant Teck Fund - Growth Option - Direct Plan;9.1063;06-Mar-2026
-152070;INF966L01CQ2;-;quant Teck Fund - Growth Option - Regular Plan;8.7532;06-Mar-2026
-152068;INF966L01CU4;INF966L01CV2;quant Teck Fund - IDCW Option - Direct Plan;9.1017;06-Mar-2026
-152069;INF966L01CR0;INF966L01CS8;quant Teck Fund - IDCW Option - Regular Plan;8.7545;06-Mar-2026
+151791;INF966L01BX0;-;quant BFSI Fund - Growth Option - Direct Plan;18.534;09-Mar-2026
+151788;INF966L01CA6;-;quant BFSI Fund - Growth Option - Regular Plan;17.7394;09-Mar-2026
+151790;INF966L01BY8;INF966L01BZ5;quant BFSI Fund - IDCW Option - Direct Plan;18.555;09-Mar-2026
+151789;INF966L01CB4;INF966L01CC2;quant BFSI Fund - IDCW Option - Regular Plan;17.7381;09-Mar-2026
+151757;INF966L01BR2;-;quant Business Cycle Fund - Growth Option - Direct Plan;14.9077;09-Mar-2026
+151758;INF966L01BU6;-;quant Business Cycle Fund - Growth Option - Regular Plan;14.2793;09-Mar-2026
+151759;INF966L01BS0;INF966L01BT8;quant Business Cycle Fund - IDCW Option - Direct Plan;14.897;09-Mar-2026
+151760;INF966L01BV4;INF966L01BW2;quant Business Cycle Fund - IDCW Option - Regular Plan;14.293;09-Mar-2026
+152255;INF966L01DF3;-;quant Commodities Fund - Growth Option - Direct Plan;12.5128;09-Mar-2026
+152256;INF966L01DC0;-;quant Commodities Fund - Growth Option - Regular Plan;12.1037;09-Mar-2026
+152257;INF966L01DG1;INF966L01DH9;quant Commodities Fund - IDCW Option - Direct Plan;12.5088;09-Mar-2026
+152258;INF966L01DD8;INF966L01DE6;quant Commodities Fund - IDCW Option - Regular Plan;12.1019;09-Mar-2026
+152336;INF966L01DN7;-;quant Consumption Fund - Growth Option - Direct Plan;8.9284;09-Mar-2026
+152338;INF966L01DI7;-;quant Consumption Fund - Growth Option - Regular Plan;8.6397;09-Mar-2026
+152339;INF966L01DO5;INF966L01DP2;quant Consumption Fund - IDCW Option - Direct Plan;8.9327;09-Mar-2026
+152337;INF966L01DL1;INF966L01DM9;quant Consumption Fund - IDCW Option - Regular Plan;8.6431;09-Mar-2026
+148564;INF966L01AD4;-;quant ESG Integration Strategy Fund - Growth Option - Direct Plan;33.4052;09-Mar-2026
+148560;INF966L01AB8;-;quant ESG Integration Strategy Fund - Growth Option - Regular Plan;30.7604;09-Mar-2026
+148563;INF966L01AE2;INF966L01AG7;quant ESG Integration Strategy Fund - IDCW Option - Direct Plan;33.3638;09-Mar-2026
+148561;INF966L01AC6;INF966L01AF9;quant ESG Integration Strategy Fund - IDCW Option - Regular Plan;30.6111;09-Mar-2026
+151853;INF966L01CD0;-;quant Healthcare Fund - Growth Option - Direct Plan;15.0746;09-Mar-2026
+151855;INF966L01CG3;-;quant Healthcare Fund - Growth Option - Regular Plan;14.4371;09-Mar-2026
+151854;INF966L01CE8;INF966L01CF5;quant Healthcare Fund - IDCW Option - Direct Plan;15.0732;09-Mar-2026
+151856;INF966L01CH1;INF966L01CI9;quant Healthcare Fund - IDCW Option - Regular Plan;14.4363;09-Mar-2026
+106170;INF966L01523;-;quant Infrastructure Fund - Growth Option;34.2536;09-Mar-2026
+120833;INF966L01721;-;quant Infrastructure Fund - Growth Option-Direct Plan;37.8841;09-Mar-2026
+120832;INF966L01705;INF966L01713;quant Infrastructure Fund - IDCW Option - Direct Plan;37.854;09-Mar-2026
+106169;INF966L01507;INF966L01515;quant Infrastructure Fund - IDCW Option - Regular Plan;34.1763;09-Mar-2026
+151916;INF966L01CJ7;-;quant Manufacturing Fund - Growth Option - Direct Plan;13.6322;09-Mar-2026
+151913;INF966L01CN9;-;quant Manufacturing Fund - Growth Option - Regular Plan;13.1037;09-Mar-2026
+151914;INF966L01CK5;INF966L01CL3;quant Manufacturing Fund - IDCW Option - Direct Plan;13.6289;09-Mar-2026
+151915;INF966L01CO7;INF966L01CP4;quant Manufacturing Fund - IDCW Option - Regular Plan;13.2037;09-Mar-2026
+152189;INF966L01CZ3;-;quant Momentum Fund - Growth Option - Direct Plan;13.7954;09-Mar-2026
+152190;INF966L01CW0;-;quant Momentum Fund - Growth Option - Regular Plan;13.3915;09-Mar-2026
+152192;INF966L01DA4;INF966L01DB2;quant Momentum Fund - IDCW Option - Direct Plan;13.7816;09-Mar-2026
+152191;INF966L01CX8;INF966L01CY6;quant Momentum Fund - IDCW Option - Regular Plan;13.3491;09-Mar-2026
+152415;INF966L01DT4;-;quant PSU Fund - Growth Option - Direct Plan;9.7342;09-Mar-2026
+152413;INF966L01DQ0;-;quant PSU Fund - Growth Option - Regular Plan;9.4558;09-Mar-2026
+152416;INF966L01DU2;INF966L01DV0;quant PSU Fund - IDCW Option - Direct Plan;9.74;09-Mar-2026
+152414;INF966L01DR8;INF966L01DS6;quant PSU Fund - IDCW Option - Regular Plan;9.4554;09-Mar-2026
+148925;INF966L01AK9;-;quant Quantamental Fund - Growth Option - Direct Plan;23.732;09-Mar-2026
+148923;INF966L01AH5;-;quant Quantamental Fund - Growth Option - Regular Plan;22.0301;09-Mar-2026
+148924;INF966L01AL7;INF966L01AM5;quant Quantamental Fund - IDCW Option - Direct Plan;23.8629;09-Mar-2026
+148922;INF966L01AI3;INF966L01AJ1;quant Quantamental Fund - IDCW Option - Regular Plan;22.0555;09-Mar-2026
+152067;INF966L01CT6;-;quant Teck Fund - Growth Option - Direct Plan;8.9802;09-Mar-2026
+152070;INF966L01CQ2;-;quant Teck Fund - Growth Option - Regular Plan;8.6309;09-Mar-2026
+152068;INF966L01CU4;INF966L01CV2;quant Teck Fund - IDCW Option - Direct Plan;8.9756;09-Mar-2026
+152069;INF966L01CR0;INF966L01CS8;quant Teck Fund - IDCW Option - Regular Plan;8.6322;09-Mar-2026
  
 Quantum Mutual Fund
  
@@ -7343,27 +7343,27 @@ Tata Mutual Fund
  
 Taurus Mutual Fund
  
-118868;INF044D01CN2;-;Taurus Banking & Financial Services Fund - Direct Plan - Growth;59.42;06-Mar-2026
-118869;INF044D01CO0;INF044D01CP7;Taurus Banking & Financial Services Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;58.73;06-Mar-2026
-117312;INF044D01BI4;-;Taurus Banking & Financial Services Fund - Regular Plan - Growth;52.89;06-Mar-2026
-117313;INF044D01BJ2;INF044D01BK0;Taurus Banking & Financial Services Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;47.35;06-Mar-2026
-111903;INF044D01823;-;Taurus Ethical Fund -  Regular Plan - Bonus Option;122.11;06-Mar-2026
-118876;INF044D01CJ0;-;Taurus Ethical Fund - Direct Plan - Growth;138.84;06-Mar-2026
-118877;INF044D01CK8;INF044D01CL6;Taurus Ethical Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;93.20;06-Mar-2026
-111787;INF044D01864;-;Taurus Ethical Fund - Regular Plan - Growth;122.13;06-Mar-2026
-111788;INF044D01831;INF044D01849;Taurus Ethical Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;82.56;06-Mar-2026
-118878;INF044D01CM4;-;Taurus Ethical Fund-Direct Plan-Bonus Option #;45.50;06-Mar-2026
-118879;INF044D01CD3;-;Taurus Infrastructure Fund - Direct Plan - Growth ;67.75;06-Mar-2026
-118880;INF044D01CE1;INF044D01CF8;Taurus Infrastructure Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;63.10;06-Mar-2026
-105417;INF044D01906;-;Taurus Infrastructure Fund - Regular Plan - Growth;62.90;06-Mar-2026
-105418;INF044D01872;INF044D01880;Taurus Infrastructure Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;59.08;06-Mar-2026
+118868;INF044D01CN2;-;Taurus Banking & Financial Services Fund - Direct Plan - Growth;57.93;09-Mar-2026
+118869;INF044D01CO0;INF044D01CP7;Taurus Banking & Financial Services Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;57.27;09-Mar-2026
+117312;INF044D01BI4;-;Taurus Banking & Financial Services Fund - Regular Plan - Growth;51.57;09-Mar-2026
+117313;INF044D01BJ2;INF044D01BK0;Taurus Banking & Financial Services Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;46.17;09-Mar-2026
+111903;INF044D01823;-;Taurus Ethical Fund -  Regular Plan - Bonus Option;120.07;09-Mar-2026
+118876;INF044D01CJ0;-;Taurus Ethical Fund - Direct Plan - Growth;136.54;09-Mar-2026
+118877;INF044D01CK8;INF044D01CL6;Taurus Ethical Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;91.66;09-Mar-2026
+111787;INF044D01864;-;Taurus Ethical Fund - Regular Plan - Growth;120.09;09-Mar-2026
+111788;INF044D01831;INF044D01849;Taurus Ethical Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;81.18;09-Mar-2026
+118878;INF044D01CM4;-;Taurus Ethical Fund-Direct Plan-Bonus Option #;44.75;09-Mar-2026
+118879;INF044D01CD3;-;Taurus Infrastructure Fund - Direct Plan - Growth ;66.41;09-Mar-2026
+118880;INF044D01CE1;INF044D01CF8;Taurus Infrastructure Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;61.84;09-Mar-2026
+105417;INF044D01906;-;Taurus Infrastructure Fund - Regular Plan - Growth;61.64;09-Mar-2026
+105418;INF044D01872;INF044D01880;Taurus Infrastructure Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;57.90;09-Mar-2026
  
 The Wealth Company Mutual Fund
  
-153895;INF2F0001214;-;THE WEALTH COMPANY ETHICAL FUND DIRECT GROWTH;9.3597;06-Mar-2026
-153898;INF2F0001206;INF2F0001198;THE WEALTH COMPANY ETHICAL FUND DIRECT IDCW;9.3603;06-Mar-2026
-153897;INF2F0001248;-;THE WEALTH COMPANY ETHICAL FUND REGULAR GROWTH;9.3065;06-Mar-2026
-153896;INF2F0001230;INF2F0001222;THE WEALTH COMPANY ETHICAL FUND REGULAR IDCW;9.3061;06-Mar-2026
+153895;INF2F0001214;-;THE WEALTH COMPANY ETHICAL FUND DIRECT GROWTH;9.1847;09-Mar-2026
+153898;INF2F0001206;INF2F0001198;THE WEALTH COMPANY ETHICAL FUND DIRECT IDCW;9.1852;09-Mar-2026
+153897;INF2F0001248;-;THE WEALTH COMPANY ETHICAL FUND REGULAR GROWTH;9.1313;09-Mar-2026
+153896;INF2F0001230;INF2F0001222;THE WEALTH COMPANY ETHICAL FUND REGULAR IDCW;9.131;09-Mar-2026
  
 Union Mutual Fund
  
@@ -7522,10 +7522,10 @@ HDFC Mutual Fund
  
 Helios Mutual Fund
  
-153912;INF0R8701384;-;Helios Small Cap Fund - Direct Plan - Growth Option;8.98;06-Mar-2026
-153910;INF0R8701392;INF0R8701400;Helios Small Cap Fund - Direct Plan - IDCW Option;8.98;06-Mar-2026
-153909;INF0R8701350;-;Helios Small Cap Fund - Regular Plan - Growth Option;8.95;06-Mar-2026
-153911;INF0R8701368;INF0R8701376;Helios Small Cap Fund - Regular Plan - IDCW Option;8.95;06-Mar-2026
+153912;INF0R8701384;-;Helios Small Cap Fund - Direct Plan - Growth Option;8.83;09-Mar-2026
+153910;INF0R8701392;INF0R8701400;Helios Small Cap Fund - Direct Plan - IDCW Option;8.83;09-Mar-2026
+153909;INF0R8701350;-;Helios Small Cap Fund - Regular Plan - Growth Option;8.79;09-Mar-2026
+153911;INF0R8701368;INF0R8701376;Helios Small Cap Fund - Regular Plan - IDCW Option;8.79;09-Mar-2026
  
 HSBC Mutual Fund
  
@@ -7616,10 +7616,10 @@ PGIM India Mutual Fund
  
 quant Mutual Fund
  
-100177;INF966L01AA0;-;quant Small Cap Fund - Growth - Regular Plan;230.56;06-Mar-2026
-120828;INF966L01689;-;quant Small Cap Fund - Growth Option - Direct Plan;251.8471;06-Mar-2026
-120827;INF966L01663;INF966L01671;quant Small Cap Fund - IDCW Option - Direct Plan;196.8672;06-Mar-2026
-100176;INF206A01022;INF966L01044;quant Small Cap Fund - IDCW Option - Regular Plan;183.3545;06-Mar-2026
+100177;INF966L01AA0;-;quant Small Cap Fund - Growth - Regular Plan;226.4894;09-Mar-2026
+120828;INF966L01689;-;quant Small Cap Fund - Growth Option - Direct Plan;247.4176;09-Mar-2026
+120827;INF966L01663;INF966L01671;quant Small Cap Fund - IDCW Option - Direct Plan;193.4047;09-Mar-2026
+100176;INF206A01022;INF966L01044;quant Small Cap Fund - IDCW Option - Regular Plan;180.1174;09-Mar-2026
  
 Quantum Mutual Fund
  
@@ -7714,10 +7714,10 @@ Canara Robeco Mutual Fund
  
 DSP Mutual Fund
  
-148595;INF740KA1PP3;-;DSP Value Fund - Direct Plan - Growth;23.613;05-Mar-2026
-148596;INF740KA1PQ1;INF740KA1PR9;DSP Value Fund - Direct Plan - IDCW;19.495;05-Mar-2026
-148594;INF740KA1PM0;-;DSP Value Fund - Regular Plan - Growth;22.679;05-Mar-2026
-148597;INF740KA1PN8;INF740KA1PO6;DSP Value Fund - Regular Plan - IDCW;17.26;05-Mar-2026
+148595;INF740KA1PP3;-;DSP Value Fund - Direct Plan - Growth;23.471;06-Mar-2026
+148596;INF740KA1PQ1;INF740KA1PR9;DSP Value Fund - Direct Plan - IDCW;17.778;06-Mar-2026
+148594;INF740KA1PM0;-;DSP Value Fund - Regular Plan - Growth;22.543;06-Mar-2026
+148597;INF740KA1PN8;INF740KA1PO6;DSP Value Fund - Regular Plan - IDCW;15.756;06-Mar-2026
  
 Franklin Templeton Mutual Fund
  
@@ -7797,10 +7797,10 @@ Nippon India Mutual Fund
  
 quant Mutual Fund
  
-149335;INF966L01AN3;-;Quant Value Fund - Growth Option  - Direct Plan;20.2216;06-Mar-2026
-149337;INF966L01AQ6;-;Quant Value Fund - Growth Option - Regular Plan;18.8522;06-Mar-2026
-149338;INF966L01AO1;INF966L01AP8;Quant Value Fund - IDCW Option - Direct Plan;19.213;06-Mar-2026
-149336;INF966L01AR4;INF966L01AS2;Quant Value Fund - IDCW Option- Regular Plan;18.9555;06-Mar-2026
+149335;INF966L01AN3;-;Quant Value Fund - Growth Option  - Direct Plan;19.9912;09-Mar-2026
+149337;INF966L01AQ6;-;Quant Value Fund - Growth Option - Regular Plan;18.6351;09-Mar-2026
+149338;INF966L01AO1;INF966L01AP8;Quant Value Fund - IDCW Option - Direct Plan;18.9941;09-Mar-2026
+149336;INF966L01AR4;INF966L01AS2;Quant Value Fund - IDCW Option- Regular Plan;18.7372;09-Mar-2026
  
 Quantum Mutual Fund
  
@@ -8093,10 +8093,10 @@ PGIM India Mutual Fund
  
 quant Mutual Fund
  
-101070;INF966L01267;-;quant Aggressive Hybrid Fund - Growth Option - Regular Plan;415.1497;06-Mar-2026
-120819;INF966L01556;-;quant Aggressive Hybrid Fund-Growth Option-Direct Plan;455.8756;06-Mar-2026
-101069;INF966L01242;INF966L01259;quant Aggressive Hybrid Fund-IDCW Option - Regular Plan;57.2605;06-Mar-2026
-120818;INF966L01531;INF966L01549;quant Aggressive Hybrid Fund-IDCW Option-Direct Plan;63.141;06-Mar-2026
+101070;INF966L01267;-;quant Aggressive Hybrid Fund - Growth Option - Regular Plan;409.6746;09-Mar-2026
+120819;INF966L01556;-;quant Aggressive Hybrid Fund-Growth Option-Direct Plan;449.9102;09-Mar-2026
+101069;INF966L01242;INF966L01259;quant Aggressive Hybrid Fund-IDCW Option - Regular Plan;56.5053;09-Mar-2026
+120818;INF966L01531;INF966L01549;quant Aggressive Hybrid Fund-IDCW Option-Direct Plan;62.3147;09-Mar-2026
  
 SBI Mutual Fund
  
@@ -8352,10 +8352,10 @@ NJ Mutual Fund
  
 Old Bridge Mutual Fund
  
-153981;INF0S5R01075;INF0S5R01083;Old Bridge Arbitrage Fund - Direct - IDCW;10.2141;06-Mar-2026
-153979;INF0S5R01125;-;Old Bridge Arbitrage Fund Direct Growth;10.2141;06-Mar-2026
-153977;INF0S5R01091;-;Old Bridge Arbitrage Fund Regular Growth;10.1867;06-Mar-2026
-153980;INF0S5R01109;INF0S5R01117;Old Bridge Arbitrage Fund Regular IDCW;10.1867;06-Mar-2026
+153981;INF0S5R01075;INF0S5R01083;Old Bridge Arbitrage Fund - Direct - IDCW;10.2107;09-Mar-2026
+153979;INF0S5R01125;-;Old Bridge Arbitrage Fund Direct Growth;10.2107;09-Mar-2026
+153977;INF0S5R01091;-;Old Bridge Arbitrage Fund Regular Growth;10.1827;09-Mar-2026
+153980;INF0S5R01109;INF0S5R01117;Old Bridge Arbitrage Fund Regular IDCW;10.1827;09-Mar-2026
  
 PGIM India Mutual Fund
  
@@ -8378,10 +8378,10 @@ PPFAS Mutual Fund
  
 quant Mutual Fund
  
-153426;INF966L01DW8;-;quant Arbitrage Fund - Growth Option - Direct Plan;10.6865;06-Mar-2026
-153428;INF966L01DZ1;-;quant Arbitrage Fund - Growth Option - Regular Plan;10.6297;06-Mar-2026
-153427;INF966L01DX6;INF966L01DY4;quant Arbitrage Fund - IDCW Option - Direct Plan;10.6798;06-Mar-2026
-153429;INF966L01EA2;INF966L01EB0;quant Arbitrage Fund - IDCW Option - Regular Plan;10.6298;06-Mar-2026
+153426;INF966L01DW8;-;quant Arbitrage Fund - Growth Option - Direct Plan;10.6813;09-Mar-2026
+153428;INF966L01DZ1;-;quant Arbitrage Fund - Growth Option - Regular Plan;10.6239;09-Mar-2026
+153427;INF966L01DX6;INF966L01DY4;quant Arbitrage Fund - IDCW Option - Direct Plan;10.6745;09-Mar-2026
+153429;INF966L01EA2;INF966L01EB0;quant Arbitrage Fund - IDCW Option - Regular Plan;10.6241;09-Mar-2026
  
 Samco Mutual Fund
  
@@ -8413,10 +8413,10 @@ Tata Mutual Fund
  
 The Wealth Company Mutual Fund
  
-153891;INF2F0001271;-;THE WEALTH COMPANY ARBITRAGE FUND DIRECT GROWTH;10.2621;06-Mar-2026
-153893;INF2F0001263;INF2F0001255;THE WEALTH COMPANY ARBITRAGE FUND DIRECT IDCW;10.2615;06-Mar-2026
-153892;INF2F0001305;-;THE WEALTH COMPANY ARBITRAGE FUND REGULAR GROWTH;10.2364;06-Mar-2026
-153894;INF2F0001289;INF2F0001297;THE WEALTH COMPANY ARITRAGE FUND REGULAR IDCW;10.2363;06-Mar-2026
+153891;INF2F0001271;-;THE WEALTH COMPANY ARBITRAGE FUND DIRECT GROWTH;10.2611;09-Mar-2026
+153893;INF2F0001263;INF2F0001255;THE WEALTH COMPANY ARBITRAGE FUND DIRECT IDCW;10.2605;09-Mar-2026
+153892;INF2F0001305;-;THE WEALTH COMPANY ARBITRAGE FUND REGULAR GROWTH;10.2348;09-Mar-2026
+153894;INF2F0001289;INF2F0001297;THE WEALTH COMPANY ARITRAGE FUND REGULAR IDCW;10.2347;09-Mar-2026
  
 Trust Mutual Fund
  
@@ -8728,10 +8728,10 @@ HDFC Mutual Fund
  
 Helios Mutual Fund
  
-152509;INF0R8701145;-;Helios Balanced Advantage Fund- Direct Plan- Growth Option;11.58;06-Mar-2026
-152511;INF0R8701152;INF0R8701160;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;11.58;06-Mar-2026
-152512;INF0R8701111;-;Helios Balanced Advantage Fund- Regular Plan- Growth Option;11.23;06-Mar-2026
-152510;INF0R8701129;INF0R8701137;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;11.23;06-Mar-2026
+152509;INF0R8701145;-;Helios Balanced Advantage Fund- Direct Plan- Growth Option;11.43;09-Mar-2026
+152511;INF0R8701152;INF0R8701160;Helios Balanced Advantage Fund- Direct Plan-IDCW Option;11.43;09-Mar-2026
+152512;INF0R8701111;-;Helios Balanced Advantage Fund- Regular Plan- Growth Option;11.08;09-Mar-2026
+152510;INF0R8701129;INF0R8701137;Helios Balanced Advantage Fund- Regular Plan-IDCW Option;11.08;09-Mar-2026
  
 HSBC Mutual Fund
  
@@ -8834,10 +8834,10 @@ PPFAS Mutual Fund
  
 quant Mutual Fund
  
-151713;INF966L01BL5;-;quant Dynamic Asset Allocation Fund - Growth Option - Direct Plan;16.4466;06-Mar-2026
-151714;INF966L01BO9;-;quant Dynamic Asset Allocation Fund - Growth Option - Regular Plan;15.741;06-Mar-2026
-151712;INF966L01BM3;INF966L01BN1;quant Dynamic Asset Allocation Fund - IDCW Option - Direct Plan;16.4413;06-Mar-2026
-151715;INF966L01BP6;INF966L01BQ4;quant Dynamic Asset Allocation Fund - IDCW Option - Regular Plan;15.7424;06-Mar-2026
+151713;INF966L01BL5;-;quant Dynamic Asset Allocation Fund - Growth Option - Direct Plan;16.2181;09-Mar-2026
+151714;INF966L01BO9;-;quant Dynamic Asset Allocation Fund - Growth Option - Regular Plan;15.5205;09-Mar-2026
+151712;INF966L01BM3;INF966L01BN1;quant Dynamic Asset Allocation Fund - IDCW Option - Direct Plan;16.2129;09-Mar-2026
+151715;INF966L01BP6;INF966L01BQ4;quant Dynamic Asset Allocation Fund - IDCW Option - Regular Plan;15.522;09-Mar-2026
  
 Samco Mutual Fund
  
@@ -8878,10 +8878,10 @@ Tata Mutual Fund
  
 The Wealth Company Mutual Fund
  
-154185;INF2F0001479;-;The Wealth Company Balanced Advantage Fund - Direct Growth;9.8206;06-Mar-2026
-154186;INF2F0001487;INF2F0001495;The Wealth Company Balanced Advantage Fund - Direct IDCW;9.8206;06-Mar-2026
-154183;INF2F0001446;-;The Wealth Company Balanced Advantage Fund - Regular Growth;9.8106;06-Mar-2026
-154184;INF2F0001453;INF2F0001461;The Wealth Company Balanced Advantage Fund - Regular IDCW;9.8105;06-Mar-2026
+154185;INF2F0001479;-;The Wealth Company Balanced Advantage Fund - Direct Growth;9.7379;09-Mar-2026
+154186;INF2F0001487;INF2F0001495;The Wealth Company Balanced Advantage Fund - Direct IDCW;9.7378;09-Mar-2026
+154183;INF2F0001446;-;The Wealth Company Balanced Advantage Fund - Regular Growth;9.7263;09-Mar-2026
+154184;INF2F0001453;INF2F0001461;The Wealth Company Balanced Advantage Fund - Regular IDCW;9.7262;09-Mar-2026
  
 Unifi Mutual Fund
  
@@ -9102,10 +9102,10 @@ PGIM India Mutual Fund
  
 quant Mutual Fund
  
-153705;INF966L01EC8;-;quant Equity Savings Fund - Growth Option - Direct Plan;10.1455;06-Mar-2026
-153707;INF966L01EF1;-;quant Equity Savings Fund - Growth Option - Regular Plan;10.0386;06-Mar-2026
-153706;INF966L01ED6;INF966L01EE4;quant Equity Savings Fund - IDCW Option - Direct Plan;10.1319;06-Mar-2026
-153708;INF966L01EG9;INF966L01EH7;quant Equity Savings Fund - IDCW Option - Regular Plan;10.0382;06-Mar-2026
+153705;INF966L01EC8;-;quant Equity Savings Fund - Growth Option - Direct Plan;10.0818;09-Mar-2026
+153707;INF966L01EF1;-;quant Equity Savings Fund - Growth Option - Regular Plan;9.9742;09-Mar-2026
+153706;INF966L01ED6;INF966L01EE4;quant Equity Savings Fund - IDCW Option - Direct Plan;10.0681;09-Mar-2026
+153708;INF966L01EG9;INF966L01EH7;quant Equity Savings Fund - IDCW Option - Regular Plan;9.9738;09-Mar-2026
  
 SBI Mutual Fund
  
@@ -9317,10 +9317,10 @@ PGIM India Mutual Fund
  
 quant Mutual Fund
  
-120820;INF966L01564;INF966L01572;quant Multi Asset Allocation Fund - IDCW Option - Direct Plan;158.5935;06-Mar-2026
-101071;INF966L01184;INF966L01192;quant Multi Asset Allocation Fund - IDCW Option - Regular Plan;145.9184;06-Mar-2026
-101072;INF966L01200;-;quant Multi Asset Allocation Fund-GROWTH OPTION - Regular Plan;159.1795;06-Mar-2026
-120821;INF966L01580;-;quant Multi Asset Allocation Fund-GROWTH OPTION-Direct Plan;172.086;06-Mar-2026
+120820;INF966L01564;INF966L01572;quant Multi Asset Allocation Fund - IDCW Option - Direct Plan;157.3094;09-Mar-2026
+101071;INF966L01184;INF966L01192;quant Multi Asset Allocation Fund - IDCW Option - Regular Plan;144.723;09-Mar-2026
+101072;INF966L01200;-;quant Multi Asset Allocation Fund-GROWTH OPTION - Regular Plan;157.8755;09-Mar-2026
+120821;INF966L01580;-;quant Multi Asset Allocation Fund-GROWTH OPTION-Direct Plan;170.6927;09-Mar-2026
  
 Quantum Mutual Fund
  
@@ -9368,10 +9368,10 @@ Tata Mutual Fund
  
 The Wealth Company Mutual Fund
  
-153999;INF2F0001347;-;The Wealth Company Multi Asset Allocation Fund - Direct Growth;10.4546;06-Mar-2026
-154000;INF2F0001354;INF2F0001362;The Wealth Company Multi Asset Allocation Fund - Direct IDCW;10.4539;06-Mar-2026
-154002;INF2F0001313;-;The Wealth Company Multi Asset Allocation Fund - Regular Growth;10.4137;06-Mar-2026
-154001;INF2F0001321;INF2F0001339;The Wealth Company Multi Asset Allocation Fund - Regular IDCW;10.4061;06-Mar-2026
+153999;INF2F0001347;-;The Wealth Company Multi Asset Allocation Fund - Direct Growth;10.3609;09-Mar-2026
+154000;INF2F0001354;INF2F0001362;The Wealth Company Multi Asset Allocation Fund - Direct IDCW;10.3601;09-Mar-2026
+154002;INF2F0001313;-;The Wealth Company Multi Asset Allocation Fund - Regular Growth;10.3189;09-Mar-2026
+154001;INF2F0001321;INF2F0001339;The Wealth Company Multi Asset Allocation Fund - Regular IDCW;10.3114;09-Mar-2026
  
 Union Mutual Fund
  
@@ -9581,9 +9581,9 @@ Open Ended Schemes(Money Market)
  
 Taurus Mutual Fund
  
-139619;-;-;Taurus Investor Education Pool - Unclaimed Dividend - Growth;10.0000;06-Mar-2026
-139618;-;-;Taurus Investor Education Pool - Unclaimed Redemption - Growth;10.0000;06-Mar-2026
-139617;-;-;Taurus Unclaimed Redemption - Growth;17.4413;06-Mar-2026
+139619;-;-;Taurus Investor Education Pool - Unclaimed Dividend - Growth;10.0000;09-Mar-2026
+139618;-;-;Taurus Investor Education Pool - Unclaimed Redemption - Growth;10.0000;09-Mar-2026
+139617;-;-;Taurus Unclaimed Redemption - Growth;17.4465;09-Mar-2026
  
 Open Ended Schemes(Other Scheme - FoF Domestic)
  
@@ -10163,10 +10163,10 @@ Tata Mutual Fund
  
 The Wealth Company Mutual Fund
  
-154131;INF2F0001412;-;THE WEALTH COMPANY GOLD ETF FOF DIRECT GROWTH;9.9982;06-Mar-2026
-154132;INF2F0001420;INF2F0001438;THE WEALTH COMPANY GOLD ETF FOF DIRECT IDCW;9.9982;06-Mar-2026
-154133;INF2F0001388;-;THE WEALTH COMPANY GOLD ETF FOF REGULAR GROWTH;9.9939;06-Mar-2026
-154134;INF2F0001396;INF2F0001404;THE WEALTH COMPANY GOLD ETF FOF REGULAR IDCW;9.9939;06-Mar-2026
+154131;INF2F0001412;-;THE WEALTH COMPANY GOLD ETF FOF DIRECT GROWTH;10.0106;09-Mar-2026
+154132;INF2F0001420;INF2F0001438;THE WEALTH COMPANY GOLD ETF FOF DIRECT IDCW;10.0105;09-Mar-2026
+154133;INF2F0001388;-;THE WEALTH COMPANY GOLD ETF FOF REGULAR GROWTH;10.0059;09-Mar-2026
+154134;INF2F0001396;INF2F0001404;THE WEALTH COMPANY GOLD ETF FOF REGULAR IDCW;10.0059;09-Mar-2026
  
 Union Mutual Fund
  
@@ -10202,14 +10202,14 @@ Open Ended Schemes(Other Scheme - FoF Overseas)
  
 Aditya Birla Sun Life Mutual Fund
  
-132141;INF084M01EC8;INF084M01ED6;Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct - IDCW;26.7676;05-Mar-2026
-132140;INF084M01EB0;-;Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct plan - Growth Option;30.2648;05-Mar-2026
-132139;INF084M01AU8;INF084M01AV6;Aditya Birla Sun Life Global Emerging Opportunities Fund - Regular - IDCW;28.8202;05-Mar-2026
-132138;INF084M01AT0;-;Aditya Birla SUn Life Global Emerging Opportunities Fund - Regular Plan - Growth Option;28.815;05-Mar-2026
-132009;INF084M01EH7;-;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund - Retail Plan - Direct Plan - Growth Option;41.3183;05-Mar-2026
-132005;INF084M01AZ7;-;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund- Retail Plan - Regular Plan - Growth Option;38.7005;05-Mar-2026
-132010;INF084M01EI5;INF084M01EJ3;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-DIRECT - RETAIL - IDCW;41.3394;05-Mar-2026
-132003;INF084M01BA8;INF084M01BB6;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-REGULAR - RETAIL - IDCW;38.7245;05-Mar-2026
+132141;INF084M01EC8;INF084M01ED6;Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct - IDCW;26.3511;06-Mar-2026
+132140;INF084M01EB0;-;Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct plan - Growth Option;29.7938;06-Mar-2026
+132139;INF084M01AU8;INF084M01AV6;Aditya Birla Sun Life Global Emerging Opportunities Fund - Regular - IDCW;28.3713;06-Mar-2026
+132138;INF084M01AT0;-;Aditya Birla SUn Life Global Emerging Opportunities Fund - Regular Plan - Growth Option;28.3662;06-Mar-2026
+132009;INF084M01EH7;-;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund - Retail Plan - Direct Plan - Growth Option;40.7644;06-Mar-2026
+132005;INF084M01AZ7;-;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund- Retail Plan - Regular Plan - Growth Option;38.1811;06-Mar-2026
+132010;INF084M01EI5;INF084M01EJ3;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-DIRECT - RETAIL - IDCW;40.7852;06-Mar-2026
+132003;INF084M01BA8;INF084M01BB6;Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-REGULAR - RETAIL - IDCW;38.2048;06-Mar-2026
 149289;INF209KB19C3;INF209KB10D0;Aditya Birla Sun Life US Equity Passive FOF-Direct IDCW;18.7039;06-Mar-2026
 149291;INF209KB18C5;-;Aditya Birla Sun Life US Equity Passive FOF-Direct-Growth;18.7013;06-Mar-2026
 149290;INF209KB15C1;-;Aditya Birla Sun Life US Equity Passive FOF-Regular Growth;18.391;06-Mar-2026
@@ -10259,10 +10259,10 @@ Bandhan Mutual Fund
  
 Baroda BNP Paribas Mutual Fund
  
-150285;INF251K01QT5;-;Baroda BNP Paribas Aqua Fund of Fund - Direct Plan - Growth Option;15.7939;05-Mar-2026
-150287;INF251K01QU3;INF251K01QV1;Baroda BNP Paribas Aqua Fund of Fund - Direct Plan - IDCW Option;15.7939;05-Mar-2026
-150286;INF251K01QR9;INF251K01QS7;Baroda BNP Paribas Aqua Fund of Fund - Regular Plan - IDCW Option;15.0027;05-Mar-2026
-150284;INF251K01QQ1;-;Baroda BNP Paribas Aqua Fund of Fund - Regular Plan Growth;15.0027;05-Mar-2026
+150285;INF251K01QT5;-;Baroda BNP Paribas Aqua Fund of Fund - Direct Plan - Growth Option;15.4936;06-Mar-2026
+150287;INF251K01QU3;INF251K01QV1;Baroda BNP Paribas Aqua Fund of Fund - Direct Plan - IDCW Option;15.4936;06-Mar-2026
+150286;INF251K01QR9;INF251K01QS7;Baroda BNP Paribas Aqua Fund of Fund - Regular Plan - IDCW Option;14.7171;06-Mar-2026
+150284;INF251K01QQ1;-;Baroda BNP Paribas Aqua Fund of Fund - Regular Plan Growth;14.7171;06-Mar-2026
  
 DSP Mutual Fund
  
@@ -10270,10 +10270,10 @@ DSP Mutual Fund
 112126;INF740K01284;-;DSP Global Clean Energy Overseas Equity Omni FoF - Regular Plan - Growth;25.4067;06-Mar-2026
 112127;INF740K01292;INF740K01300;DSP Global Clean Energy Overseas Equity Omni FoF - Regular Plan - IDCW;17.6656;06-Mar-2026
 119275;INF740K01PC5;-;DSP Global Clean Energy Overseas Equity Omni FoF Direct Plan - Growth;26.8522;06-Mar-2026
-149816;INF740KA1QP1;-;DSP Global Innovation Overseas Equity Omni FoF - Direct - Growth;19.0714;05-Mar-2026
-149815;INF740KA1QQ9;INF740KA1QR7;DSP Global Innovation Overseas Equity Omni FoF - Direct - IDCW;19.0714;05-Mar-2026
-149817;INF740KA1QM8;-;DSP Global Innovation Overseas Equity Omni FoF - Regular - Growth;18.3815;05-Mar-2026
-149814;INF740KA1QN6;INF740KA1QO4;DSP Global Innovation Overseas Equity Omni FoF - Regular - IDCW;18.3815;05-Mar-2026
+149816;INF740KA1QP1;-;DSP Global Innovation Overseas Equity Omni FoF - Direct - Growth;18.9277;06-Mar-2026
+149815;INF740KA1QQ9;INF740KA1QR7;DSP Global Innovation Overseas Equity Omni FoF - Direct - IDCW;18.9277;06-Mar-2026
+149817;INF740KA1QM8;-;DSP Global Innovation Overseas Equity Omni FoF - Regular - Growth;18.2425;06-Mar-2026
+149814;INF740KA1QN6;INF740KA1QO4;DSP Global Innovation Overseas Equity Omni FoF - Regular - IDCW;18.2425;06-Mar-2026
 152528;INF740KA1UJ6;-;DSP US Specific Debt Passive FoF - Direct - Growth;12.2312;06-Mar-2026
 152529;INF740KA1UK4;INF740KA1UL2;DSP US Specific Debt Passive FoF - Direct - IDCW;12.2312;06-Mar-2026
 152527;INF740KA1UG2;-;DSP US Specific Debt Passive FoF - Regular - Growth;12.2191;06-Mar-2026
@@ -10315,8 +10315,8 @@ Franklin Templeton Mutual Fund
  
 HDFC Mutual Fund
  
-149180;INF179KC1BO4;-;HDFC Developed World Overseas Equity Passive FOF - Direct Plan - Growth Option;18.918;05-Mar-2026
-149181;INF179KC1BP1;-;HDFC Developed World Overseas Equity Passive FOF - Growth Option;18.532;05-Mar-2026
+149180;INF179KC1BO4;-;HDFC Developed World Overseas Equity Passive FOF - Direct Plan - Growth Option;18.828;06-Mar-2026
+149181;INF179KC1BP1;-;HDFC Developed World Overseas Equity Passive FOF - Growth Option;18.443;06-Mar-2026
  
 HSBC Mutual Fund
  
@@ -10371,10 +10371,10 @@ Kotak Mahindra Mutual Fund
 106442;INF174K01DX9;INF174K01DW1;Kotak Global Emerging Market Overseas Equity Omni FOF - Payout of Income Distribution cum capital withdrawal option;33.317;06-Mar-2026
 119778;INF174K01LX2;INF174K01LY0;Kotak Global Emerging Market Overseas Equity Omni FOF - Payout of Income Distribution cum capital withdrawal option - Direct;36.393;06-Mar-2026
 106441;INF174K01DV3;-;Kotak Global Emerging Market Overseas Equity Omni FOF- Growth;33.314;06-Mar-2026
-149058;INF174KA1HE9;INF174KA1HF6;Kotak Global Innovation Overseas Equity Omni FOF - Regular Plan -IDCW Option;12.601;05-Mar-2026
-149056;INF174KA1HD1;-;Kotak Global Innovation Overseas Equity Omni FOF - Regular Plan-Growth;12.6006;05-Mar-2026
-149060;INF174KA1HH2;INF174KA1HI0;Kotak Global Innovation Overseas Equity Omni FOF- Direct Plan - IDCW Option;13.3092;05-Mar-2026
-149059;INF174KA1HG4;-;Kotak Global Innovation Overseas Equity Omni FOF- Direct Plan -Growth;13.3111;05-Mar-2026
+149058;INF174KA1HE9;INF174KA1HF6;Kotak Global Innovation Overseas Equity Omni FOF - Regular Plan -IDCW Option;12.4445;06-Mar-2026
+149056;INF174KA1HD1;-;Kotak Global Innovation Overseas Equity Omni FOF - Regular Plan-Growth;12.4441;06-Mar-2026
+149060;INF174KA1HH2;INF174KA1HI0;Kotak Global Innovation Overseas Equity Omni FOF- Direct Plan - IDCW Option;13.1443;06-Mar-2026
+149059;INF174KA1HG4;-;Kotak Global Innovation Overseas Equity Omni FOF- Direct Plan -Growth;13.1462;06-Mar-2026
 148646;INF174KA1FO2;-;Kotak International REIT Overseas Equity Omni FOF - Direct Plan - Growth;11.8072;06-Mar-2026
 148649;INF174KA1FN4;INF174KA1FP9;Kotak International REIT Overseas Equity Omni FOF - Direct Plan - Payout of Income Distribution cum capital withdrawal option;11.8071;06-Mar-2026
 148645;INF174KA1FL8;-;Kotak International REIT Overseas Equity Omni FOF - Regular Plan - Growth;11.2712;06-Mar-2026
@@ -10445,10 +10445,10 @@ SBI Mutual Fund
  
 Sundaram Mutual Fund
  
-119602;INF903J01OB6;-;Sundaram Global Brand Theme-Equity Active FOF - Direct Growth;43.1723;05-Mar-2026
-119601;INF903J01NZ7;INF903J01OA8;Sundaram Global Brand Theme-Equity Active FOF - Direct IDCW;36.2318;05-Mar-2026
-106370;INF903J01EX1;-;Sundaram Global Brand Theme-Equity Active FOF - Regular Growth;39.2050;05-Mar-2026
-106369;INF903J01EY9;INF903J01EZ6;Sundaram Global Brand Theme-Equity Active FOF - Regular IDCW;31.6926;05-Mar-2026
+119602;INF903J01OB6;-;Sundaram Global Brand Theme-Equity Active FOF - Direct Growth;42.8436;06-Mar-2026
+119601;INF903J01NZ7;INF903J01OA8;Sundaram Global Brand Theme-Equity Active FOF - Direct IDCW;35.9560;06-Mar-2026
+106370;INF903J01EX1;-;Sundaram Global Brand Theme-Equity Active FOF - Regular Growth;38.9055;06-Mar-2026
+106369;INF903J01EY9;INF903J01EZ6;Sundaram Global Brand Theme-Equity Active FOF - Regular IDCW;31.4505;06-Mar-2026
  
 Open Ended Schemes(Other Scheme - Gold ETF)
  
@@ -10478,7 +10478,7 @@ Baroda BNP Paribas Mutual Fund
  
 Choice Mutual Fund
  
-153933;INF2KCX01012;-;Choice Gold ETF;156.3428;06-Mar-2026
+153933;INF2KCX01012;-;Choice Gold ETF;157.3714;09-Mar-2026
  
 DSP Mutual Fund
  
@@ -10510,7 +10510,7 @@ Kotak Mahindra Mutual Fund
  
 LIC Mutual Fund
  
-151961;INF397L01554;-;LIC MF Gold Exchange Traded Fund;142.4556;06-Mar-2026
+151961;INF397L01554;-;LIC MF Gold Exchange Traded Fund;143.4628;09-Mar-2026
  
 Mirae Asset Mutual Fund
  
@@ -10538,7 +10538,7 @@ Tata Mutual Fund
  
 The Wealth Company Mutual Fund
  
-154092;INF2F0001370;-;The Wealth Company Gold ETF;156.299;06-Mar-2026
+154092;INF2F0001370;-;The Wealth Company Gold ETF;157.3091;09-Mar-2026
  
 Union Mutual Fund
  
@@ -11839,10 +11839,10 @@ Tata Mutual Fund
  
 Taurus Mutual Fund
  
-118881;INF044D01CQ5;-;Taurus Nifty 50 Index Fund - Direct Plan - Growth;49.5343;06-Mar-2026
-118882;INF044D01CR3;INF044D01CS1;Taurus Nifty 50 Index Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;46.3585;06-Mar-2026
-112948;INF044D01948;-;Taurus Nifty 50 Index Fund - Regular Plan - Growth;46.4229;06-Mar-2026
-112949;INF044D01914;INF044D01922;Taurus Nifty 50 Index Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;29.5984;06-Mar-2026
+118881;INF044D01CQ5;-;Taurus Nifty 50 Index Fund - Direct Plan - Growth;48.6811;09-Mar-2026
+118882;INF044D01CR3;INF044D01CS1;Taurus Nifty 50 Index Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option;45.5600;09-Mar-2026
+112948;INF044D01948;-;Taurus Nifty 50 Index Fund - Regular Plan - Growth;45.6220;09-Mar-2026
+112949;INF044D01914;INF044D01922;Taurus Nifty 50 Index Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option;29.0877;09-Mar-2026
  
 UTI Mutual Fund
  
@@ -11964,6 +11964,7 @@ DSP Mutual Fund
 152555;INF740KA1UM0;-;DSP BSE Liquid Rate ETF;1116.4249;08-Mar-2026
 151886;INF740KA1SZ6;-;DSP BSE Sensex ETF;80.8272;06-Mar-2026
 153228;INF740KA1VE5;-;DSP BSE SENSEX Next 30 ETF;40.4401;06-Mar-2026
+154256;INF740KA1YH2;-;DSP BSE Top 10 Banks ETF;17.2491;06-Mar-2026
 153975;INF740KA1WV7;-;DSP MSCI INDIA ETF;29.0946;06-Mar-2026
 142589;-;INF740KA1EU7;DSP NIFTY 1D Rate Liquid ETF;1000.0000;08-Mar-2026
 149286;INF740KA1QK2;-;DSP Nifty 50 Equal Weight ETF;333.1986;06-Mar-2026
