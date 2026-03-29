@@ -1635,12 +1635,12 @@ Capitalmind Mutual Fund
  
 DSP Mutual Fund
  
-119125;INF740K01QL4;-;DSP Liquidity Fund - Direct Plan - Growth;3936.9692;28-Mar-2026
-119124;-;INF740KA1OB6;DSP Liquidity Fund - Direct Plan - IDCW - Daily;1001.3620;28-Mar-2026
-119123;INF740KA1OC4;INF740KA1OD2;DSP Liquidity Fund - Direct Plan - IDCW - Weekly;1001.6261;28-Mar-2026
-103347;INF740K01FK9;-;DSP Liquidity Fund - Regular Plan - Growth;3889.6367;28-Mar-2026
-103348;INF740K01FM5;INF740K01FL7;DSP Liquidity Fund - Regular Plan - IDCW - Weekly;1001.6212;28-Mar-2026
-103349;-;INF740KA1OE0;DSP Liquidity Fund- Regular Plan - IDCW - Daily;1001.3592;28-Mar-2026
+119125;INF740K01QL4;-;DSP Liquidity Fund - Direct Plan - Growth;3937.7859;29-Mar-2026
+119124;-;INF740KA1OB6;DSP Liquidity Fund - Direct Plan - IDCW - Daily;1001.1542;29-Mar-2026
+119123;INF740KA1OC4;INF740KA1OD2;DSP Liquidity Fund - Direct Plan - IDCW - Weekly;1001.8339;29-Mar-2026
+103347;INF740K01FK9;-;DSP Liquidity Fund - Regular Plan - Growth;3890.4341;29-Mar-2026
+103348;INF740K01FM5;INF740K01FL7;DSP Liquidity Fund - Regular Plan - IDCW - Weekly;1001.8266;29-Mar-2026
+103349;-;INF740KA1OE0;DSP Liquidity Fund- Regular Plan - IDCW - Daily;1001.1542;29-Mar-2026
  
 Edelweiss Mutual Fund
  
@@ -3377,16 +3377,16 @@ Canara Robeco Mutual Fund
  
 DSP Mutual Fund
  
-146062;INF740KA1MC8;-;DSP Overnight Fund - Direct Plan - Growth;1442.0258;28-Mar-2026
-146065;-;INF740KA1OR2;DSP Overnight Fund - Direct Plan - IDCW - Daily;1000.1580;28-Mar-2026
+146062;INF740KA1MC8;-;DSP Overnight Fund - Direct Plan - Growth;1442.2438;29-Mar-2026
+146065;-;INF740KA1OR2;DSP Overnight Fund - Direct Plan - IDCW - Daily;1000.0099;29-Mar-2026
 146064;INF740KA1OS0;INF740KA1OT8;DSP Overnight Fund - Direct Plan - IDCW - Weekly;1000.8946;22-May-2023
-146061;INF740KA1MB0;-;DSP Overnight Fund - Regular Plan - Growth;1433.7161;28-Mar-2026
-146066;-;INF740KA1OU6;DSP Overnight Fund - Regular Plan - IDCW - Daily;1000.1160;28-Mar-2026
-146063;INF740KA1OV4;INF740KA1OW2;DSP Overnight Fund - Regular Plan - IDCW - Weekly;1002.0016;28-Mar-2026
-149313;-;-;Unclaimed IDCW - Beyond 3 years (Invested in DSP Overnight Fund);10.0015;28-Mar-2026
-149312;-;-;Unclaimed IDCW - Upto 3 years (Invested in DSP Overnight Fund);12.8452;28-Mar-2026
-149311;-;-;Unclaimed Redemption - Beyond 3 years (Invested in DSP Overnight Fund);10.0015;28-Mar-2026
-149310;-;-;Unclaimed Redemption - Upto 3 years (Invested in DSP Overnight Fund);12.8452;28-Mar-2026
+146061;INF740KA1MB0;-;DSP Overnight Fund - Regular Plan - Growth;1433.9304;29-Mar-2026
+146066;-;INF740KA1OU6;DSP Overnight Fund - Regular Plan - IDCW - Daily;1000.0099;29-Mar-2026
+146063;INF740KA1OV4;INF740KA1OW2;DSP Overnight Fund - Regular Plan - IDCW - Weekly;1002.1525;29-Mar-2026
+149313;-;-;Unclaimed IDCW - Beyond 3 years (Invested in DSP Overnight Fund);10.0000;29-Mar-2026
+149312;-;-;Unclaimed IDCW - Upto 3 years (Invested in DSP Overnight Fund);12.8471;29-Mar-2026
+149311;-;-;Unclaimed Redemption - Beyond 3 years (Invested in DSP Overnight Fund);10.0000;29-Mar-2026
+149310;-;-;Unclaimed Redemption - Upto 3 years (Invested in DSP Overnight Fund);12.8471;29-Mar-2026
  
 Edelweiss Mutual Fund
  
@@ -12032,12 +12032,12 @@ Baroda BNP Paribas Mutual Fund
  
 DSP Mutual Fund
  
-152555;INF740KA1UM0;-;DSP BSE Liquid Rate ETF;1119.207;27-Mar-2026
+152555;INF740KA1UM0;-;DSP BSE Liquid Rate ETF;1119.5223;29-Mar-2026
 151886;INF740KA1SZ6;-;DSP BSE Sensex ETF;75.3845;27-Mar-2026
 153228;INF740KA1VE5;-;DSP BSE SENSEX Next 30 ETF;37.9434;27-Mar-2026
 154256;INF740KA1YH2;-;DSP BSE Top 10 Banks ETF;15.6274;27-Mar-2026
 153975;INF740KA1WV7;-;DSP MSCI INDIA ETF;27.1604;27-Mar-2026
-142589;-;INF740KA1EU7;DSP NIFTY 1D Rate Liquid ETF;1000.0000;27-Mar-2026
+142589;-;INF740KA1EU7;DSP NIFTY 1D Rate Liquid ETF;1000.0000;29-Mar-2026
 149286;INF740KA1QK2;-;DSP Nifty 50 Equal Weight ETF;313.02;27-Mar-2026
 149392;INF740KA1CL0;-;DSP Nifty 50 ETF;238.7636;27-Mar-2026
 151262;INF740KA1RX3;-;DSP Nifty Bank ETF;53.2958;27-Mar-2026
