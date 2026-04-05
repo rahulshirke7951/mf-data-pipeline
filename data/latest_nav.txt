@@ -1635,12 +1635,12 @@ Capitalmind Mutual Fund
  
 DSP Mutual Fund
  
-119125;INF740K01QL4;-;DSP Liquidity Fund - Direct Plan - Growth;3947.6535;03-Apr-2026
-119124;-;INF740KA1OB6;DSP Liquidity Fund - Direct Plan - IDCW - Daily;1001.3215;03-Apr-2026
-119123;INF740KA1OC4;INF740KA1OD2;DSP Liquidity Fund - Direct Plan - IDCW - Weekly;1001.3241;03-Apr-2026
-103347;INF740K01FK9;-;DSP Liquidity Fund - Regular Plan - Growth;3900.1349;03-Apr-2026
-103348;INF740K01FM5;INF740K01FL7;DSP Liquidity Fund - Regular Plan - IDCW - Weekly;1001.3215;03-Apr-2026
-103349;-;INF740KA1OE0;DSP Liquidity Fund- Regular Plan - IDCW - Daily;1001.3191;03-Apr-2026
+119125;INF740K01QL4;-;DSP Liquidity Fund - Direct Plan - Growth;3948.9743;05-Apr-2026
+119124;-;INF740KA1OB6;DSP Liquidity Fund - Direct Plan - IDCW - Daily;1001.1542;05-Apr-2026
+119123;INF740KA1OC4;INF740KA1OD2;DSP Liquidity Fund - Direct Plan - IDCW - Weekly;1001.6591;05-Apr-2026
+103347;INF740K01FK9;-;DSP Liquidity Fund - Regular Plan - Growth;3901.4205;05-Apr-2026
+103348;INF740K01FM5;INF740K01FL7;DSP Liquidity Fund - Regular Plan - IDCW - Weekly;1001.6515;05-Apr-2026
+103349;-;INF740KA1OE0;DSP Liquidity Fund- Regular Plan - IDCW - Daily;1001.1542;05-Apr-2026
  
 Edelweiss Mutual Fund
  
@@ -1820,11 +1820,11 @@ JM Financial Mutual Fund
 Kotak Mahindra Mutual Fund
  
 119764;-;INF174K01NH1;Kotak Liquid Fund - Direct Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option;1222.81;05-Apr-2026
-119766;INF174K01NE8;-;Kotak Liquid Fund - Direct Plan - Growth;5577.6662;05-Apr-2026
+119766;INF174K01NE8;-;Kotak Liquid Fund - Direct Plan - Growth;5577.6749;05-Apr-2026
 153585;INF174KA1WL3;INF174KA1WJ7;Kotak Liquid Fund - Direct Plan - Weekly - Reinvestment & Payout of Income Distribution cum capital withdrawal option;1001.527;10-Jul-2025
-100833;-;INF174K01NL3;Kotak Liquid Fund - Regular  - Daily Reinvestment of Income Distribution cum capital withdrawal option;1249.9072;05-Apr-2026
-100835;INF174K01NI9;-;Kotak Liquid Fund - Regular Plan - Growth;5520.5722;05-Apr-2026
-153586;INF174KA1WK5;INF174KA1WM1;Kotak Liquid Fund - Regular Plan - Weekly - Reinvestment & Payout of Income Distribution cum capital withdrawal option;1025.5824;05-Apr-2026
+100833;-;INF174K01NL3;Kotak Liquid Fund - Regular  - Daily Reinvestment of Income Distribution cum capital withdrawal option;1249.9092;05-Apr-2026
+100835;INF174K01NI9;-;Kotak Liquid Fund - Regular Plan - Growth;5520.5809;05-Apr-2026
+153586;INF174KA1WK5;INF174KA1WM1;Kotak Liquid Fund - Regular Plan - Weekly - Reinvestment & Payout of Income Distribution cum capital withdrawal option;1025.584;05-Apr-2026
  
 LIC Mutual Fund
  
@@ -3376,16 +3376,16 @@ Canara Robeco Mutual Fund
  
 DSP Mutual Fund
  
-146062;INF740KA1MC8;-;DSP Overnight Fund - Direct Plan - Growth;1443.4535;03-Apr-2026
-146065;-;INF740KA1OR2;DSP Overnight Fund - Direct Plan - IDCW - Daily;1000.1452;03-Apr-2026
+146062;INF740KA1MC8;-;DSP Overnight Fund - Direct Plan - Growth;1443.8528;05-Apr-2026
+146065;-;INF740KA1OR2;DSP Overnight Fund - Direct Plan - IDCW - Daily;1000.0099;05-Apr-2026
 146064;INF740KA1OS0;INF740KA1OT8;DSP Overnight Fund - Direct Plan - IDCW - Weekly;1000.8946;22-May-2023
-146061;INF740KA1MB0;-;DSP Overnight Fund - Regular Plan - Growth;1435.1203;03-Apr-2026
-146066;-;INF740KA1OU6;DSP Overnight Fund - Regular Plan - IDCW - Daily;1000.1497;03-Apr-2026
-146063;INF740KA1OV4;INF740KA1OW2;DSP Overnight Fund - Regular Plan - IDCW - Weekly;1001.4036;03-Apr-2026
-149313;-;-;Unclaimed IDCW - Beyond 3 years (Invested in DSP Overnight Fund);10.0014;03-Apr-2026
-149312;-;-;Unclaimed IDCW - Upto 3 years (Invested in DSP Overnight Fund);12.8579;03-Apr-2026
-149311;-;-;Unclaimed Redemption - Beyond 3 years (Invested in DSP Overnight Fund);10.0014;03-Apr-2026
-149310;-;-;Unclaimed Redemption - Upto 3 years (Invested in DSP Overnight Fund);12.8579;03-Apr-2026
+146061;INF740KA1MB0;-;DSP Overnight Fund - Regular Plan - Growth;1435.5119;05-Apr-2026
+146066;-;INF740KA1OU6;DSP Overnight Fund - Regular Plan - IDCW - Daily;1000.0099;05-Apr-2026
+146063;INF740KA1OV4;INF740KA1OW2;DSP Overnight Fund - Regular Plan - IDCW - Weekly;1001.6733;05-Apr-2026
+149313;-;-;Unclaimed IDCW - Beyond 3 years (Invested in DSP Overnight Fund);10.0000;05-Apr-2026
+149312;-;-;Unclaimed IDCW - Upto 3 years (Invested in DSP Overnight Fund);12.8615;05-Apr-2026
+149311;-;-;Unclaimed Redemption - Beyond 3 years (Invested in DSP Overnight Fund);10.0000;05-Apr-2026
+149310;-;-;Unclaimed Redemption - Upto 3 years (Invested in DSP Overnight Fund);12.8615;05-Apr-2026
  
 Edelweiss Mutual Fund
  
@@ -12042,12 +12042,12 @@ Baroda BNP Paribas Mutual Fund
  
 DSP Mutual Fund
  
-152555;INF740KA1UM0;-;DSP BSE Liquid Rate ETF;1120.2348;02-Apr-2026
+152555;INF740KA1UM0;-;DSP BSE Liquid Rate ETF;1120.6720;05-Apr-2026
 151886;INF740KA1SZ6;-;DSP BSE Sensex ETF;75.1189;02-Apr-2026
 153228;INF740KA1VE5;-;DSP BSE SENSEX Next 30 ETF;37.8016;02-Apr-2026
 154256;INF740KA1YH2;-;DSP BSE Top 10 Banks ETF;15.4455;02-Apr-2026
 153975;INF740KA1WV7;-;DSP MSCI INDIA ETF;27.0180;02-Apr-2026
-142589;-;INF740KA1EU7;DSP NIFTY 1D Rate Liquid ETF;1000.0000;02-Apr-2026
+142589;-;INF740KA1EU7;DSP NIFTY 1D Rate Liquid ETF;1000.0000;05-Apr-2026
 149286;INF740KA1QK2;-;DSP Nifty 50 Equal Weight ETF;311.4163;02-Apr-2026
 149392;INF740KA1CL0;-;DSP Nifty 50 ETF;237.6547;02-Apr-2026
 151262;INF740KA1RX3;-;DSP Nifty Bank ETF;52.5566;02-Apr-2026
