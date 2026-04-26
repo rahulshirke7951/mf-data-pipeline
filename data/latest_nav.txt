@@ -1522,20 +1522,20 @@ Abakkus Mutual Fund
  
 Aditya Birla Sun Life Mutual Fund
  
-100047;INF209K01RU9;-;Aditya Birla Sun Life Liquid Fund - Growth;442.0122;25-Apr-2026
-119568;INF209K01VA3;-;Aditya Birla Sun Life Liquid Fund - Growth - Direct Plan;447.8319;25-Apr-2026
-100046;INF209K01KQ2;INF209K01SQ5;Aditya Birla Sun Life Liquid Fund -Daily IDCW;100.2105;25-Apr-2026
-119569;INF209K01UZ2;-;Aditya Birla Sun Life Liquid Fund -Direct - daily IDCW;100.2108;25-Apr-2026
-119571;INF209K01VD7;-;Aditya Birla Sun Life Liquid Fund -DIRECT - IDCW;143.3019;25-Apr-2026
-119570;INF209K01VC9;-;Aditya Birla Sun Life Liquid Fund -Direct - weekly IDCW;100.2408;25-Apr-2026
-100041;-;INF209K01KN9;Aditya Birla Sun Life Liquid Fund -Institutional - IDCW;108.041;25-Apr-2026
-100048;INF209KA1LK7;INF209K01KY6;Aditya Birla Sun Life Liquid Fund -Institutional - weekly  IDCW;108.2184;25-Apr-2026
-103885;INF209KA1LI1;-;Aditya Birla Sun Life Liquid Fund -Regular - IDCW;109.0074;25-Apr-2026
-100044;-;INF209K01KP4;Aditya Birla Sun Life Liquid Fund -Retail - IDCW;163.7207;25-Apr-2026
-100051;INF209K01KU4;INF209KA1LJ9;Aditya Birla Sun Life Liquid Fund -weekly IDCW;100.2404;25-Apr-2026
-112014;INF209K01KZ3;-;Aditya Birla Sun Life Liquid Fund- Discipline Advantage Plan;299.6767;25-Apr-2026
-100043;INF209K01RT1;-;Aditya Birla Sun Life Liquid Fund-Institutional (Growth);736.0921;25-Apr-2026
-100042;INF209K01ME4;-;Aditya Birla Sun Life Liquid Fund-Retail (Growth);717.2941;25-Apr-2026
+100047;INF209K01RU9;-;Aditya Birla Sun Life Liquid Fund - Growth;442.0802;26-Apr-2026
+119568;INF209K01VA3;-;Aditya Birla Sun Life Liquid Fund - Growth - Direct Plan;447.9026;26-Apr-2026
+100046;INF209K01KQ2;INF209K01SQ5;Aditya Birla Sun Life Liquid Fund -Daily IDCW;100.195;26-Apr-2026
+119569;INF209K01UZ2;-;Aditya Birla Sun Life Liquid Fund -Direct - daily IDCW;100.195;26-Apr-2026
+119571;INF209K01VD7;-;Aditya Birla Sun Life Liquid Fund -DIRECT - IDCW;143.3245;26-Apr-2026
+119570;INF209K01VC9;-;Aditya Birla Sun Life Liquid Fund -Direct - weekly IDCW;100.2566;26-Apr-2026
+100041;-;INF209K01KN9;Aditya Birla Sun Life Liquid Fund -Institutional - IDCW;108.023;26-Apr-2026
+100048;INF209KA1LK7;INF209K01KY6;Aditya Birla Sun Life Liquid Fund -Institutional - weekly  IDCW;108.235;26-Apr-2026
+103885;INF209KA1LI1;-;Aditya Birla Sun Life Liquid Fund -Regular - IDCW;109.0242;26-Apr-2026
+100044;-;INF209K01KP4;Aditya Birla Sun Life Liquid Fund -Retail - IDCW;163.694;26-Apr-2026
+100051;INF209K01KU4;INF209KA1LJ9;Aditya Birla Sun Life Liquid Fund -weekly IDCW;100.2558;26-Apr-2026
+112014;INF209K01KZ3;-;Aditya Birla Sun Life Liquid Fund- Discipline Advantage Plan;299.7222;26-Apr-2026
+100043;INF209K01RT1;-;Aditya Birla Sun Life Liquid Fund-Institutional (Growth);736.2055;26-Apr-2026
+100042;INF209K01ME4;-;Aditya Birla Sun Life Liquid Fund-Retail (Growth);717.4045;26-Apr-2026
  
 Axis Mutual Fund
  
@@ -1762,20 +1762,20 @@ ICICI Prudential Mutual Fund
  
 Invesco Mutual Fund
  
-104484;-;INF205K01HN3;Invesco India Liquid Fund - Daily IDCW (Reinvestment);1002.7594;25-Apr-2026
-120537;INF205K01MF9;-;Invesco India Liquid Fund - Direct Plan - Growth;3803.9735;25-Apr-2026
-120536;INF205K01MG7;INF205K01MH5;Invesco India Liquid Fund - Direct Plan - Monthly IDCW (Payout / Reinvestment);1089.9787;25-Apr-2026
-120535;INF205KA1BE5;INF205K01MI3;Invesco India Liquid Fund - Direct Plan - Weekly IDCW (Reinvestment);1074.324;25-Apr-2026
-120534;-;INF205K01ME2;Invesco India Liquid Fund - Direct Plan- Daily IDCW (Reinvestment);1005.8604;25-Apr-2026
-104486;INF205K01HM5;-;Invesco India Liquid Fund - Growth;3769.8916;25-Apr-2026
-104492;INF205K01HQ6;INF205K01HP8;Invesco India Liquid Fund - Monthly IDCW (Payout / Reinvestment);1010.1904;25-Apr-2026
-104488;INF205K01HG7;-;Invesco India Liquid Fund - Regular - Growth;3324.0631;25-Apr-2026
-104489;-;INF205K01HH5;Invesco India Liquid Fund - Regular - Weekly IDCW (Reinvestment);1004.631;25-Apr-2026
-139390;-;-;Invesco India Liquid Fund - Unclaimed Dividend Plan - Above 3 Years;1000;25-Apr-2026
-139389;-;-;Invesco India Liquid Fund - Unclaimed Dividend Plan - Below 3 Years;1803.0082;25-Apr-2026
-139388;-;-;Invesco India Liquid Fund - Unclaimed Redemption Plan - Above 3 Years;1000;25-Apr-2026
-139387;-;-;Invesco India Liquid Fund - Unclaimed Redemption Plan - Below 3 years;1802.6056;25-Apr-2026
-104485;INF205KA1BD7;INF205K01HO1;Invesco India Liquid Fund - Weekly IDCW (Reinvestment);1019.1918;25-Apr-2026
+104484;-;INF205K01HN3;Invesco India Liquid Fund - Daily IDCW (Reinvestment);1002.7594;26-Apr-2026
+120537;INF205K01MF9;-;Invesco India Liquid Fund - Direct Plan - Growth;3804.5601;26-Apr-2026
+120536;INF205K01MG7;INF205K01MH5;Invesco India Liquid Fund - Direct Plan - Monthly IDCW (Payout / Reinvestment);1090.1468;26-Apr-2026
+120535;INF205KA1BE5;INF205K01MI3;Invesco India Liquid Fund - Direct Plan - Weekly IDCW (Reinvestment);1074.4914;26-Apr-2026
+120534;-;INF205K01ME2;Invesco India Liquid Fund - Direct Plan- Daily IDCW (Reinvestment);1005.8604;26-Apr-2026
+104486;INF205K01HM5;-;Invesco India Liquid Fund - Growth;3770.4656;26-Apr-2026
+104492;INF205K01HQ6;INF205K01HP8;Invesco India Liquid Fund - Monthly IDCW (Payout / Reinvestment);1010.3442;26-Apr-2026
+104488;INF205K01HG7;-;Invesco India Liquid Fund - Regular - Growth;3324.5282;26-Apr-2026
+104489;-;INF205K01HH5;Invesco India Liquid Fund - Regular - Weekly IDCW (Reinvestment);1004.7716;26-Apr-2026
+139390;-;-;Invesco India Liquid Fund - Unclaimed Dividend Plan - Above 3 Years;1000;26-Apr-2026
+139389;-;-;Invesco India Liquid Fund - Unclaimed Dividend Plan - Below 3 Years;1803.2862;26-Apr-2026
+139388;-;-;Invesco India Liquid Fund - Unclaimed Redemption Plan - Above 3 Years;1000;26-Apr-2026
+139387;-;-;Invesco India Liquid Fund - Unclaimed Redemption Plan - Below 3 years;1802.8835;26-Apr-2026
+104485;INF205KA1BD7;INF205K01HO1;Invesco India Liquid Fund - Weekly IDCW (Reinvestment);1019.347;26-Apr-2026
  
 ITI Mutual Fund
  
@@ -3291,14 +3291,14 @@ Open Ended Schemes(Debt Scheme - Overnight Fund)
  
 Aditya Birla Sun Life Mutual Fund
  
-145488;INF209KB1ZL4;-;ADITYA BIRLA SUN LIFE OVERNIGHT FUND-  Direct - Monthly Payout of IDCW;1000.1556;25-Apr-2026
-145489;-;INF209KB1ZJ8;ADITYA BIRLA SUN LIFE OVERNIGHT FUND-  Direct - Weekly Reinvestment of IDCW;1000.154;25-Apr-2026
-145482;-;INF209KB1ZE9;ADITYA BIRLA SUN LIFE OVERNIGHT FUND-  Regular - Weekly Reinvestment of IDCW option;1000.1524;25-Apr-2026
-145487;-;INF209KB1ZI0;ADITYA BIRLA SUN LIFE OVERNIGHT FUND- Direct - Daily Reinvestment of IDCW;1000.1604;25-Apr-2026
-145483;-;INF209KB1ZD1;ADITYA BIRLA SUN LIFE OVERNIGHT FUND- Regular - Daily Reinvestment of IDCW;1000.1545;25-Apr-2026
-145485;INF209KB1ZG4;-;ADITYA BIRLA SUN LIFE OVERNIGHT FUND- Regular- Monthly Payout of IDCW option;1000.1523;25-Apr-2026
-145486;INF209KB1ZH2;-;ADITYA BIRLA SUN LIFE OVERNIGHT FUND-DIRECT PLAN-GROWTH;1461.7353;25-Apr-2026
-145481;INF209KB1ZC3;-;ADITYA BIRLA SUNLIFE OVERNIGHT FUND-REGULAR PLAN-GROWTH;1449.2774;25-Apr-2026
+145488;INF209KB1ZL4;-;ADITYA BIRLA SUN LIFE OVERNIGHT FUND-  Direct - Monthly Payout of IDCW;1000.291;26-Apr-2026
+145489;-;INF209KB1ZJ8;ADITYA BIRLA SUN LIFE OVERNIGHT FUND-  Direct - Weekly Reinvestment of IDCW;1000.2897;26-Apr-2026
+145482;-;INF209KB1ZE9;ADITYA BIRLA SUN LIFE OVERNIGHT FUND-  Regular - Weekly Reinvestment of IDCW option;1000.2848;26-Apr-2026
+145487;-;INF209KB1ZI0;ADITYA BIRLA SUN LIFE OVERNIGHT FUND- Direct - Daily Reinvestment of IDCW;1000.02;26-Apr-2026
+145483;-;INF209KB1ZD1;ADITYA BIRLA SUN LIFE OVERNIGHT FUND- Regular - Daily Reinvestment of IDCW;1000.02;26-Apr-2026
+145485;INF209KB1ZG4;-;ADITYA BIRLA SUN LIFE OVERNIGHT FUND- Regular- Monthly Payout of IDCW option;1000.2847;26-Apr-2026
+145486;INF209KB1ZH2;-;ADITYA BIRLA SUN LIFE OVERNIGHT FUND-DIRECT PLAN-GROWTH;1461.9331;26-Apr-2026
+145481;INF209KB1ZC3;-;ADITYA BIRLA SUNLIFE OVERNIGHT FUND-REGULAR PLAN-GROWTH;1449.4692;26-Apr-2026
  
 Axis Mutual Fund
  
@@ -3490,14 +3490,14 @@ ICICI Prudential Mutual Fund
  
 Invesco Mutual Fund
  
-147884;-;INF205KA1122;Invesco India Overnight Fund - Direct Plan - Daily IDCW (Reinvestment);1000.5303;25-Apr-2026
-147883;INF205KA1163;-;Invesco India Overnight Fund - Direct Plan - Growth;1365.5188;25-Apr-2026
-147886;INF205KA1155;INF205KA1148;Invesco India Overnight Fund - Direct Plan - Monthly IDCW (Payout / Reinvestment);1004.1905;25-Apr-2026
+147884;-;INF205KA1122;Invesco India Overnight Fund - Direct Plan - Daily IDCW (Reinvestment);1000.5303;26-Apr-2026
+147883;INF205KA1163;-;Invesco India Overnight Fund - Direct Plan - Growth;1365.7036;26-Apr-2026
+147886;INF205KA1155;INF205KA1148;Invesco India Overnight Fund - Direct Plan - Monthly IDCW (Payout / Reinvestment);1004.3266;26-Apr-2026
 147885;-;INF205KA1130;Invesco India Overnight Fund - Direct Plan - Weekly IDCW (Reinvestment);1001.7173;22-Apr-2025
-147880;-;INF205KA1072;Invesco India Overnight Fund - Regular Plan - Daily IDCW (Reinvestment);1000.1395;25-Apr-2026
-147878;INF205KA1114;-;Invesco India Overnight Fund - Regular Plan - Growth;1360.6982;25-Apr-2026
-147879;INF205KA1106;INF205KA1098;Invesco India Overnight Fund - Regular Plan - Monthly IDCW (Payout / Reinvestment);1004.4672;25-Apr-2026
-147881;-;INF205KA1080;Invesco India Overnight Fund - Regular Plan - Weekly IDCW (Reinvestment);1000.9077;25-Apr-2026
+147880;-;INF205KA1072;Invesco India Overnight Fund - Regular Plan - Daily IDCW (Reinvestment);1000.1395;26-Apr-2026
+147878;INF205KA1114;-;Invesco India Overnight Fund - Regular Plan - Growth;1360.8802;26-Apr-2026
+147879;INF205KA1106;INF205KA1098;Invesco India Overnight Fund - Regular Plan - Monthly IDCW (Payout / Reinvestment);1004.6016;26-Apr-2026
+147881;-;INF205KA1080;Invesco India Overnight Fund - Regular Plan - Weekly IDCW (Reinvestment);1001.0415;26-Apr-2026
  
 ITI Mutual Fund
  
@@ -12007,7 +12007,7 @@ Aditya Birla Sun Life Mutual Fund
 154224;INF209KC1670;-;Aditya Birla Sun Life BSE Top 10 Banks ETF;166.7912;24-Apr-2026
 152802;INF209KC1142;-;Aditya Birla Sun Life Crisil 10 Year Gilt ETF;109.6813;24-Apr-2026
 152732;INF209KC1134;-;ADITYA BIRLA SUN LIFE CRISIL BROAD BASED GILT ETF;111.6086;24-Apr-2026
-151533;INF209KB18T9;-;Aditya Birla Sun Life CRISIL Liquid Overnight ETF - IDCW Daily Reinvestment with Weekly Payout;1000.;24-Apr-2026
+151533;INF209KB18T9;-;Aditya Birla Sun Life CRISIL Liquid Overnight ETF - IDCW Daily Reinvestment with Weekly Payout;1000.;26-Apr-2026
 154220;INF209KC1662;-;Aditya Birla Sun Life MSCI India ETF;28.8296;24-Apr-2026
 150498;INF209KB14K7;-;Aditya Birla Sun Life Nifty 200 Momentum 30 ETF;30.7189;24-Apr-2026
 150497;INF209KB15K4;-;Aditya Birla Sun Life Nifty 200 Quality 30 ETF;20.8358;24-Apr-2026
@@ -12062,7 +12062,7 @@ DSP Mutual Fund
 153228;INF740KA1VE5;-;DSP BSE SENSEX Next 30 ETF;41.354;24-Apr-2026
 154256;INF740KA1YH2;-;DSP BSE Top 10 Banks ETF;16.6871;24-Apr-2026
 153975;INF740KA1WV7;-;DSP MSCI INDIA ETF;28.8678;24-Apr-2026
-142589;-;INF740KA1EU7;DSP NIFTY 1D Rate Liquid ETF;1000;24-Apr-2026
+142589;-;INF740KA1EU7;DSP NIFTY 1D Rate Liquid ETF;1000.0000;26-Apr-2026
 149286;INF740KA1QK2;-;DSP Nifty 50 Equal Weight ETF;333.3598;24-Apr-2026
 149392;INF740KA1CL0;-;DSP Nifty 50 ETF;250.0951;24-Apr-2026
 151262;INF740KA1RX3;-;DSP Nifty Bank ETF;57.1794;24-Apr-2026
