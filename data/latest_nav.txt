@@ -1996,12 +1996,12 @@ SBI Mutual Fund
  
 Shriram Mutual Fund
  
-153035;INF680P01430;-;Shriram Liquid Fund - Direct Plan Growth Option;1100.5508;29-May-2026
-153036;INF680P01448;-;Shriram Liquid Fund - Regular Plan Growth Option;1098.1914;29-May-2026
-153282;-;-;Shriram Unclaimed IDCW Liquid Fund;1073.3097;29-May-2026
-153283;-;-;Shriram Unclaimed IDCW Stable Scheme Liquid Fund;1000;29-May-2026
-153280;-;-;Shriram Unclaimed Redemption Liquid Fund;1085.8346;29-May-2026
-153281;-;-;Shriram Unclaimed Redemption Stable Scheme Liquid Fund;1000;29-May-2026
+153035;INF680P01430;-;Shriram Liquid Fund - Direct Plan Growth Option;1100.9369;31-May-2026
+153036;INF680P01448;-;Shriram Liquid Fund - Regular Plan Growth Option;1098.5662;31-May-2026
+153282;-;-;Shriram Unclaimed IDCW Liquid Fund;1073.7352;31-May-2026
+153283;-;-;Shriram Unclaimed IDCW Stable Scheme Liquid Fund;1000;31-May-2026
+153280;-;-;Shriram Unclaimed Redemption Liquid Fund;1086.2128;31-May-2026
+153281;-;-;Shriram Unclaimed Redemption Stable Scheme Liquid Fund;1000;31-May-2026
  
 Sundaram Mutual Fund
  
@@ -3625,6 +3625,15 @@ SBI Mutual Fund
 114297;-;INF200K01LN6;SBI Overnight Fund - Regular Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);1364.6139;31-May-2026
 101206;INF200K01LQ9;-;SBI OVERNIGHT FUND - REGULAR PLAN - GROWTH;4357.0370;31-May-2026
 103140;INF200K01LO4;INF200K01LP1;SBI Overnight Fund - Regular Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);1393.3636;31-May-2026
+ 
+Shriram Mutual Fund
+ 
+154395;-;INF680P01513;Shriram Overnight Fund- Direct Daily IDCW;1000.0101;31-May-2026
+154394;INF680P01497;-;Shriram Overnight Fund- Direct Growth;1254.371;31-May-2026
+154396;INF680P01612;INF680P01638;Shriram Overnight Fund- Direct Monthly IDCW;1002.2878;31-May-2026
+154398;-;INF680P01521;Shriram Overnight Fund- Regular Daily IDCW;1000.0042;31-May-2026
+154399;INF680P01505;-;Shriram Overnight Fund- Regular Growth;1250.4787;31-May-2026
+154402;INF680P01620;INF680P01646;Shriram Overnight Fund- Regular Monthly IDCW;1002.3038;31-May-2026
  
 Sundaram Mutual Fund
  
@@ -12350,7 +12359,7 @@ SBI Mutual Fund
  
 Shriram Mutual Fund
  
-152741;INF680P01422;-;Shriram Nifty 1D Rate Liquid ETF - Growth;1106.2977;29-May-2026
+152741;INF680P01422;-;Shriram Nifty 1D Rate Liquid ETF - Growth;1106.5917;31-May-2026
  
 Tata Mutual Fund
  
