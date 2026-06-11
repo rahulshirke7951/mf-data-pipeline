@@ -1001,10 +1001,10 @@ PGIM India Mutual Fund
  
 Quantum Mutual Fund
  
-134494;INF082J01176;-;Quantum Dynamic Bond Fund - Direct Plan Growth Option;22.4713;10-Jun-2026
-134493;INF082J01184;INF082J01192;Quantum Dynamic Bond Fund - Direct Plan Monthly IDCW;10.2883;10-Jun-2026
-141061;INF082J01218;-;Quantum Dynamic Bond Fund - Regular Plan Growth Option;22.0111;10-Jun-2026
-141060;INF082J01226;INF082J01234;Quantum Dynamic Bond Fund - Regular Plan Monthly IDCW;10.3456;10-Jun-2026
+134494;INF082J01176;-;Quantum Dynamic Bond Fund - Direct Plan Growth Option;22.4792;11-Jun-2026
+134493;INF082J01184;INF082J01192;Quantum Dynamic Bond Fund - Direct Plan Monthly IDCW;10.2919;11-Jun-2026
+141061;INF082J01218;-;Quantum Dynamic Bond Fund - Regular Plan Growth Option;22.0185;11-Jun-2026
+141060;INF082J01226;INF082J01234;Quantum Dynamic Bond Fund - Regular Plan Monthly IDCW;10.3491;11-Jun-2026
  
 SBI Mutual Fund
  
@@ -1509,16 +1509,16 @@ Open Ended Schemes(Debt Scheme - Liquid Fund)
  
 Abakkus Mutual Fund
  
-154049;-;INF2JJD01011;Abakkus Liquid Fund - Direct Plan - Daily IDCW Reinvestment;100.0527;10-Jun-2026
-154051;INF2JJD01029;-;Abakkus Liquid Fund - Direct Plan - Growth;102.8169;10-Jun-2026
-154055;-;INF2JJD01037;Abakkus Liquid Fund - Direct Plan - Monthly IDCW Reinvestment;100.5082;10-Jun-2026
-154052;-;INF2JJD01052;Abakkus Liquid Fund - Direct Plan - Quarterly IDCW Reinvestment;101.1207;10-Jun-2026
-154050;-;INF2JJD01045;Abakkus Liquid Fund - Direct Plan - Weekly IDCW Reinvestment;100.1121;10-Jun-2026
-154053;-;INF2JJD01060;Abakkus Liquid Fund - Regular Plan - Daily IDCW Reinvestment;100.0527;10-Jun-2026
-154047;INF2JJD01078;-;Abakkus Liquid Fund - Regular Plan - Growth;102.7756;10-Jun-2026
-154048;-;INF2JJD01086;Abakkus Liquid Fund - Regular Plan - Monthly IDCW Reinvestment;100.5029;10-Jun-2026
-154054;-;INF2JJD01102;Abakkus Liquid Fund - Regular Plan - Quarterly IDCW Reinvestment;101.0812;10-Jun-2026
-154056;-;INF2JJD01094;Abakkus Liquid Fund - Regular Plan - Weekly IDCW Reinvestment;100.1082;10-Jun-2026
+154049;-;INF2JJD01011;Abakkus Liquid Fund - Direct Plan - Daily IDCW Reinvestment;100.0527;11-Jun-2026
+154051;INF2JJD01029;-;Abakkus Liquid Fund - Direct Plan - Growth;102.8331;11-Jun-2026
+154055;-;INF2JJD01037;Abakkus Liquid Fund - Direct Plan - Monthly IDCW Reinvestment;100.5241;11-Jun-2026
+154052;-;INF2JJD01052;Abakkus Liquid Fund - Direct Plan - Quarterly IDCW Reinvestment;101.1367;11-Jun-2026
+154050;-;INF2JJD01045;Abakkus Liquid Fund - Direct Plan - Weekly IDCW Reinvestment;100.1279;11-Jun-2026
+154053;-;INF2JJD01060;Abakkus Liquid Fund - Regular Plan - Daily IDCW Reinvestment;100.0527;11-Jun-2026
+154047;INF2JJD01078;-;Abakkus Liquid Fund - Regular Plan - Growth;102.7917;11-Jun-2026
+154048;-;INF2JJD01086;Abakkus Liquid Fund - Regular Plan - Monthly IDCW Reinvestment;100.5185;11-Jun-2026
+154054;-;INF2JJD01102;Abakkus Liquid Fund - Regular Plan - Quarterly IDCW Reinvestment;101.0969;11-Jun-2026
+154056;-;INF2JJD01094;Abakkus Liquid Fund - Regular Plan - Weekly IDCW Reinvestment;100.1238;11-Jun-2026
  
 Aditya Birla Sun Life Mutual Fund
  
@@ -1970,16 +1970,16 @@ quant Mutual Fund
  
 Quantum Mutual Fund
  
-103736;-;INF082J01135;Quantum Liquid Fund - Direct Plan Daily IDCW;10.0085;10-Jun-2026
-103734;INF082J01127;-;Quantum Liquid Fund - Direct Plan Growth Option;37.1573;10-Jun-2026
-103735;INF082J01143;INF082J01200;Quantum Liquid Fund - Direct Plan Monthly IDCW;10.0404;10-Jun-2026
-141065;-;INF082J01317;Quantum Liquid Fund - Regular Plan Daily IDCW;10.0002;10-Jun-2026
-141066;INF082J01309;-;Quantum Liquid Fund - Regular Plan Growth Option;36.8594;10-Jun-2026
-141067;INF082J01325;INF082J01333;Quantum Liquid Fund - Regular Plan Monthly IDCW;10.0369;10-Jun-2026
-152299;-;-;Quantum Liquid Fund - Unclaimed IDCW Plan Above 3 years;10.0000;10-Jun-2026
-152298;-;-;Quantum Liquid Fund - Unclaimed IDCW Plan Below 3 years;11.6822;10-Jun-2026
-152301;-;-;Quantum Liquid Fund - Unclaimed Redemption Plan Above 3 years;10.0000;10-Jun-2026
-152300;-;-;Quantum Liquid Fund - Unclaimed Redemption Plan Below 3 years;11.2134;10-Jun-2026
+103736;-;INF082J01135;Quantum Liquid Fund - Direct Plan Daily IDCW;10.0085;11-Jun-2026
+103734;INF082J01127;-;Quantum Liquid Fund - Direct Plan Growth Option;37.1625;11-Jun-2026
+103735;INF082J01143;INF082J01200;Quantum Liquid Fund - Direct Plan Monthly IDCW;10.0419;11-Jun-2026
+141065;-;INF082J01317;Quantum Liquid Fund - Regular Plan Daily IDCW;10.0002;11-Jun-2026
+141066;INF082J01309;-;Quantum Liquid Fund - Regular Plan Growth Option;36.8645;11-Jun-2026
+141067;INF082J01325;INF082J01333;Quantum Liquid Fund - Regular Plan Monthly IDCW;10.0383;11-Jun-2026
+152299;-;-;Quantum Liquid Fund - Unclaimed IDCW Plan Above 3 years;10.0000;11-Jun-2026
+152298;-;-;Quantum Liquid Fund - Unclaimed IDCW Plan Below 3 years;11.6839;11-Jun-2026
+152301;-;-;Quantum Liquid Fund - Unclaimed Redemption Plan Above 3 years;10.0000;11-Jun-2026
+152300;-;-;Quantum Liquid Fund - Unclaimed Redemption Plan Below 3 years;11.2150;11-Jun-2026
  
 SBI Mutual Fund
  
@@ -1996,12 +1996,12 @@ SBI Mutual Fund
  
 Shriram Mutual Fund
  
-153035;INF680P01430;-;Shriram Liquid Fund - Direct Plan Growth Option;1103.2647;10-Jun-2026
-153036;INF680P01448;-;Shriram Liquid Fund - Regular Plan Growth Option;1100.8381;10-Jun-2026
-153282;-;-;Shriram Unclaimed IDCW Liquid Fund;1076.0047;10-Jun-2026
-153283;-;-;Shriram Unclaimed IDCW Stable Scheme Liquid Fund;1000;10-Jun-2026
-153280;-;-;Shriram Unclaimed Redemption Liquid Fund;1088.4972;10-Jun-2026
-153281;-;-;Shriram Unclaimed Redemption Stable Scheme Liquid Fund;1000;10-Jun-2026
+153035;INF680P01430;-;Shriram Liquid Fund - Direct Plan Growth Option;1103.4487;11-Jun-2026
+153036;INF680P01448;-;Shriram Liquid Fund - Regular Plan Growth Option;1101.0167;11-Jun-2026
+153282;-;-;Shriram Unclaimed IDCW Liquid Fund;1076.1939;11-Jun-2026
+153283;-;-;Shriram Unclaimed IDCW Stable Scheme Liquid Fund;1000;11-Jun-2026
+153280;-;-;Shriram Unclaimed Redemption Liquid Fund;1088.6776;11-Jun-2026
+153281;-;-;Shriram Unclaimed Redemption Stable Scheme Liquid Fund;1000;11-Jun-2026
  
 Sundaram Mutual Fund
  
@@ -3211,8 +3211,8 @@ SBI Mutual Fund
  
 Shriram Mutual Fund
  
-154144;INF680P01471;-;Shriram Money Market Fund - Direct Plan Growth Option;1023.2426;10-Jun-2026
-154143;INF680P01489;-;Shriram Money Market Fund - Regular Plan Growth Option;1022.3625;10-Jun-2026
+154144;INF680P01471;-;Shriram Money Market Fund - Direct Plan Growth Option;1022.8711;11-Jun-2026
+154143;INF680P01489;-;Shriram Money Market Fund - Regular Plan Growth Option;1021.9837;11-Jun-2026
  
 Sundaram Mutual Fund
  
@@ -3628,12 +3628,12 @@ SBI Mutual Fund
  
 Shriram Mutual Fund
  
-154395;-;INF680P01513;Shriram Overnight Fund- Direct Daily IDCW;1000.014;10-Jun-2026
-154394;INF680P01497;-;Shriram Overnight Fund- Direct Growth;1256.1154;10-Jun-2026
-154396;INF680P01612;INF680P01638;Shriram Overnight Fund- Direct Monthly IDCW;1003.6772;10-Jun-2026
-154398;-;INF680P01521;Shriram Overnight Fund- Regular Daily IDCW;1000.0101;10-Jun-2026
-154399;INF680P01505;-;Shriram Overnight Fund- Regular Growth;1252.1972;10-Jun-2026
-154402;INF680P01620;INF680P01646;Shriram Overnight Fund- Regular Monthly IDCW;1003.6817;10-Jun-2026
+154395;-;INF680P01513;Shriram Overnight Fund- Direct Daily IDCW;1000.014;11-Jun-2026
+154394;INF680P01497;-;Shriram Overnight Fund- Direct Growth;1256.2902;11-Jun-2026
+154396;INF680P01612;INF680P01638;Shriram Overnight Fund- Direct Monthly IDCW;1003.8162;11-Jun-2026
+154398;-;INF680P01521;Shriram Overnight Fund- Regular Daily IDCW;1000.0101;11-Jun-2026
+154399;INF680P01505;-;Shriram Overnight Fund- Regular Growth;1252.3697;11-Jun-2026
+154402;INF680P01620;INF680P01646;Shriram Overnight Fund- Regular Monthly IDCW;1003.8197;11-Jun-2026
  
 Sundaram Mutual Fund
  
@@ -4758,10 +4758,10 @@ quant Mutual Fund
  
 Quantum Mutual Fund
  
-111549;INF082J01069;-;Quantum ELSS Tax Saver Fund - Direct Plan Growth Option;120.98;10-Jun-2026
-111550;INF082J01077;INF082J01085;Quantum ELSS Tax Saver Fund - Direct Plan IDCW;120.20;10-Jun-2026
-141070;INF082J01366;-;Quantum ELSS Tax Saver Fund - Regular Plan Growth Option;114.19;10-Jun-2026
-141071;INF082J01374;-;Quantum ELSS Tax Saver Fund - Regular Plan IDCW;113.42;10-Jun-2026
+111549;INF082J01069;-;Quantum ELSS Tax Saver Fund - Direct Plan Growth Option;120.40;11-Jun-2026
+111550;INF082J01077;INF082J01085;Quantum ELSS Tax Saver Fund - Direct Plan IDCW;119.62;11-Jun-2026
+141070;INF082J01366;-;Quantum ELSS Tax Saver Fund - Regular Plan Growth Option;113.64;11-Jun-2026
+141071;INF082J01374;-;Quantum ELSS Tax Saver Fund - Regular Plan IDCW;112.87;11-Jun-2026
  
 Samco Mutual Fund
  
@@ -4777,10 +4777,10 @@ SBI Mutual Fund
  
 Shriram Mutual Fund
  
-145819;INF680P01158;-;Shriram ELSS Tax Saver Fund - Direct Growth;22.657;10-Jun-2026
-145822;INF680P01166;-;Shriram ELSS Tax Saver Fund - Direct- IDCW;22.4761;10-Jun-2026
-145820;INF680P01133;-;Shriram ELSS Tax Saver Fund - Regular Growth;19.8849;10-Jun-2026
-145821;INF680P01141;-;Shriram ELSS Tax Saver Fund - Regular-IDCW;19.8878;10-Jun-2026
+145819;INF680P01158;-;Shriram ELSS Tax Saver Fund - Direct Growth;22.5688;11-Jun-2026
+145822;INF680P01166;-;Shriram ELSS Tax Saver Fund - Direct- IDCW;22.3885;11-Jun-2026
+145820;INF680P01133;-;Shriram ELSS Tax Saver Fund - Regular Growth;19.8066;11-Jun-2026
+145821;INF680P01141;-;Shriram ELSS Tax Saver Fund - Regular-IDCW;19.8094;11-Jun-2026
  
 Sundaram Mutual Fund
  
@@ -4835,10 +4835,10 @@ Open Ended Schemes(Equity Scheme - Flexi Cap Fund)
  
 Abakkus Mutual Fund
  
-154043;INF2JJD01136;-;Abakkus Flexi Cap Fund - Direct - Growth;10.3470;10-Jun-2026
-154045;INF2JJD01128;INF2JJD01110;Abakkus Flexi Cap Fund - Direct - IDCW;10.3510;10-Jun-2026
-154041;INF2JJD01169;-;Abakkus Flexi Cap Fund - Regular - Growth;10.2800;10-Jun-2026
-154042;INF2JJD01151;INF2JJD01144;Abakkus Flexi Cap Fund - Regular - IDCW;10.2810;10-Jun-2026
+154043;INF2JJD01136;-;Abakkus Flexi Cap Fund - Direct - Growth;10.3240;11-Jun-2026
+154045;INF2JJD01128;INF2JJD01110;Abakkus Flexi Cap Fund - Direct - IDCW;10.3290;11-Jun-2026
+154041;INF2JJD01169;-;Abakkus Flexi Cap Fund - Regular - Growth;10.2580;11-Jun-2026
+154042;INF2JJD01151;INF2JJD01144;Abakkus Flexi Cap Fund - Regular - IDCW;10.2580;11-Jun-2026
  
 Aditya Birla Sun Life Mutual Fund
  
@@ -5074,10 +5074,10 @@ SBI Mutual Fund
  
 Shriram Mutual Fund
  
-144905;INF680P01109;-;Shriram Flexi Cap Fund - Direct Growth;21.725;10-Jun-2026
-144906;INF680P01117;INF680P01125;Shriram Flexi Cap Fund - Direct-IDCW;21.5074;10-Jun-2026
-144902;INF680P01075;-;Shriram Flexi Cap Fund - Regular Growth;18.9703;10-Jun-2026
-144903;INF680P01083;INF680P01091;Shriram Flexi Cap Fund - Regular-IDCW;18.9636;10-Jun-2026
+144905;INF680P01109;-;Shriram Flexi Cap Fund - Direct Growth;21.6402;11-Jun-2026
+144906;INF680P01117;INF680P01125;Shriram Flexi Cap Fund - Direct-IDCW;21.4235;11-Jun-2026
+144902;INF680P01075;-;Shriram Flexi Cap Fund - Regular Growth;18.8955;11-Jun-2026
+144903;INF680P01083;INF680P01091;Shriram Flexi Cap Fund - Regular-IDCW;18.8888;11-Jun-2026
  
 Sundaram Mutual Fund
  
@@ -7180,10 +7180,10 @@ quant Mutual Fund
  
 Quantum Mutual Fund
  
-147372;INF082J01382;-;QUANTUM ESG BEST IN CLASS STRATEGY FUND - DIRECT PLAN - GROWTH OPTION;23.25;10-Jun-2026
-147371;INF082J01390;-;QUANTUM ESG BEST IN CLASS STRATEGY FUND - REGULAR PLAN - GROWTH OPTION;21.76;10-Jun-2026
-153094;INF082J01473;-;Quantum Ethical Fund - Direct Plan Growth Option;9.40;10-Jun-2026
-153095;INF082J01481;-;Quantum Ethical Fund - Regular Plan Growth Option;9.21;10-Jun-2026
+147372;INF082J01382;-;QUANTUM ESG BEST IN CLASS STRATEGY FUND - DIRECT PLAN - GROWTH OPTION;23.06;11-Jun-2026
+147371;INF082J01390;-;QUANTUM ESG BEST IN CLASS STRATEGY FUND - REGULAR PLAN - GROWTH OPTION;21.58;11-Jun-2026
+153094;INF082J01473;-;Quantum Ethical Fund - Direct Plan Growth Option;9.34;11-Jun-2026
+153095;INF082J01481;-;Quantum Ethical Fund - Regular Plan Growth Option;9.14;11-Jun-2026
  
 Samco Mutual Fund
  
@@ -7257,8 +7257,8 @@ SBI Mutual Fund
  
 Shriram Mutual Fund
  
-153076;INF680P01455;-;Shriram Multi Sector Rotation Fund - Direct Plan Growth Option;7.8301;10-Jun-2026
-153077;INF680P01463;-;Shriram Multi Sector Rotation Fund - Regular Plan Growth Option;7.6323;10-Jun-2026
+153076;INF680P01455;-;Shriram Multi Sector Rotation Fund - Direct Plan Growth Option;7.7779;11-Jun-2026
+153077;INF680P01463;-;Shriram Multi Sector Rotation Fund - Regular Plan Growth Option;7.5811;11-Jun-2026
  
 Sundaram Mutual Fund
  
@@ -7458,8 +7458,8 @@ Open Ended Schemes(Equity Scheme - Small Cap Fund)
  
 Abakkus Mutual Fund
  
-154215;INF2JJD01177;-;Abakkus Small Cap Fund - Direct Plan - Growth;11.2600;10-Jun-2026
-154214;INF2JJD01185;-;Abakkus Small Cap Fund - Regular  Plan - Growth;11.2240;10-Jun-2026
+154215;INF2JJD01177;-;Abakkus Small Cap Fund - Direct Plan - Growth;11.1930;11-Jun-2026
+154214;INF2JJD01185;-;Abakkus Small Cap Fund - Regular  Plan - Growth;11.1560;11-Jun-2026
  
 Aditya Birla Sun Life Mutual Fund
  
@@ -7648,8 +7648,8 @@ quant Mutual Fund
  
 Quantum Mutual Fund
  
-152107;INF082J01432;-;QUANTUM SMALL CAP FUND - DIRECT PLAN GROWTH OPTION;13.35;10-Jun-2026
-152108;INF082J01440;-;QUANTUM SMALL CAP FUND - REGULAR PLAN GROWTH OPTION;12.84;10-Jun-2026
+152107;INF082J01432;-;QUANTUM SMALL CAP FUND - DIRECT PLAN GROWTH OPTION;13.24;11-Jun-2026
+152108;INF082J01440;-;QUANTUM SMALL CAP FUND - REGULAR PLAN GROWTH OPTION;12.73;11-Jun-2026
  
 Samco Mutual Fund
  
@@ -7836,10 +7836,10 @@ quant Mutual Fund
  
 Quantum Mutual Fund
  
-103490;INF082J01036;-;Quantum Value Fund - Direct Plan Growth Option;121.08;10-Jun-2026
-103491;INF082J01044;INF082J01051;Quantum Value Fund - Direct Plan IDCW;121.33;10-Jun-2026
-141068;INF082J01242;-;Quantum Value Fund - Regular Plan Growth Option;114.91;10-Jun-2026
-141069;INF082J01259;INF082J01267;Quantum Value Fund - Regular Plan IDCW;114.79;10-Jun-2026
+103490;INF082J01036;-;Quantum Value Fund - Direct Plan Growth Option;120.48;11-Jun-2026
+103491;INF082J01044;INF082J01051;Quantum Value Fund - Direct Plan IDCW;120.73;11-Jun-2026
+141068;INF082J01242;-;Quantum Value Fund - Regular Plan Growth Option;114.34;11-Jun-2026
+141069;INF082J01259;INF082J01267;Quantum Value Fund - Regular Plan IDCW;114.21;11-Jun-2026
  
 Sundaram Mutual Fund
  
@@ -8139,10 +8139,10 @@ SBI Mutual Fund
  
 Shriram Mutual Fund
  
-125711;INF680P01042;-;Shriram Aggressive Hybrid Fund- Direct Growth;35.7822;10-Jun-2026
-125712;INF680P01059;INF680P01067;Shriram Aggressive Hybrid Fund- Direct- IDCW;28.1919;10-Jun-2026
-125713;INF680P01018;-;Shriram Aggressive Hybrid Fund- Regular Growth;30.798;10-Jun-2026
-125714;INF680P01026;INF680P01034;Shriram Aggressive Hybrid Fund- Regular-IDCW;24.6252;10-Jun-2026
+125711;INF680P01042;-;Shriram Aggressive Hybrid Fund- Direct Growth;35.6835;11-Jun-2026
+125712;INF680P01059;INF680P01067;Shriram Aggressive Hybrid Fund- Direct- IDCW;28.1141;11-Jun-2026
+125713;INF680P01018;-;Shriram Aggressive Hybrid Fund- Regular Growth;30.7116;11-Jun-2026
+125714;INF680P01026;INF680P01034;Shriram Aggressive Hybrid Fund- Regular-IDCW;24.5561;11-Jun-2026
  
 Sundaram Mutual Fund
  
@@ -8901,10 +8901,10 @@ SBI Mutual Fund
  
 Shriram Mutual Fund
  
-147406;INF680P01208;-;Shriram Balanced Advantage Fund - Direct Growth;18.2782;10-Jun-2026
-147403;INF680P01216;INF680P01224;Shriram Balanced Advantage Fund - Direct- IDCW;18.123;10-Jun-2026
-147405;INF680P01174;-;Shriram Balanced Advantage Fund - Regular Growth;16.0672;10-Jun-2026
-147404;INF680P01182;INF680P01190;Shriram Balanced Advantage Fund - Regular-IDCW;16.0893;10-Jun-2026
+147406;INF680P01208;-;Shriram Balanced Advantage Fund - Direct Growth;18.2354;11-Jun-2026
+147403;INF680P01216;INF680P01224;Shriram Balanced Advantage Fund - Direct- IDCW;18.0804;11-Jun-2026
+147405;INF680P01174;-;Shriram Balanced Advantage Fund - Regular Growth;16.0288;11-Jun-2026
+147404;INF680P01182;INF680P01190;Shriram Balanced Advantage Fund - Regular-IDCW;16.0508;11-Jun-2026
  
 Sundaram Mutual Fund
  
@@ -9381,8 +9381,8 @@ quant Mutual Fund
  
 Quantum Mutual Fund
  
-152474;INF082J01457;-;Quantum Multi Asset Allocation Fund - Direct Plan Growth Option;11.97;10-Jun-2026
-152475;INF082J01465;-;Quantum Multi Asset Allocation Fund - Regular Plan Growth Option;11.55;10-Jun-2026
+152474;INF082J01457;-;Quantum Multi Asset Allocation Fund - Direct Plan Growth Option;11.92;11-Jun-2026
+152475;INF082J01465;-;Quantum Multi Asset Allocation Fund - Regular Plan Growth Option;11.50;11-Jun-2026
  
 Samco Mutual Fund
  
@@ -9402,8 +9402,8 @@ SBI Mutual Fund
  
 Shriram Mutual Fund
  
-152051;INF680P01406;-;Shriram Multi Asset Allocation Fund - Direct Growth;13.3581;10-Jun-2026
-152052;INF680P01414;-;Shriram Multi Asset Allocation Fund - Regular Growth;12.7113;10-Jun-2026
+152051;INF680P01406;-;Shriram Multi Asset Allocation Fund - Direct Growth;13.3105;11-Jun-2026
+152052;INF680P01414;-;Shriram Multi Asset Allocation Fund - Regular Growth;12.6655;11-Jun-2026
  
 Sundaram Mutual Fund
  
@@ -10158,8 +10158,8 @@ Quantum Mutual Fund
 112038;INF082J01101;INF082J01119;Quantum Diversified Equity All Cap Active FOF - Direct Plan IDCW;81.119;10-Jun-2026
 141063;INF082J01275;-;Quantum Diversified Equity All Cap Active FOF - Regular Plan Growth Option;79.692;10-Jun-2026
 141062;INF082J01283;INF082J01291;Quantum Diversified Equity All Cap Active FOF - Regular Plan IDCW;79.490;10-Jun-2026
-115132;INF082J01150;-;Quantum Gold Savings Fund - Direct Plan Growth Option;56.0842;10-Jun-2026
-141064;INF082J01358;-;Quantum Gold Savings Fund - Regular Plan Growth Option;55.2333;10-Jun-2026
+115132;INF082J01150;-;Quantum Gold Savings Fund - Direct Plan Growth Option;55.3266;11-Jun-2026
+141064;INF082J01358;-;Quantum Gold Savings Fund - Regular Plan Growth Option;54.4866;11-Jun-2026
 117608;INF082J01168;-;Quantum Multi Asset Active FOF - Direct Plan Growth Option;36.3550;10-Jun-2026
 141072;INF082J01341;-;Quantum Multi Asset Active FOF - Regular Plan Growth Option;35.4089;10-Jun-2026
 150390;INF082J01416;-;Quantum Nifty 50 ETF Fund of Fund - Direct Plan - Growth;13.7768;10-Jun-2026
@@ -10583,7 +10583,7 @@ Nippon India Mutual Fund
  
 Quantum Mutual Fund
  
-107693;INF082J01408;-;Quantum Gold Fund;121.1499;10-Jun-2026
+107693;INF082J01408;-;Quantum Gold Fund;119.5447;11-Jun-2026
  
 SBI Mutual Fund
  
@@ -12327,7 +12327,7 @@ Nippon India Mutual Fund
  
 Quantum Mutual Fund
  
-108479;INF082J01499;-;Quantum Nifty 50 ETF;254.3744;10-Jun-2026
+108479;INF082J01499;-;Quantum Nifty 50 ETF;253.7909;11-Jun-2026
  
 SBI Mutual Fund
  
@@ -12354,7 +12354,7 @@ SBI Mutual Fund
  
 Shriram Mutual Fund
  
-152741;INF680P01422;-;Shriram Nifty 1D Rate Liquid ETF - Growth;1108.0001;10-Jun-2026
+152741;INF680P01422;-;Shriram Nifty 1D Rate Liquid ETF - Growth;1108.1398;11-Jun-2026
  
 Tata Mutual Fund
  
