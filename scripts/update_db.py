@@ -8,6 +8,7 @@ DB_NAME = "mf.db"
 def create_tables(conn):
     """Initializes the SQLite table with a composite Primary Key."""
     cur = conn.cursor()
+    # CHANGED: 'nav REAL' to 'nav_value REAL' for uniform schema access
     cur.execute("""
     CREATE TABLE IF NOT EXISTS nav_history(
         scheme_code TEXT,
@@ -16,7 +17,7 @@ def create_tables(conn):
         isin_div_payout_growth TEXT,
         isin_div_reinvestment TEXT,
         scheme_name TEXT,
-        nav REAL,
+        nav_value REAL,  
         nav_date TEXT,
         PRIMARY KEY (scheme_code, nav_date)
     )
