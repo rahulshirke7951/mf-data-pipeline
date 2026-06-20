@@ -1,0 +1,56 @@
+name: Delete Old Releases
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'  # Weekly (Sunday)
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Run in dry mode (true/false)"
+        required: false
+        default: "true"
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Delete releases older than 30 days
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: rahulshirke7951/mf-data-pipeline
+          DRY_RUN: ${{ github.event.inputs.dry_run || 'true' }}
+        run: |
+          echo "Dry run mode: $DRY_RUN"
+
+          cutoff_date=$(date -d '30 days ago' +%s)
+
+          releases=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
+            https://api.github.com/repos/$REPO/releases)
+
+          echo "$releases" | jq -c '.[]' | while read release; do
+            created_at=$(echo $release | jq -r '.created_at')
+            id=$(echo $release | jq -r '.id')
+            tag=$(echo $release | jq -r '.tag_name')
+
+            created_ts=$(date -d "$created_at" +%s)
+
+            if [ "$created_ts" -lt "$cutoff_date" ]; then
+              echo "⚠️ Old release found: $tag ($created_at)"
+
+              if [ "$DRY_RUN" = "true" ]; then
+                echo "👉 DRY RUN: Would delete release ID $id"
+              else
+                echo "🗑 Deleting release ID $id"
+
+                curl -s -X DELETE \
+                  -H "Authorization: token $GITHUB_TOKEN" \
+                  https://api.github.com/repos/$REPO/releases/$id
+
+                # Delete tag also
+                curl -s -X DELETE \
+                  -H "Authorization: token $GITHUB_TOKEN" \
+                  https://api.github.com/repos/$REPO/git/refs/tags/$tag
+              fi
+            fi
+          done
