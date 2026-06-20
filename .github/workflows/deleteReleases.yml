@@ -10,7 +10,7 @@ on:
         default: "false"
       keep_latest:
         description: "Number of latest releases to keep"
-        default: "5"
+        default: "20"
 
 jobs:
   cleanup:
