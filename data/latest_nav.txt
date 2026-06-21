@@ -1983,16 +1983,16 @@ Quantum Mutual Fund
  
 SBI Mutual Fund
  
-119804;INF200K01UR8;INF200K01US6;SBI Liquid Fund - Direct Paln - Fortnightly Income Distribution cum Capital Withdrawal Option (IDCW);1428.8478;20-Jun-2026
-119805;-;INF200K01UQ0;SBI Liquid Fund - Direct Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);1144.2418;20-Jun-2026
-119799;INF200K01UU2;INF200K01UV0;SBI Liquid Fund - Direct Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);1385.7314;20-Jun-2026
-119800;INF200K01UT4;-;SBI Liquid Fund - DIRECT PLAN -Growth;4375.5825;20-Jun-2026
-105274;INF200K01LU1;-;SBI Liquid Fund - Institutional - Growth;4368.0527;20-Jun-2026
-105275;-;INF200K01LR7;SBI Liquid Fund - Institutional Daily Income Distribution cum Capital Withdrawal Option (IDCW);1403.2974;20-Jun-2026
-105281;-;INF200K01LX5;SBI Liquid Fund - Regular Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);1140.9290;20-Jun-2026
-105283;INF200K01LY3;INF200K01LZ0;SBI Liquid Fund - Regular Plan - Fortnightly Income Distribution cum Capital Withdrawal Option (IDCW);1420.0847;20-Jun-2026
-105282;INF200K01MB9;INF200K01MC7;SBI Liquid Fund - Regular Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);1378.8353;20-Jun-2026
-105280;INF200K01MA1;-;SBI Liquid Fund - REGULAR PLAN -Growth;4327.1351;20-Jun-2026
+119804;INF200K01UR8;INF200K01US6;SBI Liquid Fund - Direct Paln - Fortnightly Income Distribution cum Capital Withdrawal Option (IDCW);1429.0893;21-Jun-2026
+119805;-;INF200K01UQ0;SBI Liquid Fund - Direct Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);1144.0484;21-Jun-2026
+119799;INF200K01UU2;INF200K01UV0;SBI Liquid Fund - Direct Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);1385.9656;21-Jun-2026
+119800;INF200K01UT4;-;SBI Liquid Fund - DIRECT PLAN -Growth;4376.3220;21-Jun-2026
+105274;INF200K01LU1;-;SBI Liquid Fund - Institutional - Growth;4368.7795;21-Jun-2026
+105275;-;INF200K01LR7;SBI Liquid Fund - Institutional Daily Income Distribution cum Capital Withdrawal Option (IDCW);1403.5309;21-Jun-2026
+105281;-;INF200K01LX5;SBI Liquid Fund - Regular Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);1140.7391;21-Jun-2026
+105283;INF200K01LY3;INF200K01LZ0;SBI Liquid Fund - Regular Plan - Fortnightly Income Distribution cum Capital Withdrawal Option (IDCW);1420.3211;21-Jun-2026
+105282;INF200K01MB9;INF200K01MC7;SBI Liquid Fund - Regular Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);1379.0647;21-Jun-2026
+105280;INF200K01MA1;-;SBI Liquid Fund - REGULAR PLAN -Growth;4327.8553;21-Jun-2026
  
 Shriram Mutual Fund
  
@@ -2081,27 +2081,27 @@ Union Mutual Fund
  
 UTI Mutual Fund
  
-134427;INF789FA1K63;INF789FA1K71;UTI Liquid Fund - Direct Plan - Annual IDCW;201.8586;20-Jun-2026
-120558;-;INF789F01XP8;UTI Liquid Fund - Direct Plan - Daily IDCW (Reinvestment);106.5304;20-Jun-2026
-141768;INF789FA1K89;INF789FA1K97;UTI Liquid Fund - Direct Plan - Flexi IDCW;166.2598;20-Jun-2026
-140913;INF789FA1K06;INF789FA1K14;UTI Liquid Fund - Direct Plan - Fortnightly IDCW;115.7307;20-Jun-2026
-140504;INF789FA1K48;INF789FA1K55;UTI Liquid Fund - Direct Plan - Half-Yearly IDCW;157.6779;20-Jun-2026
-120794;INF789F01XR4;INF789F01XS2;UTI Liquid Fund - Direct Plan - Monthly IDCW;104.7731;20-Jun-2026
-140024;INF789FA1K22;INF789FA1K30;UTI Liquid Fund - Direct Plan - Quarterly IDCW;190.6416;20-Jun-2026
-120777;-;INF789F01XT0;UTI Liquid Fund - Direct Plan - Weekly IDCW;107.472;20-Jun-2026
-133973;INF789FA1J66;INF789FA1J74;UTI Liquid Fund - Regular Plan - Annual IDCW;200.3854;20-Jun-2026
-102010;-;INF789F01PG3;UTI Liquid Fund - Regular Plan - Daily IDCW (Reinvestment);119.6264;20-Jun-2026
-140517;INF789FA1J82;INF789FA1J90;UTI Liquid Fund - Regular Plan - Flexi IDCW;165.1532;20-Jun-2026
-139838;INF789FA1J09;INF789FA1J17;UTI Liquid Fund - Regular Plan - Fortnightly IDCW;115.6453;20-Jun-2026
-144475;INF789FA1J41;INF789FA1J58;UTI Liquid Fund - Regular Plan - Half-Yearly IDCW;139.554;20-Jun-2026
-102011;INF789F01PI9;INF789F01PJ7;UTI Liquid Fund - Regular Plan - Monthly IDCW;113.0266;20-Jun-2026
-135721;INF789FA1J25;INF789FA1J33;UTI Liquid Fund - Regular Plan - Quarterly IDCW;189.2083;20-Jun-2026
-102013;-;INF789F01PK5;UTI Liquid Fund - Regular Plan - Weekly IDCW;105.3463;20-Jun-2026
-120304;INF789F01XQ6;-;UTI-  Liquid Cash Plan - Direct Plan - Growth Option;458.9915;20-Jun-2026
-102012;INF789F01PH1;-;UTI-  Liquid Cash Plan - Regular Plan - Growth Option;454.4497;20-Jun-2026
-102008;INF789F01BC2;INF789F01BA6;UTI-  Liquid Cash Plan- Discontinued - Regular Plan - Monthly Dividend Option;106.7488;20-Jun-2026
-102009;INF789F01BB4;-;UTI-  Liquid Cash Plan- Discontinued - Regular Plan -Growth;412.3858;20-Jun-2026
-102007;-;INF789F01AZ5;UTI-  Liquid Cash Plan- Discontinued -Regular Plan Periodic Dividend Option;113.6309;20-Jun-2026
+134427;INF789FA1K63;INF789FA1K71;UTI Liquid Fund - Direct Plan - Annual IDCW;201.8934;21-Jun-2026
+120558;-;INF789F01XP8;UTI Liquid Fund - Direct Plan - Daily IDCW (Reinvestment);106.5304;21-Jun-2026
+141768;INF789FA1K89;INF789FA1K97;UTI Liquid Fund - Direct Plan - Flexi IDCW;166.2885;21-Jun-2026
+140913;INF789FA1K06;INF789FA1K14;UTI Liquid Fund - Direct Plan - Fortnightly IDCW;115.7507;21-Jun-2026
+140504;INF789FA1K48;INF789FA1K55;UTI Liquid Fund - Direct Plan - Half-Yearly IDCW;157.7051;21-Jun-2026
+120794;INF789F01XR4;INF789F01XS2;UTI Liquid Fund - Direct Plan - Monthly IDCW;104.7912;21-Jun-2026
+140024;INF789FA1K22;INF789FA1K30;UTI Liquid Fund - Direct Plan - Quarterly IDCW;190.6745;21-Jun-2026
+120777;-;INF789F01XT0;UTI Liquid Fund - Direct Plan - Weekly IDCW;107.4905;21-Jun-2026
+133973;INF789FA1J66;INF789FA1J74;UTI Liquid Fund - Regular Plan - Annual IDCW;200.4193;21-Jun-2026
+102010;-;INF789F01PG3;UTI Liquid Fund - Regular Plan - Daily IDCW (Reinvestment);119.6466;21-Jun-2026
+140517;INF789FA1J82;INF789FA1J90;UTI Liquid Fund - Regular Plan - Flexi IDCW;165.1812;21-Jun-2026
+139838;INF789FA1J09;INF789FA1J17;UTI Liquid Fund - Regular Plan - Fortnightly IDCW;115.6649;21-Jun-2026
+144475;INF789FA1J41;INF789FA1J58;UTI Liquid Fund - Regular Plan - Half-Yearly IDCW;139.578;21-Jun-2026
+102011;INF789F01PI9;INF789F01PJ7;UTI Liquid Fund - Regular Plan - Monthly IDCW;113.0457;21-Jun-2026
+135721;INF789FA1J25;INF789FA1J33;UTI Liquid Fund - Regular Plan - Quarterly IDCW;189.2404;21-Jun-2026
+102013;-;INF789F01PK5;UTI Liquid Fund - Regular Plan - Weekly IDCW;105.3642;21-Jun-2026
+120304;INF789F01XQ6;-;UTI-  Liquid Cash Plan - Direct Plan - Growth Option;459.0706;21-Jun-2026
+102012;INF789F01PH1;-;UTI-  Liquid Cash Plan - Regular Plan - Growth Option;454.5266;21-Jun-2026
+102008;INF789F01BC2;INF789F01BA6;UTI-  Liquid Cash Plan- Discontinued - Regular Plan - Monthly Dividend Option;106.7669;21-Jun-2026
+102009;INF789F01BB4;-;UTI-  Liquid Cash Plan- Discontinued - Regular Plan -Growth;412.4557;21-Jun-2026
+102007;-;INF789F01AZ5;UTI-  Liquid Cash Plan- Discontinued -Regular Plan Periodic Dividend Option;113.6501;21-Jun-2026
  
 WhiteOak Capital Mutual Fund
  
@@ -3621,12 +3621,12 @@ Samco Mutual Fund
  
 SBI Mutual Fund
  
-119831;-;INF200K01TJ7;SBI Overnight Fund - Direct Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);1374.6983;20-Jun-2026
-119833;INF200K01TK5;-;SBI OVERNIGHT FUND - DIRECT PLAN - GROWTH;4428.9656;20-Jun-2026
-119832;INF200K01TL3;INF200K01TM1;SBI Overnight Fund - Direct Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);1403.7619;20-Jun-2026
-114297;-;INF200K01LN6;SBI Overnight Fund - Regular Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);1368.4080;20-Jun-2026
-101206;INF200K01LQ9;-;SBI OVERNIGHT FUND - REGULAR PLAN - GROWTH;4369.1514;20-Jun-2026
-103140;INF200K01LO4;INF200K01LP1;SBI Overnight Fund - Regular Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);1397.2374;20-Jun-2026
+119831;-;INF200K01TJ7;SBI Overnight Fund - Direct Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);1374.8920;21-Jun-2026
+119833;INF200K01TK5;-;SBI OVERNIGHT FUND - DIRECT PLAN - GROWTH;4429.5897;21-Jun-2026
+119832;INF200K01TL3;INF200K01TM1;SBI Overnight Fund - Direct Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);1403.9597;21-Jun-2026
+114297;-;INF200K01LN6;SBI Overnight Fund - Regular Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW);1368.5986;21-Jun-2026
+101206;INF200K01LQ9;-;SBI OVERNIGHT FUND - REGULAR PLAN - GROWTH;4369.7600;21-Jun-2026
+103140;INF200K01LO4;INF200K01LP1;SBI Overnight Fund - Regular Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW);1397.4320;21-Jun-2026
  
 Shriram Mutual Fund
  
@@ -3681,12 +3681,12 @@ Union Mutual Fund
  
 UTI Mutual Fund
  
-100814;INF789F01604;-;UTI - Overnight  Fund - Regular Plan - Growth Option;3686.8142;20-Jun-2026
-120785;INF789FB1S71;-;UTI - Overnight Fund - Direct Plan - Growth Option;3728.6722;20-Jun-2026
-124266;-;INF789FB1S89;UTI Overnight Fund - Direct Plan - Daily IDCW;1371.6621;20-Jun-2026
-120786;INF789FB1T05;INF789FB1S97;UTI Overnight Fund - Direct Plan - Periodic IDCW;1956.859;20-Jun-2026
-124265;-;INF789FB1T13;UTI Overnight Fund - Regular Plan - Daily IDCW;1370.8617;20-Jun-2026
-100813;INF789F01588;INF789F01596;UTI Overnight Fund - Regular Plan - Periodic IDCW;1899.3184;20-Jun-2026
+100814;INF789F01604;-;UTI - Overnight  Fund - Regular Plan - Growth Option;3687.3293;21-Jun-2026
+120785;INF789FB1S71;-;UTI - Overnight Fund - Direct Plan - Growth Option;3729.199;21-Jun-2026
+124266;-;INF789FB1S89;UTI Overnight Fund - Direct Plan - Daily IDCW;1371.6621;21-Jun-2026
+120786;INF789FB1T05;INF789FB1S97;UTI Overnight Fund - Direct Plan - Periodic IDCW;1957.1355;21-Jun-2026
+124265;-;INF789FB1T13;UTI Overnight Fund - Regular Plan - Daily IDCW;1370.8617;21-Jun-2026
+100813;INF789F01588;INF789F01596;UTI Overnight Fund - Regular Plan - Periodic IDCW;1899.5837;21-Jun-2026
  
 Zerodha Mutual Fund
  
@@ -12350,8 +12350,8 @@ SBI Mutual Fund
 121109;INF200K01VT2;-;SBI BSE SENSEX ETF;854.0732;19-Jun-2026
 144916;INF200KA1VQ2;-;SBI BSE Sensex Next 50 ETF;937.3412;19-Jun-2026
 139430;INF200KA1JT1;-;SBI Nifty 10 yr Benchmark G-Sec ETF;262.0852;19-Jun-2026
-153796;INF200KB1969;-;SBI Nifty 1D Rate Liquid ETF - Growth;1043.7148;19-Jun-2026
-152168;-;INF200KA13Z8;SBI NIFTY 1D Rate Liquid ETF - IDCW;1000.0000;19-Jun-2026
+153796;INF200KB1969;-;SBI Nifty 1D Rate Liquid ETF - Growth;1043.9958;21-Jun-2026
+152168;-;INF200KA13Z8;SBI NIFTY 1D Rate Liquid ETF - IDCW;1000.0000;21-Jun-2026
 145648;INF200KA1WX6;-;SBI Nifty 200 Quality 30 ETF;218.3436;19-Jun-2026
 135106;INF200KA1FS1;-;SBI Nifty 50 ETF;257.9194;19-Jun-2026
 134008;INF200KA1580;-;SBI Nifty Bank ETF;592.5037;19-Jun-2026
